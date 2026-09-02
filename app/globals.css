@@ -1,2 +1,12 @@
 @import "tailwindcss";
 @import "../styles/original.css";
+
+main#page.page-category {
+  padding-top: 1.493rem !important;
+}
+
+@media (min-width: 1280px) {
+  main#page.page-category {
+    padding-top: 80px !important;
+  }
+}
