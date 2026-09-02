@@ -13,6 +13,6 @@ main#page.page-category {
 
 @media (max-width: 1279px) {
   .page-category .category-filter {
-    display: none;
+    display: none !important;
   }
 }
