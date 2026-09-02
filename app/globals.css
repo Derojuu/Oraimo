@@ -10,3 +10,9 @@ main#page.page-category {
     padding-top: 80px !important;
   }
 }
+
+@media (max-width: 1279px) {
+  .page-category .category-filter {
+    display: none;
+  }
+}
