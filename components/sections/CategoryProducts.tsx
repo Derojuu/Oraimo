@@ -1,0 +1,9231 @@
+export function CategoryProducts() {
+  return (
+    <>
+      <div className="category-main">
+        <section className="category-list">
+          <div className="category-list-result">
+            <span>426</span> Results for <strong>"oraimo Daily Deals"</strong>
+          </div>
+          <div className="category-list-container">
+            <div className="site-item" data-id="4275">
+              <a
+                className="js_select_item js_load_item"
+                href="https://ng.oraimo.com/product/oraimo-plantinum-vip-membership?ean=OEB-311-BLACK-LIVE"
+                data-id="4275"
+                data-sku="OEB-311-BLACK-LIVE"
+                data-name="Platinum Membership Online VIP Membership Card"
+                data-price="29.6"
+                data-category="Daily Deals"
+                data-section-type="list"
+                data-section-name="oraimo Daily Deals"
+                data-select="1"
+              >
+                <div className="item-container">
+                  <img
+                    className="item-picture lazyloaded"
+                    alt="Platinum Membership Online VIP Membership Card"
+                    data-src="https://cdn-img.oraimo.com/fit-in/540x540/CI/product/2025/10/31/OEB-311-VIP.png"
+                    src="/images/oraimo-930864a695681934.webp"
+                  />
+                  <div
+                    className="item-tag"
+                    style={{ borderColor: "rgb(8,181,4)" }}
+                  >
+                    <span
+                      className="item-tag-content"
+                      style={{ backgroundColor: "rgb(8,181,4)" }}
+                    >
+                      {" "}
+                      eShop Exclusive{" "}
+                    </span>
+                  </div>
+                  <div className="item-review">
+                    <span className="item-review-score">4.8</span>
+                    <svg
+                      width="18"
+                      height="18"
+                      viewBox="0 0 18 18"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                      className="item-review-star"
+                    >
+                      <path
+                        d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                        fill="#82E600"
+                      ></path>
+                    </svg>
+                    <span className="item-review-count">(87)</span>
+                  </div>
+                </div>
+                <div className="item-content">
+                  <p className="item-title">
+                    {" "}
+                    Platinum Membership Online VIP Membership Card{" "}
+                  </p>
+                  <p className="item-point">
+                    <span className="item-point-container">
+                      <img
+                        className="item-point-icon lazyloaded"
+                        alt="Free Gift*1"
+                        data-src="https://cdn-img.oraimo.com/NG/2024/10/31/better-handfeel.svg"
+                        src="/images/oraimo-9a3223f81c31cab3.svg"
+                      />
+                      <svg
+                        data-v-02c2eb76
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="20"
+                        height="20"
+                        viewBox="0 0 20 20"
+                        fill="none"
+                      >
+                        <circle
+                          data-v-02c2eb76
+                          opacity="0.3"
+                          cx="10"
+                          cy="10"
+                          r="9.75"
+                          stroke="#EEEEEE"
+                          strokeWidth="0.5"
+                        ></circle>
+                      </svg>
+                    </span>
+                    <span className="item-point-title">Free Gift*1</span>
+                  </p>
+                  <div className="item-price">
+                    <div className="item-price-main">
+                      <span className="item-price-final">
+                        <span>₦ 42,900</span>
+                        <span className="item-price-discount sf-hidden">
+                          -10%
+                        </span>
+                      </span>
+                      <del className="item-price-market">₦ 47,900</del>
+                    </div>
+                    <span className="item-price-discount">-10%</span>
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div className="site-item" data-id="4344">
+              <a
+                className="js_select_item js_load_item"
+                href="https://ng.oraimo.com/product/powerjet-501-fully-charges-phone-up-to-11-times-smart-power-display-4-device-charging-power-bank-opb-750sq?ean=4894947094668"
+                data-id="4344"
+                data-sku="OPB-750SQ"
+                data-name="PowerJet 501 oraimo PowerJet 501 50000mAh Power Bank"
+                data-price="50.3"
+                data-category="Power Bank 50000mah"
+                data-section-type="list"
+                data-section-name="oraimo Daily Deals"
+                data-select="1"
+              >
+                <div className="item-container">
+                  <img
+                    className="item-picture lazyloaded"
+                    alt="PowerJet 501 oraimo PowerJet 501 50000mAh Power Bank"
+                    data-src="https://cdn-img.oraimo.com/fit-in/540x540/AO/product/2025/09/28/OPB-750SQ-4-Device-Charging-Fully-Charges-Phone-Up-to-11-Time-PowerJet-501-12.png"
+                    src="/images/oraimo-c05f2362ad83b746.webp"
+                  />
+                  <div className="item-review">
+                    <span
+                      className="item-review-score"
+                      style={{ display: "inline" }}
+                    >
+                      4.8
+                    </span>
+                    <svg
+                      width="18"
+                      height="18"
+                      viewBox="0 0 18 18"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                      className="item-review-star"
+                    >
+                      <path
+                        d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                        fill="#82E600"
+                      ></path>
+                    </svg>
+                    <span className="item-review-count">(1032)</span>
+                  </div>
+                </div>
+                <div className="item-content">
+                  <p className="item-title">
+                    {" "}
+                    PowerJet 501 oraimo PowerJet 501 50000mAh Power Bank{" "}
+                  </p>
+                  <p className="item-point">
+                    <span className="item-point-container">
+                      <img
+                        className="item-point-icon lazyloaded"
+                        alt="4 device charging"
+                        data-src="https://cdn-img.oraimo.com/AO/2025/10/14/4-device-charging.svg"
+                        src="/images/oraimo-03c5f84d674a92b1.svg"
+                      />
+                      <svg
+                        data-v-02c2eb76
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="20"
+                        height="20"
+                        viewBox="0 0 20 20"
+                        fill="none"
+                      >
+                        <circle
+                          data-v-02c2eb76
+                          opacity="0.3"
+                          cx="10"
+                          cy="10"
+                          r="9.75"
+                          stroke="#EEEEEE"
+                          strokeWidth="0.5"
+                        ></circle>
+                      </svg>
+                    </span>
+                    <span className="item-point-title">4 device charging</span>
+                  </p>
+                  <div className="item-price">
+                    <div className="item-price-main">
+                      <span className="item-price-final">
+                        <span>₦ 72,900</span>
+                        <span className="item-price-discount sf-hidden">
+                          -10%
+                        </span>
+                      </span>
+                      <del className="item-price-market">₦ 81,000</del>
+                    </div>
+                    <span className="item-price-discount">-10%</span>
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div className="site-item" data-id="6762">
+              <a
+                className="js_select_item js_load_item"
+                href="https://ng.oraimo.com/product/oraimo-spacebuds-lite-2-immersive-portable-true-wireless-earbuds-otw-325?ean=4894947121425"
+                data-id="6762"
+                data-sku="OTW-325-GRAPHITEBLACK"
+                data-name="SpaceBuds Lite 2 Immersive Portable True Wireless Earbuds"
+                data-price="13.66"
+                data-category="Wireless Stereo Earbuds"
+                data-section-type="list"
+                data-section-name="oraimo Daily Deals"
+                data-select="1"
+              >
+                <div className="item-container">
+                  <img
+                    className="item-picture lazyloaded"
+                    alt="SpaceBuds Lite 2 Immersive Portable True Wireless Earbuds"
+                    data-src="https://cdn-img.oraimo.com/fit-in/540x540/NG/product/2026/06/24/OTW-325-GRAPHITEBLACK-MAIN.png"
+                    src="/images/oraimo-04228128bf5f424a.webp"
+                  />
+                  <div
+                    className="item-tag"
+                    style={{ borderColor: "rgb(130,230,0)" }}
+                  >
+                    <span
+                      className="item-tag-content"
+                      style={{ backgroundColor: "rgb(130,230,0)" }}
+                    >
+                      {" "}
+                      New Arrival{" "}
+                    </span>
+                  </div>
+                  <div className="item-review">
+                    <span className="item-review-score">4.8</span>
+                    <svg
+                      width="18"
+                      height="18"
+                      viewBox="0 0 18 18"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                      className="item-review-star"
+                    >
+                      <path
+                        d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                        fill="#82E600"
+                      ></path>
+                    </svg>
+                    <span className="item-review-count">(33)</span>
+                  </div>
+                </div>
+                <div className="item-content">
+                  <p className="item-title">
+                    {" "}
+                    SpaceBuds Lite 2 Immersive Portable True Wireless
+                    Earbuds{" "}
+                  </p>
+                  <p className="item-point">
+                    <span className="item-point-container">
+                      <img
+                        className="item-point-icon lazyloaded"
+                        alt="AI translation"
+                        data-src="https://cdn-img.oraimo.com/GH/2026/06/18/ai-translation.svg"
+                        src="/images/oraimo-96f7b4a201d2d62a.svg"
+                      />
+                      <svg
+                        data-v-02c2eb76
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="20"
+                        height="20"
+                        viewBox="0 0 20 20"
+                        fill="none"
+                      >
+                        <circle
+                          data-v-02c2eb76
+                          opacity="0.3"
+                          cx="10"
+                          cy="10"
+                          r="9.75"
+                          stroke="#EEEEEE"
+                          strokeWidth="0.5"
+                        ></circle>
+                      </svg>
+                    </span>
+                    <span className="item-point-title">AI translation</span>
+                  </p>
+                  <div className="item-price">
+                    <div className="item-price-main">
+                      <span className="item-price-final">
+                        <span>₦ 19,800</span>
+                        <span className="item-price-discount sf-hidden">
+                          -20%
+                        </span>
+                      </span>
+                      <del className="item-price-market">₦ 24,700</del>
+                    </div>
+                    <span className="item-price-discount">-20%</span>
+                  </div>
+                </div>
+              </a>
+              <a
+                data-v-4e36107e
+                href="https://ng.oraimo.com/trend?type=2&rank_id=0&category_id=229&category_rank_type=2"
+                className="module-common-trend"
+              >
+                <svg
+                  data-v-4e36107e
+                  width="14"
+                  height="14"
+                  viewBox="0 0 14 14"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                  className="trend-top"
+                >
+                  <path
+                    d="M0 1.75C0 0.783501 0.783502 0 1.75 0H12.25C13.2165 0 14 0.783502 14 1.75V9.71848C14 10.4071 13.5961 11.0317 12.9681 11.3143L7.71814 13.6768C7.26143 13.8824 6.73857 13.8824 6.28186 13.6768L1.03186 11.3143C0.403872 11.0317 0 10.4071 0 9.71848L0 1.75Z"
+                    fill="url(#paint0_linear_10018_17757)"
+                  ></path>
+                  <path
+                    d="M1.96875 0.765625H12.0312C12.6957 0.765625 13.2344 1.30428 13.2344 1.96875V9.61133C13.2344 10.0829 12.9585 10.5117 12.5293 10.707L7.49805 12.9971C7.18165 13.1409 6.81835 13.1409 6.50195 12.9971L1.4707 10.707C1.0415 10.5117 0.765625 10.0829 0.765625 9.61133V1.96875C0.765626 1.30428 1.30428 0.765625 1.96875 0.765625Z"
+                    stroke="url(#paint1_linear_10018_17757)"
+                    strokeWidth="0.21875"
+                  ></path>
+                  <path
+                    d="M2.765 8.0625V4.3665H3.70475V8.0625H2.765ZM1.62575 5.14875V4.34025H4.844V5.14875H1.62575ZM6.90836 8.13075C6.62136 8.13075 6.35711 8.08175 6.11561 7.98375C5.87411 7.88575 5.66236 7.74925 5.48036 7.57425C5.30186 7.39925 5.16186 7.1945 5.06036 6.96C4.95886 6.722 4.90811 6.4665 4.90811 6.1935C4.90811 5.9205 4.95711 5.6685 5.05511 5.4375C5.15661 5.203 5.29661 4.99825 5.47511 4.82325C5.65361 4.64825 5.86361 4.5135 6.10511 4.419C6.34661 4.321 6.61086 4.272 6.89786 4.272C7.18486 4.272 7.44911 4.321 7.69061 4.419C7.93211 4.5135 8.14211 4.64825 8.32061 4.82325C8.49911 4.99825 8.63736 5.203 8.73536 5.4375C8.83686 5.672 8.88761 5.92575 8.88761 6.19875C8.88761 6.47175 8.83686 6.7255 8.73536 6.96C8.63736 7.1945 8.49911 7.401 8.32061 7.5795C8.14211 7.7545 7.93211 7.891 7.69061 7.989C7.45261 8.0835 7.19186 8.13075 6.90836 8.13075ZM6.89786 7.29075C7.10786 7.29075 7.28986 7.24525 7.44386 7.15425C7.59786 7.06325 7.71686 6.9355 7.80086 6.771C7.88486 6.6065 7.92686 6.414 7.92686 6.1935C7.92686 6.0325 7.90236 5.8855 7.85336 5.7525C7.80786 5.6195 7.73961 5.50575 7.64861 5.41125C7.55761 5.31325 7.44911 5.238 7.32311 5.1855C7.19711 5.133 7.05536 5.10675 6.89786 5.10675C6.68786 5.10675 6.50586 5.15225 6.35186 5.24325C6.19786 5.33075 6.07886 5.45675 5.99486 5.62125C5.91086 5.78575 5.86886 5.9765 5.86886 6.1935C5.86886 6.3615 5.89161 6.51375 5.93711 6.65025C5.98611 6.78325 6.05611 6.89875 6.14711 6.99675C6.23811 7.09125 6.34661 7.16475 6.47261 7.21725C6.59861 7.26625 6.74036 7.29075 6.89786 7.29075ZM10.1031 6.729V6.03075H10.8381C10.9291 6.03075 11.0114 6.01325 11.0849 5.97825C11.1619 5.93975 11.2231 5.88375 11.2686 5.81025C11.3141 5.73675 11.3369 5.64575 11.3369 5.53725C11.3369 5.42875 11.3141 5.33775 11.2686 5.26425C11.2231 5.18725 11.1619 5.13125 11.0849 5.09625C11.0114 5.05775 10.9291 5.0385 10.8381 5.0385H10.1031V4.34025H11.0009C11.2389 4.34025 11.4541 4.38925 11.6466 4.48725C11.8391 4.58175 11.9914 4.71825 12.1034 4.89675C12.2154 5.07175 12.2714 5.28525 12.2714 5.53725C12.2714 5.78225 12.2154 5.99575 12.1034 6.17775C11.9914 6.35625 11.8391 6.49275 11.6466 6.58725C11.4541 6.68175 11.2389 6.729 11.0009 6.729H10.1031ZM9.35761 8.0625V4.34025H10.2974V8.0625H9.35761Z"
+                    fill="#923800"
+                  ></path>
+                  <defs>
+                    <linearGradient
+                      id="paint0_linear_10018_17757"
+                      x1="1.53125"
+                      y1="2.89655e-07"
+                      x2="11.8125"
+                      y2="12.25"
+                      gradientUnits="userSpaceOnUse"
+                    >
+                      <stop stopColor="#FDC775"></stop>
+                      <stop offset="0.528482" stopColor="#FFE7C6"></stop>
+                      <stop offset="1" stopColor="#E7A85C"></stop>
+                    </linearGradient>
+                    <linearGradient
+                      id="paint1_linear_10018_17757"
+                      x1="7"
+                      y1="0.65625"
+                      x2="7"
+                      y2="13.3438"
+                      gradientUnits="userSpaceOnUse"
+                    >
+                      <stop stopColor="#D27F4B"></stop>
+                      <stop offset="1" stopColor="#F1B55E"></stop>
+                    </linearGradient>
+                  </defs>
+                </svg>
+                <span data-v-4e36107e className="trend-name">
+                  oraimo Audio New Arrival
+                </span>
+                <span data-v-4e36107e className="trend-rank">
+                  #2
+                </span>
+                <svg
+                  data-v-b958d155
+                  data-v-4e36107e
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="8"
+                  height="8"
+                  viewBox="0 0 8 8"
+                  fill="none"
+                  className="trend-arrow"
+                >
+                  <path
+                    data-v-b958d155
+                    d="M2.6665 0.828125L5.83808 3.9997L2.6665 7.17127"
+                    stroke="#9A3412"
+                  ></path>
+                </svg>
+              </a>
+            </div>
+            <div className="site-item" data-id="2650">
+              <a
+                className="js_select_item js_load_item"
+                href="https://ng.oraimo.com/product/oraimo-watch-5-lite-ip68-hd-smart-watch-osw-804?ean=4894947058752"
+                data-id="2650"
+                data-sku="OSW-804-BLACK"
+                data-name="Watch 5 Lite oraimo Watch 5 Lite Smart Watch"
+                data-price="12.42"
+                data-category="Smart Watches"
+                data-section-type="list"
+                data-section-name="oraimo Daily Deals"
+                data-select="1"
+              >
+                <div className="item-container">
+                  <img
+                    className="item-picture lazyloaded"
+                    alt="Watch 5 Lite oraimo Watch 5 Lite Smart Watch"
+                    data-src="https://cdn-img.oraimo.com/fit-in/540x540/GH/product/2025/01/09/watch-5-lite-osw-804.png"
+                    src="/images/oraimo-af0b0870d5f0ebf6.webp"
+                  />
+                  <div className="item-review">
+                    <span className="item-review-score">4.8</span>
+                    <svg
+                      width="18"
+                      height="18"
+                      viewBox="0 0 18 18"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                      className="item-review-star"
+                    >
+                      <path
+                        d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                        fill="#82E600"
+                      ></path>
+                    </svg>
+                    <span className="item-review-count">(2413)</span>
+                  </div>
+                </div>
+                <div className="item-content">
+                  <p className="item-title">
+                    {" "}
+                    Watch 5 Lite oraimo Watch 5 Lite Smart Watch{" "}
+                  </p>
+                  <p className="item-point">
+                    <span className="item-point-container">
+                      <img
+                        className="item-point-icon lazyloaded"
+                        alt='2.01" HD Screen'
+                        data-src="https://cdn-img.oraimo.com/images/1.69-touch-screen.svg"
+                        src="/images/oraimo-6c483ad5ca84ae4c.svg"
+                      />
+                      <svg
+                        data-v-02c2eb76
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="20"
+                        height="20"
+                        viewBox="0 0 20 20"
+                        fill="none"
+                      >
+                        <circle
+                          data-v-02c2eb76
+                          opacity="0.3"
+                          cx="10"
+                          cy="10"
+                          r="9.75"
+                          stroke="#EEEEEE"
+                          strokeWidth="0.5"
+                        ></circle>
+                      </svg>
+                    </span>
+                    <span className="item-point-title">2.01" HD Screen</span>
+                  </p>
+                  <div className="item-price">
+                    <div className="item-price-main">
+                      <span className="item-price-final">
+                        <span>₦ 18,000</span>
+                        <span className="item-price-discount sf-hidden">
+                          -10%
+                        </span>
+                      </span>
+                      <del className="item-price-market">₦ 20,000</del>
+                    </div>
+                    <span className="item-price-discount">-10%</span>
+                  </div>
+                </div>
+              </a>
+              <a
+                data-v-4e36107e
+                href="https://ng.oraimo.com/trend?type=2&rank_id=0&category_id=238&category_rank_type=1"
+                className="module-common-trend"
+              >
+                <svg
+                  data-v-4e36107e
+                  width="14"
+                  height="14"
+                  viewBox="0 0 14 14"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                  className="trend-top"
+                >
+                  <path
+                    d="M0 1.75C0 0.783501 0.783502 0 1.75 0H12.25C13.2165 0 14 0.783502 14 1.75V9.71848C14 10.4071 13.5961 11.0317 12.9681 11.3143L7.71814 13.6768C7.26143 13.8824 6.73857 13.8824 6.28186 13.6768L1.03186 11.3143C0.403872 11.0317 0 10.4071 0 9.71848L0 1.75Z"
+                    fill="url(#paint0_linear_10018_17757)"
+                  ></path>
+                  <path
+                    d="M1.96875 0.765625H12.0312C12.6957 0.765625 13.2344 1.30428 13.2344 1.96875V9.61133C13.2344 10.0829 12.9585 10.5117 12.5293 10.707L7.49805 12.9971C7.18165 13.1409 6.81835 13.1409 6.50195 12.9971L1.4707 10.707C1.0415 10.5117 0.765625 10.0829 0.765625 9.61133V1.96875C0.765626 1.30428 1.30428 0.765625 1.96875 0.765625Z"
+                    stroke="url(#paint1_linear_10018_17757)"
+                    strokeWidth="0.21875"
+                  ></path>
+                  <path
+                    d="M2.765 8.0625V4.3665H3.70475V8.0625H2.765ZM1.62575 5.14875V4.34025H4.844V5.14875H1.62575ZM6.90836 8.13075C6.62136 8.13075 6.35711 8.08175 6.11561 7.98375C5.87411 7.88575 5.66236 7.74925 5.48036 7.57425C5.30186 7.39925 5.16186 7.1945 5.06036 6.96C4.95886 6.722 4.90811 6.4665 4.90811 6.1935C4.90811 5.9205 4.95711 5.6685 5.05511 5.4375C5.15661 5.203 5.29661 4.99825 5.47511 4.82325C5.65361 4.64825 5.86361 4.5135 6.10511 4.419C6.34661 4.321 6.61086 4.272 6.89786 4.272C7.18486 4.272 7.44911 4.321 7.69061 4.419C7.93211 4.5135 8.14211 4.64825 8.32061 4.82325C8.49911 4.99825 8.63736 5.203 8.73536 5.4375C8.83686 5.672 8.88761 5.92575 8.88761 6.19875C8.88761 6.47175 8.83686 6.7255 8.73536 6.96C8.63736 7.1945 8.49911 7.401 8.32061 7.5795C8.14211 7.7545 7.93211 7.891 7.69061 7.989C7.45261 8.0835 7.19186 8.13075 6.90836 8.13075ZM6.89786 7.29075C7.10786 7.29075 7.28986 7.24525 7.44386 7.15425C7.59786 7.06325 7.71686 6.9355 7.80086 6.771C7.88486 6.6065 7.92686 6.414 7.92686 6.1935C7.92686 6.0325 7.90236 5.8855 7.85336 5.7525C7.80786 5.6195 7.73961 5.50575 7.64861 5.41125C7.55761 5.31325 7.44911 5.238 7.32311 5.1855C7.19711 5.133 7.05536 5.10675 6.89786 5.10675C6.68786 5.10675 6.50586 5.15225 6.35186 5.24325C6.19786 5.33075 6.07886 5.45675 5.99486 5.62125C5.91086 5.78575 5.86886 5.9765 5.86886 6.1935C5.86886 6.3615 5.89161 6.51375 5.93711 6.65025C5.98611 6.78325 6.05611 6.89875 6.14711 6.99675C6.23811 7.09125 6.34661 7.16475 6.47261 7.21725C6.59861 7.26625 6.74036 7.29075 6.89786 7.29075ZM10.1031 6.729V6.03075H10.8381C10.9291 6.03075 11.0114 6.01325 11.0849 5.97825C11.1619 5.93975 11.2231 5.88375 11.2686 5.81025C11.3141 5.73675 11.3369 5.64575 11.3369 5.53725C11.3369 5.42875 11.3141 5.33775 11.2686 5.26425C11.2231 5.18725 11.1619 5.13125 11.0849 5.09625C11.0114 5.05775 10.9291 5.0385 10.8381 5.0385H10.1031V4.34025H11.0009C11.2389 4.34025 11.4541 4.38925 11.6466 4.48725C11.8391 4.58175 11.9914 4.71825 12.1034 4.89675C12.2154 5.07175 12.2714 5.28525 12.2714 5.53725C12.2714 5.78225 12.2154 5.99575 12.1034 6.17775C11.9914 6.35625 11.8391 6.49275 11.6466 6.58725C11.4541 6.68175 11.2389 6.729 11.0009 6.729H10.1031ZM9.35761 8.0625V4.34025H10.2974V8.0625H9.35761Z"
+                    fill="#923800"
+                  ></path>
+                  <defs>
+                    <linearGradient
+                      id="paint0_linear_10018_17757"
+                      x1="1.53125"
+                      y1="2.89655e-07"
+                      x2="11.8125"
+                      y2="12.25"
+                      gradientUnits="userSpaceOnUse"
+                    >
+                      <stop stopColor="#FDC775"></stop>
+                      <stop offset="0.528482" stopColor="#FFE7C6"></stop>
+                      <stop offset="1" stopColor="#E7A85C"></stop>
+                    </linearGradient>
+                    <linearGradient
+                      id="paint1_linear_10018_17757"
+                      x1="7"
+                      y1="0.65625"
+                      x2="7"
+                      y2="13.3438"
+                      gradientUnits="userSpaceOnUse"
+                    >
+                      <stop stopColor="#D27F4B"></stop>
+                      <stop offset="1" stopColor="#F1B55E"></stop>
+                    </linearGradient>
+                  </defs>
+                </svg>
+                <span data-v-4e36107e className="trend-name">
+                  Smart Watches Best Seller
+                </span>
+                <span data-v-4e36107e className="trend-rank">
+                  #1
+                </span>
+                <svg
+                  data-v-b958d155
+                  data-v-4e36107e
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="8"
+                  height="8"
+                  viewBox="0 0 8 8"
+                  fill="none"
+                  className="trend-arrow"
+                >
+                  <path
+                    data-v-b958d155
+                    d="M2.6665 0.828125L5.83808 3.9997L2.6665 7.17127"
+                    stroke="#9A3412"
+                  ></path>
+                </svg>
+              </a>
+            </div>
+            <div className="site-item" data-id="2206">
+              <a
+                className="js_select_item js_load_item"
+                href="https://ng.oraimo.com/product/oraimo-powerbox-400-vision-22-5w-pd-qc-3-0-ultra-high-capacity-4wmah-power-bank?ean=4894947036484"
+                data-id="2206"
+                data-sku="OPB-7400Q"
+                data-name="PowerBox 400 Vision 40000mAh 22.5W Power Bank"
+                data-price="28.91"
+                data-category="Power Bank 40000mah"
+                data-section-type="list"
+                data-section-name="oraimo Daily Deals"
+                data-select="1"
+              >
+                <div className="item-container">
+                  <img
+                    className="item-picture lazyloaded"
+                    alt="PowerBox 400 Vision 40000mAh 22.5W Power Bank"
+                    data-src="https://cdn-img.oraimo.com/fit-in/540x540/NG/product/2024/10/16/1080.png"
+                    src="/images/oraimo-2c024104651f081d.webp"
+                  />
+                  <div className="item-review">
+                    <span
+                      className="item-review-score"
+                      style={{ display: "inline" }}
+                    >
+                      4.8
+                    </span>
+                    <svg
+                      width="18"
+                      height="18"
+                      viewBox="0 0 18 18"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                      className="item-review-star"
+                    >
+                      <path
+                        d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                        fill="#82E600"
+                      ></path>
+                    </svg>
+                    <span className="item-review-count">(7701)</span>
+                  </div>
+                </div>
+                <div className="item-content">
+                  <p className="item-title">
+                    {" "}
+                    PowerBox 400 Vision 40000mAh 22.5W Power Bank{" "}
+                  </p>
+                  <p className="item-point">
+                    <span className="item-point-container">
+                      <img
+                        className="item-point-icon lazyloaded"
+                        alt="22.5w Fast Charging"
+                        data-src="https://cdn-img.oraimo.com/NG/2024/10/16/fast-charge.svg"
+                        src="/images/oraimo-e3c7dff87f840b48.svg"
+                      />
+                      <svg
+                        data-v-02c2eb76
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="20"
+                        height="20"
+                        viewBox="0 0 20 20"
+                        fill="none"
+                      >
+                        <circle
+                          data-v-02c2eb76
+                          opacity="0.3"
+                          cx="10"
+                          cy="10"
+                          r="9.75"
+                          stroke="#EEEEEE"
+                          strokeWidth="0.5"
+                        ></circle>
+                      </svg>
+                    </span>
+                    <span className="item-point-title">
+                      22.5w Fast Charging
+                    </span>
+                  </p>
+                  <div className="item-price">
+                    <div className="item-price-main">
+                      <span className="item-price-final">
+                        <span>₦ 41,900</span>
+                        <span className="item-price-discount sf-hidden">
+                          -11%
+                        </span>
+                      </span>
+                      <del className="item-price-market">₦ 46,900</del>
+                    </div>
+                    <span className="item-price-discount">-11%</span>
+                  </div>
+                </div>
+              </a>
+              <a
+                data-v-4e36107e
+                href="https://ng.oraimo.com/trend?type=2&rank_id=0&category_id=222&category_rank_type=1"
+                className="module-common-trend"
+              >
+                <svg
+                  data-v-4e36107e
+                  width="14"
+                  height="14"
+                  viewBox="0 0 14 14"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                  className="trend-top"
+                >
+                  <path
+                    d="M0 1.75C0 0.783501 0.783502 0 1.75 0H12.25C13.2165 0 14 0.783502 14 1.75V9.71848C14 10.4071 13.5961 11.0317 12.9681 11.3143L7.71814 13.6768C7.26143 13.8824 6.73857 13.8824 6.28186 13.6768L1.03186 11.3143C0.403872 11.0317 0 10.4071 0 9.71848L0 1.75Z"
+                    fill="url(#paint0_linear_10018_17757)"
+                  ></path>
+                  <path
+                    d="M1.96875 0.765625H12.0312C12.6957 0.765625 13.2344 1.30428 13.2344 1.96875V9.61133C13.2344 10.0829 12.9585 10.5117 12.5293 10.707L7.49805 12.9971C7.18165 13.1409 6.81835 13.1409 6.50195 12.9971L1.4707 10.707C1.0415 10.5117 0.765625 10.0829 0.765625 9.61133V1.96875C0.765626 1.30428 1.30428 0.765625 1.96875 0.765625Z"
+                    stroke="url(#paint1_linear_10018_17757)"
+                    strokeWidth="0.21875"
+                  ></path>
+                  <path
+                    d="M2.765 8.0625V4.3665H3.70475V8.0625H2.765ZM1.62575 5.14875V4.34025H4.844V5.14875H1.62575ZM6.90836 8.13075C6.62136 8.13075 6.35711 8.08175 6.11561 7.98375C5.87411 7.88575 5.66236 7.74925 5.48036 7.57425C5.30186 7.39925 5.16186 7.1945 5.06036 6.96C4.95886 6.722 4.90811 6.4665 4.90811 6.1935C4.90811 5.9205 4.95711 5.6685 5.05511 5.4375C5.15661 5.203 5.29661 4.99825 5.47511 4.82325C5.65361 4.64825 5.86361 4.5135 6.10511 4.419C6.34661 4.321 6.61086 4.272 6.89786 4.272C7.18486 4.272 7.44911 4.321 7.69061 4.419C7.93211 4.5135 8.14211 4.64825 8.32061 4.82325C8.49911 4.99825 8.63736 5.203 8.73536 5.4375C8.83686 5.672 8.88761 5.92575 8.88761 6.19875C8.88761 6.47175 8.83686 6.7255 8.73536 6.96C8.63736 7.1945 8.49911 7.401 8.32061 7.5795C8.14211 7.7545 7.93211 7.891 7.69061 7.989C7.45261 8.0835 7.19186 8.13075 6.90836 8.13075ZM6.89786 7.29075C7.10786 7.29075 7.28986 7.24525 7.44386 7.15425C7.59786 7.06325 7.71686 6.9355 7.80086 6.771C7.88486 6.6065 7.92686 6.414 7.92686 6.1935C7.92686 6.0325 7.90236 5.8855 7.85336 5.7525C7.80786 5.6195 7.73961 5.50575 7.64861 5.41125C7.55761 5.31325 7.44911 5.238 7.32311 5.1855C7.19711 5.133 7.05536 5.10675 6.89786 5.10675C6.68786 5.10675 6.50586 5.15225 6.35186 5.24325C6.19786 5.33075 6.07886 5.45675 5.99486 5.62125C5.91086 5.78575 5.86886 5.9765 5.86886 6.1935C5.86886 6.3615 5.89161 6.51375 5.93711 6.65025C5.98611 6.78325 6.05611 6.89875 6.14711 6.99675C6.23811 7.09125 6.34661 7.16475 6.47261 7.21725C6.59861 7.26625 6.74036 7.29075 6.89786 7.29075ZM10.1031 6.729V6.03075H10.8381C10.9291 6.03075 11.0114 6.01325 11.0849 5.97825C11.1619 5.93975 11.2231 5.88375 11.2686 5.81025C11.3141 5.73675 11.3369 5.64575 11.3369 5.53725C11.3369 5.42875 11.3141 5.33775 11.2686 5.26425C11.2231 5.18725 11.1619 5.13125 11.0849 5.09625C11.0114 5.05775 10.9291 5.0385 10.8381 5.0385H10.1031V4.34025H11.0009C11.2389 4.34025 11.4541 4.38925 11.6466 4.48725C11.8391 4.58175 11.9914 4.71825 12.1034 4.89675C12.2154 5.07175 12.2714 5.28525 12.2714 5.53725C12.2714 5.78225 12.2154 5.99575 12.1034 6.17775C11.9914 6.35625 11.8391 6.49275 11.6466 6.58725C11.4541 6.68175 11.2389 6.729 11.0009 6.729H10.1031ZM9.35761 8.0625V4.34025H10.2974V8.0625H9.35761Z"
+                    fill="#923800"
+                  ></path>
+                  <defs>
+                    <linearGradient
+                      id="paint0_linear_10018_17757"
+                      x1="1.53125"
+                      y1="2.89655e-07"
+                      x2="11.8125"
+                      y2="12.25"
+                      gradientUnits="userSpaceOnUse"
+                    >
+                      <stop stopColor="#FDC775"></stop>
+                      <stop offset="0.528482" stopColor="#FFE7C6"></stop>
+                      <stop offset="1" stopColor="#E7A85C"></stop>
+                    </linearGradient>
+                    <linearGradient
+                      id="paint1_linear_10018_17757"
+                      x1="7"
+                      y1="0.65625"
+                      x2="7"
+                      y2="13.3438"
+                      gradientUnits="userSpaceOnUse"
+                    >
+                      <stop stopColor="#D27F4B"></stop>
+                      <stop offset="1" stopColor="#F1B55E"></stop>
+                    </linearGradient>
+                  </defs>
+                </svg>
+                <span data-v-4e36107e className="trend-name">
+                  oraimo Power Products Best Seller
+                </span>
+                <span data-v-4e36107e className="trend-rank">
+                  #1
+                </span>
+                <svg
+                  data-v-b958d155
+                  data-v-4e36107e
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="8"
+                  height="8"
+                  viewBox="0 0 8 8"
+                  fill="none"
+                  className="trend-arrow"
+                >
+                  <path
+                    data-v-b958d155
+                    d="M2.6665 0.828125L5.83808 3.9997L2.6665 7.17127"
+                    stroke="#9A3412"
+                  ></path>
+                </svg>
+              </a>
+            </div>
+            <div className="site-item" data-id="7076">
+              <a
+                className="js_select_item js_load_item"
+                href="https://ng.oraimo.com/product/oraimo-opensnap-air-open-ear-true-wireless-earbuds-africa-opn-371?ean=4894947122378"
+                data-id="7076"
+                data-sku="OPN-371-GRAPHITEBLACK"
+                data-name="OpenSnap Air Open-Ear True Wireless Earbuds"
+                data-price="22.01"
+                data-category="Open-Ear Headphones"
+                data-section-type="list"
+                data-section-name="oraimo Daily Deals"
+                data-select="1"
+              >
+                <div className="item-container">
+                  <img
+                    className="item-picture lazyloaded"
+                    alt="OpenSnap Air Open-Ear True Wireless Earbuds"
+                    data-src="https://cdn-img.oraimo.com/fit-in/540x540/MZ/product/2026/07/10/oraimo-opensnap-air-open-ear-true-wireless-earbuds-africa-opn-371-black-mainimage.png"
+                    src="/images/oraimo-ce9805cd46ca6c65.webp"
+                  />
+                  <div
+                    className="item-tag"
+                    style={{ borderColor: "rgb(130,230,0)" }}
+                  >
+                    <span
+                      className="item-tag-content"
+                      style={{ backgroundColor: "rgb(130,230,0)" }}
+                    >
+                      {" "}
+                      New Arrival{" "}
+                    </span>
+                  </div>
+                  <div className="item-review">
+                    <span className="item-review-score">5.0</span>
+                    <svg
+                      width="18"
+                      height="18"
+                      viewBox="0 0 18 18"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                      className="item-review-star"
+                    >
+                      <path
+                        d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                        fill="#82E600"
+                      ></path>
+                    </svg>
+                    <span className="item-review-count">(2)</span>
+                  </div>
+                </div>
+                <div className="item-content">
+                  <p className="item-title">
+                    {" "}
+                    OpenSnap Air Open-Ear True Wireless Earbuds{" "}
+                  </p>
+                  <p className="item-point">
+                    <span className="item-point-container">
+                      <img
+                        className="item-point-icon lazyloaded"
+                        alt="Smart Adaptive Volume"
+                        data-src="https://cdn-img.oraimo.com/CI/2026/02/09/smart-adaptive-volume.svg"
+                        src="/images/oraimo-42db8644177117c1.svg"
+                      />
+                      <svg
+                        data-v-02c2eb76
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="20"
+                        height="20"
+                        viewBox="0 0 20 20"
+                        fill="none"
+                      >
+                        <circle
+                          data-v-02c2eb76
+                          opacity="0.3"
+                          cx="10"
+                          cy="10"
+                          r="9.75"
+                          stroke="#EEEEEE"
+                          strokeWidth="0.5"
+                        ></circle>
+                      </svg>
+                    </span>
+                    <span className="item-point-title">
+                      Smart Adaptive Volume
+                    </span>
+                  </p>
+                  <div className="item-price">
+                    <div className="item-price-main">
+                      <span className="item-price-final">
+                        <span>₦ 31,900</span>
+                        <span className="item-price-discount sf-hidden">
+                          -10%
+                        </span>
+                      </span>
+                      <del className="item-price-market">₦ 35,500</del>
+                    </div>
+                    <span className="item-price-discount">-10%</span>
+                  </div>
+                </div>
+              </a>
+              <a
+                data-v-4e36107e
+                href="https://ng.oraimo.com/trend?type=2&rank_id=0&category_id=229&category_rank_type=2"
+                className="module-common-trend"
+              >
+                <svg
+                  data-v-4e36107e
+                  width="14"
+                  height="14"
+                  viewBox="0 0 14 14"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                  className="trend-top"
+                >
+                  <path
+                    d="M0 1.75C0 0.783501 0.783502 0 1.75 0H12.25C13.2165 0 14 0.783502 14 1.75V9.71848C14 10.4071 13.5961 11.0317 12.9681 11.3143L7.71814 13.6768C7.26143 13.8824 6.73857 13.8824 6.28186 13.6768L1.03186 11.3143C0.403872 11.0317 0 10.4071 0 9.71848L0 1.75Z"
+                    fill="url(#paint0_linear_10018_17757)"
+                  ></path>
+                  <path
+                    d="M1.96875 0.765625H12.0312C12.6957 0.765625 13.2344 1.30428 13.2344 1.96875V9.61133C13.2344 10.0829 12.9585 10.5117 12.5293 10.707L7.49805 12.9971C7.18165 13.1409 6.81835 13.1409 6.50195 12.9971L1.4707 10.707C1.0415 10.5117 0.765625 10.0829 0.765625 9.61133V1.96875C0.765626 1.30428 1.30428 0.765625 1.96875 0.765625Z"
+                    stroke="url(#paint1_linear_10018_17757)"
+                    strokeWidth="0.21875"
+                  ></path>
+                  <path
+                    d="M2.765 8.0625V4.3665H3.70475V8.0625H2.765ZM1.62575 5.14875V4.34025H4.844V5.14875H1.62575ZM6.90836 8.13075C6.62136 8.13075 6.35711 8.08175 6.11561 7.98375C5.87411 7.88575 5.66236 7.74925 5.48036 7.57425C5.30186 7.39925 5.16186 7.1945 5.06036 6.96C4.95886 6.722 4.90811 6.4665 4.90811 6.1935C4.90811 5.9205 4.95711 5.6685 5.05511 5.4375C5.15661 5.203 5.29661 4.99825 5.47511 4.82325C5.65361 4.64825 5.86361 4.5135 6.10511 4.419C6.34661 4.321 6.61086 4.272 6.89786 4.272C7.18486 4.272 7.44911 4.321 7.69061 4.419C7.93211 4.5135 8.14211 4.64825 8.32061 4.82325C8.49911 4.99825 8.63736 5.203 8.73536 5.4375C8.83686 5.672 8.88761 5.92575 8.88761 6.19875C8.88761 6.47175 8.83686 6.7255 8.73536 6.96C8.63736 7.1945 8.49911 7.401 8.32061 7.5795C8.14211 7.7545 7.93211 7.891 7.69061 7.989C7.45261 8.0835 7.19186 8.13075 6.90836 8.13075ZM6.89786 7.29075C7.10786 7.29075 7.28986 7.24525 7.44386 7.15425C7.59786 7.06325 7.71686 6.9355 7.80086 6.771C7.88486 6.6065 7.92686 6.414 7.92686 6.1935C7.92686 6.0325 7.90236 5.8855 7.85336 5.7525C7.80786 5.6195 7.73961 5.50575 7.64861 5.41125C7.55761 5.31325 7.44911 5.238 7.32311 5.1855C7.19711 5.133 7.05536 5.10675 6.89786 5.10675C6.68786 5.10675 6.50586 5.15225 6.35186 5.24325C6.19786 5.33075 6.07886 5.45675 5.99486 5.62125C5.91086 5.78575 5.86886 5.9765 5.86886 6.1935C5.86886 6.3615 5.89161 6.51375 5.93711 6.65025C5.98611 6.78325 6.05611 6.89875 6.14711 6.99675C6.23811 7.09125 6.34661 7.16475 6.47261 7.21725C6.59861 7.26625 6.74036 7.29075 6.89786 7.29075ZM10.1031 6.729V6.03075H10.8381C10.9291 6.03075 11.0114 6.01325 11.0849 5.97825C11.1619 5.93975 11.2231 5.88375 11.2686 5.81025C11.3141 5.73675 11.3369 5.64575 11.3369 5.53725C11.3369 5.42875 11.3141 5.33775 11.2686 5.26425C11.2231 5.18725 11.1619 5.13125 11.0849 5.09625C11.0114 5.05775 10.9291 5.0385 10.8381 5.0385H10.1031V4.34025H11.0009C11.2389 4.34025 11.4541 4.38925 11.6466 4.48725C11.8391 4.58175 11.9914 4.71825 12.1034 4.89675C12.2154 5.07175 12.2714 5.28525 12.2714 5.53725C12.2714 5.78225 12.2154 5.99575 12.1034 6.17775C11.9914 6.35625 11.8391 6.49275 11.6466 6.58725C11.4541 6.68175 11.2389 6.729 11.0009 6.729H10.1031ZM9.35761 8.0625V4.34025H10.2974V8.0625H9.35761Z"
+                    fill="#923800"
+                  ></path>
+                  <defs>
+                    <linearGradient
+                      id="paint0_linear_10018_17757"
+                      x1="1.53125"
+                      y1="2.89655e-07"
+                      x2="11.8125"
+                      y2="12.25"
+                      gradientUnits="userSpaceOnUse"
+                    >
+                      <stop stopColor="#FDC775"></stop>
+                      <stop offset="0.528482" stopColor="#FFE7C6"></stop>
+                      <stop offset="1" stopColor="#E7A85C"></stop>
+                    </linearGradient>
+                    <linearGradient
+                      id="paint1_linear_10018_17757"
+                      x1="7"
+                      y1="0.65625"
+                      x2="7"
+                      y2="13.3438"
+                      gradientUnits="userSpaceOnUse"
+                    >
+                      <stop stopColor="#D27F4B"></stop>
+                      <stop offset="1" stopColor="#F1B55E"></stop>
+                    </linearGradient>
+                  </defs>
+                </svg>
+                <span data-v-4e36107e className="trend-name">
+                  oraimo Audio New Arrival
+                </span>
+                <span data-v-4e36107e className="trend-rank">
+                  #1
+                </span>
+                <svg
+                  data-v-b958d155
+                  data-v-4e36107e
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="8"
+                  height="8"
+                  viewBox="0 0 8 8"
+                  fill="none"
+                  className="trend-arrow"
+                >
+                  <path
+                    data-v-b958d155
+                    d="M2.6665 0.828125L5.83808 3.9997L2.6665 7.17127"
+                    stroke="#9A3412"
+                  ></path>
+                </svg>
+              </a>
+            </div>
+            <div className="site-item" data-id="6028">
+              <a
+                className="js_select_item js_load_item"
+                href="https://ng.oraimo.com/product/oraimo-voxmic-clear-audio-wireless-microphone-omh-692-speedblack?ean=4894947114113"
+                data-id="6028"
+                data-sku="OMH-692-SPEEDBLACK"
+                data-name="VoxMic oraimo VoxMic Wireless Microphone"
+                data-price="41.33"
+                data-category="Microphone"
+                data-section-type="list"
+                data-section-name="oraimo Daily Deals"
+                data-select="1"
+              >
+                <div className="item-container">
+                  <img
+                    className="item-picture lazyloaded"
+                    alt="VoxMic oraimo VoxMic Wireless Microphone"
+                    data-src="https://cdn-img.oraimo.com/fit-in/540x540/NG/product/2026/04/21/OMH-692-SPEEDBLACK-MAIN.png"
+                    src="/images/oraimo-c9c6184d7ee2528d.webp"
+                  />
+                  <div
+                    className="item-tag"
+                    style={{ borderColor: "rgb(130,230,0)" }}
+                  >
+                    <span
+                      className="item-tag-content"
+                      style={{ backgroundColor: "rgb(130,230,0)" }}
+                    >
+                      {" "}
+                      New Arrival{" "}
+                    </span>
+                  </div>
+                  <div className="item-review">
+                    <span className="item-review-score">4.9</span>
+                    <svg
+                      width="18"
+                      height="18"
+                      viewBox="0 0 18 18"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                      className="item-review-star"
+                    >
+                      <path
+                        d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                        fill="#82E600"
+                      ></path>
+                    </svg>
+                    <span className="item-review-count">(18)</span>
+                  </div>
+                </div>
+                <div className="item-content">
+                  <p className="item-title">
+                    {" "}
+                    VoxMic oraimo VoxMic Wireless Microphone{" "}
+                  </p>
+                  <p className="item-point">
+                    <span className="item-point-container">
+                      <img
+                        className="item-point-icon lazyloaded"
+                        alt="Pop Filter Design"
+                        data-src="https://cdn-img.oraimo.com/GH/2026/04/22/pop-filter-design.svg"
+                        src="/images/oraimo-1234883eb48ca1f9.svg"
+                      />
+                      <svg
+                        data-v-02c2eb76
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="20"
+                        height="20"
+                        viewBox="0 0 20 20"
+                        fill="none"
+                      >
+                        <circle
+                          data-v-02c2eb76
+                          opacity="0.3"
+                          cx="10"
+                          cy="10"
+                          r="9.75"
+                          stroke="#EEEEEE"
+                          strokeWidth="0.5"
+                        ></circle>
+                      </svg>
+                    </span>
+                    <span className="item-point-title">Pop Filter Design</span>
+                  </p>
+                  <div className="item-price">
+                    <div className="item-price-main">
+                      <span className="item-price-final">
+                        <span>₦ 59,900</span>
+                        <span className="item-price-discount sf-hidden">
+                          -10%
+                        </span>
+                      </span>
+                      <del className="item-price-market">₦ 66,600</del>
+                    </div>
+                    <span className="item-price-discount">-10%</span>
+                  </div>
+                </div>
+              </a>
+              <a
+                data-v-4e36107e
+                href="https://ng.oraimo.com/trend?type=2&rank_id=0&category_id=229&category_rank_type=3"
+                className="module-common-trend"
+              >
+                <svg
+                  data-v-4e36107e
+                  width="14"
+                  height="14"
+                  viewBox="0 0 14 14"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                  className="trend-top"
+                >
+                  <path
+                    d="M0 1.75C0 0.783501 0.783502 0 1.75 0H12.25C13.2165 0 14 0.783502 14 1.75V9.71848C14 10.4071 13.5961 11.0317 12.9681 11.3143L7.71814 13.6768C7.26143 13.8824 6.73857 13.8824 6.28186 13.6768L1.03186 11.3143C0.403872 11.0317 0 10.4071 0 9.71848L0 1.75Z"
+                    fill="url(#paint0_linear_10018_17757)"
+                  ></path>
+                  <path
+                    d="M1.96875 0.765625H12.0312C12.6957 0.765625 13.2344 1.30428 13.2344 1.96875V9.61133C13.2344 10.0829 12.9585 10.5117 12.5293 10.707L7.49805 12.9971C7.18165 13.1409 6.81835 13.1409 6.50195 12.9971L1.4707 10.707C1.0415 10.5117 0.765625 10.0829 0.765625 9.61133V1.96875C0.765626 1.30428 1.30428 0.765625 1.96875 0.765625Z"
+                    stroke="url(#paint1_linear_10018_17757)"
+                    strokeWidth="0.21875"
+                  ></path>
+                  <path
+                    d="M2.765 8.0625V4.3665H3.70475V8.0625H2.765ZM1.62575 5.14875V4.34025H4.844V5.14875H1.62575ZM6.90836 8.13075C6.62136 8.13075 6.35711 8.08175 6.11561 7.98375C5.87411 7.88575 5.66236 7.74925 5.48036 7.57425C5.30186 7.39925 5.16186 7.1945 5.06036 6.96C4.95886 6.722 4.90811 6.4665 4.90811 6.1935C4.90811 5.9205 4.95711 5.6685 5.05511 5.4375C5.15661 5.203 5.29661 4.99825 5.47511 4.82325C5.65361 4.64825 5.86361 4.5135 6.10511 4.419C6.34661 4.321 6.61086 4.272 6.89786 4.272C7.18486 4.272 7.44911 4.321 7.69061 4.419C7.93211 4.5135 8.14211 4.64825 8.32061 4.82325C8.49911 4.99825 8.63736 5.203 8.73536 5.4375C8.83686 5.672 8.88761 5.92575 8.88761 6.19875C8.88761 6.47175 8.83686 6.7255 8.73536 6.96C8.63736 7.1945 8.49911 7.401 8.32061 7.5795C8.14211 7.7545 7.93211 7.891 7.69061 7.989C7.45261 8.0835 7.19186 8.13075 6.90836 8.13075ZM6.89786 7.29075C7.10786 7.29075 7.28986 7.24525 7.44386 7.15425C7.59786 7.06325 7.71686 6.9355 7.80086 6.771C7.88486 6.6065 7.92686 6.414 7.92686 6.1935C7.92686 6.0325 7.90236 5.8855 7.85336 5.7525C7.80786 5.6195 7.73961 5.50575 7.64861 5.41125C7.55761 5.31325 7.44911 5.238 7.32311 5.1855C7.19711 5.133 7.05536 5.10675 6.89786 5.10675C6.68786 5.10675 6.50586 5.15225 6.35186 5.24325C6.19786 5.33075 6.07886 5.45675 5.99486 5.62125C5.91086 5.78575 5.86886 5.9765 5.86886 6.1935C5.86886 6.3615 5.89161 6.51375 5.93711 6.65025C5.98611 6.78325 6.05611 6.89875 6.14711 6.99675C6.23811 7.09125 6.34661 7.16475 6.47261 7.21725C6.59861 7.26625 6.74036 7.29075 6.89786 7.29075ZM10.1031 6.729V6.03075H10.8381C10.9291 6.03075 11.0114 6.01325 11.0849 5.97825C11.1619 5.93975 11.2231 5.88375 11.2686 5.81025C11.3141 5.73675 11.3369 5.64575 11.3369 5.53725C11.3369 5.42875 11.3141 5.33775 11.2686 5.26425C11.2231 5.18725 11.1619 5.13125 11.0849 5.09625C11.0114 5.05775 10.9291 5.0385 10.8381 5.0385H10.1031V4.34025H11.0009C11.2389 4.34025 11.4541 4.38925 11.6466 4.48725C11.8391 4.58175 11.9914 4.71825 12.1034 4.89675C12.2154 5.07175 12.2714 5.28525 12.2714 5.53725C12.2714 5.78225 12.2154 5.99575 12.1034 6.17775C11.9914 6.35625 11.8391 6.49275 11.6466 6.58725C11.4541 6.68175 11.2389 6.729 11.0009 6.729H10.1031ZM9.35761 8.0625V4.34025H10.2974V8.0625H9.35761Z"
+                    fill="#923800"
+                  ></path>
+                  <defs>
+                    <linearGradient
+                      id="paint0_linear_10018_17757"
+                      x1="1.53125"
+                      y1="2.89655e-07"
+                      x2="11.8125"
+                      y2="12.25"
+                      gradientUnits="userSpaceOnUse"
+                    >
+                      <stop stopColor="#FDC775"></stop>
+                      <stop offset="0.528482" stopColor="#FFE7C6"></stop>
+                      <stop offset="1" stopColor="#E7A85C"></stop>
+                    </linearGradient>
+                    <linearGradient
+                      id="paint1_linear_10018_17757"
+                      x1="7"
+                      y1="0.65625"
+                      x2="7"
+                      y2="13.3438"
+                      gradientUnits="userSpaceOnUse"
+                    >
+                      <stop stopColor="#D27F4B"></stop>
+                      <stop offset="1" stopColor="#F1B55E"></stop>
+                    </linearGradient>
+                  </defs>
+                </svg>
+                <span data-v-4e36107e className="trend-name">
+                  oraimo Audio Trending
+                </span>
+                <span data-v-4e36107e className="trend-rank">
+                  #2
+                </span>
+                <svg
+                  data-v-b958d155
+                  data-v-4e36107e
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="8"
+                  height="8"
+                  viewBox="0 0 8 8"
+                  fill="none"
+                  className="trend-arrow"
+                >
+                  <path
+                    data-v-b958d155
+                    d="M2.6665 0.828125L5.83808 3.9997L2.6665 7.17127"
+                    stroke="#9A3412"
+                  ></path>
+                </svg>
+              </a>
+            </div>
+            <div className="site-item" data-id="6146">
+              <a
+                className="js_select_item js_load_item"
+                href="https://ng.oraimo.com/product/oraimo-spacebuds-2-true-wireless-earbuds-otw-631-spacegrey?ean=4894947114120"
+                data-id="6146"
+                data-sku="OTW-631-SPACEGREY"
+                data-name="SpaceBuds 2 52dB Hybrid ANC and AI Translation Wireless Earbuds"
+                data-price="36.92"
+                data-category="Wireless Stereo Earbuds"
+                data-section-type="list"
+                data-section-name="oraimo Daily Deals"
+                data-select="1"
+              >
+                <div className="item-container">
+                  <img
+                    className="item-picture lazyloaded"
+                    alt="SpaceBuds 2 52dB Hybrid ANC and AI Translation Wireless Earbuds"
+                    data-src="https://cdn-img.oraimo.com/fit-in/540x540/MA/product/2026/04/14/OTW-631-SPACEGREY-MAIN.png"
+                    src="/images/oraimo-466b0536b5e180f9.webp"
+                  />
+                  <div
+                    className="item-tag"
+                    style={{ borderColor: "rgb(130,230,0)" }}
+                  >
+                    <span
+                      className="item-tag-content"
+                      style={{
+                        backgroundColor: "rgb(130,230,0)",
+                        display: "inline",
+                      }}
+                    >
+                      {" "}
+                      New Arrival{" "}
+                    </span>
+                  </div>
+                  <div className="item-color">
+                    <div className="item-color-item">
+                      <img
+                        className="item-color-avatar lazyloaded"
+                        alt="MA/product/2026/04/14/OTW-631-SPACEGREY-MAIN.png"
+                        data-src="https://cdn-img.oraimo.com/fit-in/360x360/MA/product/2026/04/14/OTW-631-SPACEGREY-MAIN.png"
+                        src="/images/oraimo-40c1edd6cab1b70f.webp"
+                      />
+                    </div>
+                    <div className="item-color-item">
+                      <img
+                        className="item-color-avatar lazyloaded"
+                        alt="MA/product/2026/05/25/oraimo-True-Wireless-Earbuds-SpaceBuds2-OTW-631-DIGITALLAVENDER.png"
+                        data-src="https://cdn-img.oraimo.com/fit-in/360x360/MA/product/2026/05/25/oraimo-True-Wireless-Earbuds-SpaceBuds2-OTW-631-DIGITALLAVENDER.png"
+                        src="/images/oraimo-624080b9c2eb6029.webp"
+                      />
+                    </div>
+                    <div className="item-color-item">
+                      <img
+                        className="item-color-avatar lazyloaded"
+                        alt="MA/product/2026/05/25/oraimo-True-Wireless-Earbuds-SpaceBuds2-OTW-631-MAGENTA.png"
+                        data-src="https://cdn-img.oraimo.com/fit-in/360x360/MA/product/2026/05/25/oraimo-True-Wireless-Earbuds-SpaceBuds2-OTW-631-MAGENTA.png"
+                        src="/images/oraimo-38f34dc4b271f004.webp"
+                      />
+                    </div>
+                  </div>
+                  <div className="item-review">
+                    <span className="item-review-score">4.8</span>
+                    <svg
+                      width="18"
+                      height="18"
+                      viewBox="0 0 18 18"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                      className="item-review-star"
+                    >
+                      <path
+                        d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                        fill="#82E600"
+                      ></path>
+                    </svg>
+                    <span className="item-review-count">(1429)</span>
+                  </div>
+                  <div className="item-gift">
+                    <img
+                      className="item-gift-picture lazyloaded"
+                      alt="PowerGaN 351 35W GaN Ultra Fast Charger Kit"
+                      data-src="https://cdn-img.oraimo.com/fit-in/360x360/EG/product/2026/03/30/OCW-5351UCC-BLACK-MAIN.png"
+                      src="/images/oraimo-3ad0a4326d4f020a.webp"
+                    />
+                    <span className="item-gift-title">FREE GIFT</span>
+                  </div>
+                </div>
+                <div className="item-content">
+                  <p className="item-title">
+                    {" "}
+                    SpaceBuds 2 52dB Hybrid ANC and AI Translation Wireless
+                    Earbuds{" "}
+                  </p>
+                  <p className="item-point">
+                    <span className="item-point-container">
+                      <img
+                        className="item-point-icon lazyloaded"
+                        alt="AI Translation & Voice Prompt"
+                        data-src="https://cdn-img.oraimo.com/CI/2026/02/09/ai-translation-and-voice-prompt.svg"
+                        src="/images/oraimo-c2188779a439be45.svg"
+                      />
+                      <svg
+                        data-v-02c2eb76
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="20"
+                        height="20"
+                        viewBox="0 0 20 20"
+                        fill="none"
+                      >
+                        <circle
+                          data-v-02c2eb76
+                          opacity="0.3"
+                          cx="10"
+                          cy="10"
+                          r="9.75"
+                          stroke="#EEEEEE"
+                          strokeWidth="0.5"
+                        ></circle>
+                      </svg>
+                    </span>
+                    <span className="item-point-title">
+                      AI Translation &amp; Voice Prompt
+                    </span>
+                  </p>
+                  <div className="item-price">
+                    <div className="item-price-main">
+                      <span className="item-price-final">
+                        <span>₦ 53,500</span>
+                        <span className="item-price-discount sf-hidden">
+                          -10%
+                        </span>
+                      </span>
+                      <del className="item-price-market">₦ 59,500</del>
+                    </div>
+                    <span className="item-price-discount">-10%</span>
+                  </div>
+                </div>
+              </a>
+              <a
+                data-v-4e36107e
+                href="https://ng.oraimo.com/trend?type=2&rank_id=0&category_id=229&category_rank_type=1"
+                className="module-common-trend"
+              >
+                <svg
+                  data-v-4e36107e
+                  width="14"
+                  height="14"
+                  viewBox="0 0 14 14"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                  className="trend-top"
+                >
+                  <path
+                    d="M0 1.75C0 0.783501 0.783502 0 1.75 0H12.25C13.2165 0 14 0.783502 14 1.75V9.71848C14 10.4071 13.5961 11.0317 12.9681 11.3143L7.71814 13.6768C7.26143 13.8824 6.73857 13.8824 6.28186 13.6768L1.03186 11.3143C0.403872 11.0317 0 10.4071 0 9.71848L0 1.75Z"
+                    fill="url(#paint0_linear_10018_17757)"
+                  ></path>
+                  <path
+                    d="M1.96875 0.765625H12.0312C12.6957 0.765625 13.2344 1.30428 13.2344 1.96875V9.61133C13.2344 10.0829 12.9585 10.5117 12.5293 10.707L7.49805 12.9971C7.18165 13.1409 6.81835 13.1409 6.50195 12.9971L1.4707 10.707C1.0415 10.5117 0.765625 10.0829 0.765625 9.61133V1.96875C0.765626 1.30428 1.30428 0.765625 1.96875 0.765625Z"
+                    stroke="url(#paint1_linear_10018_17757)"
+                    strokeWidth="0.21875"
+                  ></path>
+                  <path
+                    d="M2.765 8.0625V4.3665H3.70475V8.0625H2.765ZM1.62575 5.14875V4.34025H4.844V5.14875H1.62575ZM6.90836 8.13075C6.62136 8.13075 6.35711 8.08175 6.11561 7.98375C5.87411 7.88575 5.66236 7.74925 5.48036 7.57425C5.30186 7.39925 5.16186 7.1945 5.06036 6.96C4.95886 6.722 4.90811 6.4665 4.90811 6.1935C4.90811 5.9205 4.95711 5.6685 5.05511 5.4375C5.15661 5.203 5.29661 4.99825 5.47511 4.82325C5.65361 4.64825 5.86361 4.5135 6.10511 4.419C6.34661 4.321 6.61086 4.272 6.89786 4.272C7.18486 4.272 7.44911 4.321 7.69061 4.419C7.93211 4.5135 8.14211 4.64825 8.32061 4.82325C8.49911 4.99825 8.63736 5.203 8.73536 5.4375C8.83686 5.672 8.88761 5.92575 8.88761 6.19875C8.88761 6.47175 8.83686 6.7255 8.73536 6.96C8.63736 7.1945 8.49911 7.401 8.32061 7.5795C8.14211 7.7545 7.93211 7.891 7.69061 7.989C7.45261 8.0835 7.19186 8.13075 6.90836 8.13075ZM6.89786 7.29075C7.10786 7.29075 7.28986 7.24525 7.44386 7.15425C7.59786 7.06325 7.71686 6.9355 7.80086 6.771C7.88486 6.6065 7.92686 6.414 7.92686 6.1935C7.92686 6.0325 7.90236 5.8855 7.85336 5.7525C7.80786 5.6195 7.73961 5.50575 7.64861 5.41125C7.55761 5.31325 7.44911 5.238 7.32311 5.1855C7.19711 5.133 7.05536 5.10675 6.89786 5.10675C6.68786 5.10675 6.50586 5.15225 6.35186 5.24325C6.19786 5.33075 6.07886 5.45675 5.99486 5.62125C5.91086 5.78575 5.86886 5.9765 5.86886 6.1935C5.86886 6.3615 5.89161 6.51375 5.93711 6.65025C5.98611 6.78325 6.05611 6.89875 6.14711 6.99675C6.23811 7.09125 6.34661 7.16475 6.47261 7.21725C6.59861 7.26625 6.74036 7.29075 6.89786 7.29075ZM10.1031 6.729V6.03075H10.8381C10.9291 6.03075 11.0114 6.01325 11.0849 5.97825C11.1619 5.93975 11.2231 5.88375 11.2686 5.81025C11.3141 5.73675 11.3369 5.64575 11.3369 5.53725C11.3369 5.42875 11.3141 5.33775 11.2686 5.26425C11.2231 5.18725 11.1619 5.13125 11.0849 5.09625C11.0114 5.05775 10.9291 5.0385 10.8381 5.0385H10.1031V4.34025H11.0009C11.2389 4.34025 11.4541 4.38925 11.6466 4.48725C11.8391 4.58175 11.9914 4.71825 12.1034 4.89675C12.2154 5.07175 12.2714 5.28525 12.2714 5.53725C12.2714 5.78225 12.2154 5.99575 12.1034 6.17775C11.9914 6.35625 11.8391 6.49275 11.6466 6.58725C11.4541 6.68175 11.2389 6.729 11.0009 6.729H10.1031ZM9.35761 8.0625V4.34025H10.2974V8.0625H9.35761Z"
+                    fill="#923800"
+                  ></path>
+                  <defs>
+                    <linearGradient
+                      id="paint0_linear_10018_17757"
+                      x1="1.53125"
+                      y1="2.89655e-07"
+                      x2="11.8125"
+                      y2="12.25"
+                      gradientUnits="userSpaceOnUse"
+                    >
+                      <stop stopColor="#FDC775"></stop>
+                      <stop offset="0.528482" stopColor="#FFE7C6"></stop>
+                      <stop offset="1" stopColor="#E7A85C"></stop>
+                    </linearGradient>
+                    <linearGradient
+                      id="paint1_linear_10018_17757"
+                      x1="7"
+                      y1="0.65625"
+                      x2="7"
+                      y2="13.3438"
+                      gradientUnits="userSpaceOnUse"
+                    >
+                      <stop stopColor="#D27F4B"></stop>
+                      <stop offset="1" stopColor="#F1B55E"></stop>
+                    </linearGradient>
+                  </defs>
+                </svg>
+                <span data-v-4e36107e className="trend-name">
+                  oraimo Audio Best Seller
+                </span>
+                <span data-v-4e36107e className="trend-rank">
+                  #1
+                </span>
+                <svg
+                  data-v-b958d155
+                  data-v-4e36107e
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="8"
+                  height="8"
+                  viewBox="0 0 8 8"
+                  fill="none"
+                  className="trend-arrow"
+                >
+                  <path
+                    data-v-b958d155
+                    d="M2.6665 0.828125L5.83808 3.9997L2.6665 7.17127"
+                    stroke="#9A3412"
+                  ></path>
+                </svg>
+              </a>
+            </div>
+            <div className="site-item" data-id="6021">
+              <a
+                className="js_select_item js_load_item"
+                href="https://ng.oraimo.com/product/oraimo-beangrind-precision-portable-coffee-grinder-ocb-221a?ean=4894947115318"
+                data-id="6021"
+                data-sku="OCB-221A-GRAPHITEBLACK"
+                data-name="BeanGrind 2 In 1 Portable 350ml Coffee Grinder"
+                data-price="30.29"
+                data-category="Kitchen Appliances"
+                data-section-type="list"
+                data-section-name="oraimo Daily Deals"
+                data-select="1"
+              >
+                <div className="item-container">
+                  <img
+                    className="item-picture lazyloaded"
+                    alt="BeanGrind 2 In 1 Portable 350ml Coffee Grinder"
+                    data-src="https://cdn-img.oraimo.com/fit-in/540x540/KE/product/2026/04/15/oraimo-Portable-Coffee-Grinder-BeanGrind-OCB-221A-mainimage.png"
+                    src="/images/oraimo-706242d20b542dfe.webp"
+                  />
+                  <div
+                    className="item-tag"
+                    style={{ borderColor: "rgb(130,230,0)" }}
+                  >
+                    <span
+                      className="item-tag-content"
+                      style={{ backgroundColor: "rgb(130,230,0)" }}
+                    >
+                      {" "}
+                      New Arrival{" "}
+                    </span>
+                  </div>
+                  <div className="item-review">
+                    <span className="item-review-score">4.3</span>
+                    <svg
+                      width="18"
+                      height="18"
+                      viewBox="0 0 18 18"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                      className="item-review-star"
+                    >
+                      <path
+                        d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                        fill="#82E600"
+                      ></path>
+                    </svg>
+                    <span className="item-review-count">(4)</span>
+                  </div>
+                </div>
+                <div className="item-content">
+                  <p className="item-title">
+                    {" "}
+                    BeanGrind 2 In 1 Portable 350ml Coffee Grinder{" "}
+                  </p>
+                  <p className="item-point">
+                    <span className="item-point-container">
+                      <img
+                        className="item-point-icon lazyloaded"
+                        alt="Grind and Brew in One"
+                        data-src="https://cdn-img.oraimo.com/KE/2026/04/15/grind-and-brew-in-one.svg"
+                        src="/images/oraimo-26f7978a7dc955fe.svg"
+                      />
+                      <svg
+                        data-v-02c2eb76
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="20"
+                        height="20"
+                        viewBox="0 0 20 20"
+                        fill="none"
+                      >
+                        <circle
+                          data-v-02c2eb76
+                          opacity="0.3"
+                          cx="10"
+                          cy="10"
+                          r="9.75"
+                          stroke="#EEEEEE"
+                          strokeWidth="0.5"
+                        ></circle>
+                      </svg>
+                    </span>
+                    <span className="item-point-title">
+                      Grind and Brew in One
+                    </span>
+                  </p>
+                  <div className="item-price">
+                    <div className="item-price-main">
+                      <span className="item-price-final">
+                        <span>₦ 43,900</span>
+                        <span className="item-price-discount sf-hidden">
+                          -10%
+                        </span>
+                      </span>
+                      <del className="item-price-market">₦ 48,800</del>
+                    </div>
+                    <span className="item-price-discount">-10%</span>
+                  </div>
+                </div>
+              </a>
+              <a
+                data-v-4e36107e
+                href="https://ng.oraimo.com/trend?type=2&rank_id=0&category_id=743&category_rank_type=3"
+                className="module-common-trend"
+              >
+                <svg
+                  data-v-4e36107e
+                  width="14"
+                  height="14"
+                  viewBox="0 0 14 14"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                  className="trend-top"
+                >
+                  <path
+                    d="M0 1.75C0 0.783501 0.783502 0 1.75 0H12.25C13.2165 0 14 0.783502 14 1.75V9.71848C14 10.4071 13.5961 11.0317 12.9681 11.3143L7.71814 13.6768C7.26143 13.8824 6.73857 13.8824 6.28186 13.6768L1.03186 11.3143C0.403872 11.0317 0 10.4071 0 9.71848L0 1.75Z"
+                    fill="url(#paint0_linear_10018_17757)"
+                  ></path>
+                  <path
+                    d="M1.96875 0.765625H12.0312C12.6957 0.765625 13.2344 1.30428 13.2344 1.96875V9.61133C13.2344 10.0829 12.9585 10.5117 12.5293 10.707L7.49805 12.9971C7.18165 13.1409 6.81835 13.1409 6.50195 12.9971L1.4707 10.707C1.0415 10.5117 0.765625 10.0829 0.765625 9.61133V1.96875C0.765626 1.30428 1.30428 0.765625 1.96875 0.765625Z"
+                    stroke="url(#paint1_linear_10018_17757)"
+                    strokeWidth="0.21875"
+                  ></path>
+                  <path
+                    d="M2.765 8.0625V4.3665H3.70475V8.0625H2.765ZM1.62575 5.14875V4.34025H4.844V5.14875H1.62575ZM6.90836 8.13075C6.62136 8.13075 6.35711 8.08175 6.11561 7.98375C5.87411 7.88575 5.66236 7.74925 5.48036 7.57425C5.30186 7.39925 5.16186 7.1945 5.06036 6.96C4.95886 6.722 4.90811 6.4665 4.90811 6.1935C4.90811 5.9205 4.95711 5.6685 5.05511 5.4375C5.15661 5.203 5.29661 4.99825 5.47511 4.82325C5.65361 4.64825 5.86361 4.5135 6.10511 4.419C6.34661 4.321 6.61086 4.272 6.89786 4.272C7.18486 4.272 7.44911 4.321 7.69061 4.419C7.93211 4.5135 8.14211 4.64825 8.32061 4.82325C8.49911 4.99825 8.63736 5.203 8.73536 5.4375C8.83686 5.672 8.88761 5.92575 8.88761 6.19875C8.88761 6.47175 8.83686 6.7255 8.73536 6.96C8.63736 7.1945 8.49911 7.401 8.32061 7.5795C8.14211 7.7545 7.93211 7.891 7.69061 7.989C7.45261 8.0835 7.19186 8.13075 6.90836 8.13075ZM6.89786 7.29075C7.10786 7.29075 7.28986 7.24525 7.44386 7.15425C7.59786 7.06325 7.71686 6.9355 7.80086 6.771C7.88486 6.6065 7.92686 6.414 7.92686 6.1935C7.92686 6.0325 7.90236 5.8855 7.85336 5.7525C7.80786 5.6195 7.73961 5.50575 7.64861 5.41125C7.55761 5.31325 7.44911 5.238 7.32311 5.1855C7.19711 5.133 7.05536 5.10675 6.89786 5.10675C6.68786 5.10675 6.50586 5.15225 6.35186 5.24325C6.19786 5.33075 6.07886 5.45675 5.99486 5.62125C5.91086 5.78575 5.86886 5.9765 5.86886 6.1935C5.86886 6.3615 5.89161 6.51375 5.93711 6.65025C5.98611 6.78325 6.05611 6.89875 6.14711 6.99675C6.23811 7.09125 6.34661 7.16475 6.47261 7.21725C6.59861 7.26625 6.74036 7.29075 6.89786 7.29075ZM10.1031 6.729V6.03075H10.8381C10.9291 6.03075 11.0114 6.01325 11.0849 5.97825C11.1619 5.93975 11.2231 5.88375 11.2686 5.81025C11.3141 5.73675 11.3369 5.64575 11.3369 5.53725C11.3369 5.42875 11.3141 5.33775 11.2686 5.26425C11.2231 5.18725 11.1619 5.13125 11.0849 5.09625C11.0114 5.05775 10.9291 5.0385 10.8381 5.0385H10.1031V4.34025H11.0009C11.2389 4.34025 11.4541 4.38925 11.6466 4.48725C11.8391 4.58175 11.9914 4.71825 12.1034 4.89675C12.2154 5.07175 12.2714 5.28525 12.2714 5.53725C12.2714 5.78225 12.2154 5.99575 12.1034 6.17775C11.9914 6.35625 11.8391 6.49275 11.6466 6.58725C11.4541 6.68175 11.2389 6.729 11.0009 6.729H10.1031ZM9.35761 8.0625V4.34025H10.2974V8.0625H9.35761Z"
+                    fill="#923800"
+                  ></path>
+                  <defs>
+                    <linearGradient
+                      id="paint0_linear_10018_17757"
+                      x1="1.53125"
+                      y1="2.89655e-07"
+                      x2="11.8125"
+                      y2="12.25"
+                      gradientUnits="userSpaceOnUse"
+                    >
+                      <stop stopColor="#FDC775"></stop>
+                      <stop offset="0.528482" stopColor="#FFE7C6"></stop>
+                      <stop offset="1" stopColor="#E7A85C"></stop>
+                    </linearGradient>
+                    <linearGradient
+                      id="paint1_linear_10018_17757"
+                      x1="7"
+                      y1="0.65625"
+                      x2="7"
+                      y2="13.3438"
+                      gradientUnits="userSpaceOnUse"
+                    >
+                      <stop stopColor="#D27F4B"></stop>
+                      <stop offset="1" stopColor="#F1B55E"></stop>
+                    </linearGradient>
+                  </defs>
+                </svg>
+                <span data-v-4e36107e className="trend-name">
+                  Kitchen Appliances Trending
+                </span>
+                <span data-v-4e36107e className="trend-rank">
+                  #2
+                </span>
+                <svg
+                  data-v-b958d155
+                  data-v-4e36107e
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="8"
+                  height="8"
+                  viewBox="0 0 8 8"
+                  fill="none"
+                  className="trend-arrow"
+                >
+                  <path
+                    data-v-b958d155
+                    d="M2.6665 0.828125L5.83808 3.9997L2.6665 7.17127"
+                    stroke="#9A3412"
+                  ></path>
+                </svg>
+              </a>
+            </div>
+            <div className="site-item" data-id="6718">
+              <a
+                className="js_select_item js_load_item"
+                href="https://ng.oraimo.com/product/oraimo-watch-nova-2-air-smart-watch-osw-814s?ean=4894947124983"
+                data-id="6718"
+                data-sku="OSW-814S-CHROME"
+                data-name="Watch Nova 2 Air Ultra-Slim Watch Nova 2 Air Smart Watch"
+                data-price="35.12"
+                data-category="Smart Watches"
+                data-section-type="list"
+                data-section-name="oraimo Daily Deals"
+                data-select="1"
+              >
+                <div className="item-container">
+                  <img
+                    className="item-picture lazyloaded"
+                    alt="Watch Nova 2 Air Ultra-Slim Watch Nova 2 Air Smart Watch"
+                    data-src="https://cdn-img.oraimo.com/fit-in/540x540/GH/product/2026/07/08/OSW-814S-MAIN.png"
+                    src="/images/oraimo-87f598f85c923b7f.webp"
+                  />
+                  <div
+                    className="item-tag"
+                    style={{ borderColor: "rgb(130,230,0)" }}
+                  >
+                    <span
+                      className="item-tag-content"
+                      style={{ backgroundColor: "rgb(130,230,0)" }}
+                    >
+                      {" "}
+                      New Arrival{" "}
+                    </span>
+                  </div>
+                  <div className="item-review">
+                    <span className="item-review-score">4.7</span>
+                    <svg
+                      width="18"
+                      height="18"
+                      viewBox="0 0 18 18"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                      className="item-review-star"
+                    >
+                      <path
+                        d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                        fill="#82E600"
+                      ></path>
+                    </svg>
+                    <span className="item-review-count">(29)</span>
+                  </div>
+                </div>
+                <div className="item-content">
+                  <p className="item-title">
+                    {" "}
+                    Watch Nova 2 Air Ultra-Slim Watch Nova 2 Air Smart
+                    Watch{" "}
+                  </p>
+                  <p className="item-point">
+                    <span className="item-point-container">
+                      <img
+                        className="item-point-icon lazyloaded"
+                        alt="oraimo Al Chat & Al Watch Faces"
+                        data-src="https://cdn-img.oraimo.com/GH/2026/07/08/oraimo-ai-chat-and-ai-watch-faces.svg"
+                        src="/images/oraimo-93bd7e705f705e5a.svg"
+                      />
+                      <svg
+                        data-v-02c2eb76
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="20"
+                        height="20"
+                        viewBox="0 0 20 20"
+                        fill="none"
+                      >
+                        <circle
+                          data-v-02c2eb76
+                          opacity="0.3"
+                          cx="10"
+                          cy="10"
+                          r="9.75"
+                          stroke="#EEEEEE"
+                          strokeWidth="0.5"
+                        ></circle>
+                      </svg>
+                    </span>
+                    <span className="item-point-title">
+                      oraimo Al Chat &amp; Al Watch Faces
+                    </span>
+                  </p>
+                  <div className="item-price">
+                    <div className="item-price-main">
+                      <span className="item-price-final">
+                        <span>₦ 50,900</span>
+                        <span className="item-price-discount sf-hidden">
+                          -19%
+                        </span>
+                      </span>
+                      <del className="item-price-market">₦ 63,200</del>
+                    </div>
+                    <span className="item-price-discount">-19%</span>
+                  </div>
+                </div>
+              </a>
+              <a
+                data-v-4e36107e
+                href="https://ng.oraimo.com/trend?type=2&rank_id=0&category_id=238&category_rank_type=2"
+                className="module-common-trend"
+              >
+                <svg
+                  data-v-4e36107e
+                  width="14"
+                  height="14"
+                  viewBox="0 0 14 14"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                  className="trend-top"
+                >
+                  <path
+                    d="M0 1.75C0 0.783501 0.783502 0 1.75 0H12.25C13.2165 0 14 0.783502 14 1.75V9.71848C14 10.4071 13.5961 11.0317 12.9681 11.3143L7.71814 13.6768C7.26143 13.8824 6.73857 13.8824 6.28186 13.6768L1.03186 11.3143C0.403872 11.0317 0 10.4071 0 9.71848L0 1.75Z"
+                    fill="url(#paint0_linear_10018_17757)"
+                  ></path>
+                  <path
+                    d="M1.96875 0.765625H12.0312C12.6957 0.765625 13.2344 1.30428 13.2344 1.96875V9.61133C13.2344 10.0829 12.9585 10.5117 12.5293 10.707L7.49805 12.9971C7.18165 13.1409 6.81835 13.1409 6.50195 12.9971L1.4707 10.707C1.0415 10.5117 0.765625 10.0829 0.765625 9.61133V1.96875C0.765626 1.30428 1.30428 0.765625 1.96875 0.765625Z"
+                    stroke="url(#paint1_linear_10018_17757)"
+                    strokeWidth="0.21875"
+                  ></path>
+                  <path
+                    d="M2.765 8.0625V4.3665H3.70475V8.0625H2.765ZM1.62575 5.14875V4.34025H4.844V5.14875H1.62575ZM6.90836 8.13075C6.62136 8.13075 6.35711 8.08175 6.11561 7.98375C5.87411 7.88575 5.66236 7.74925 5.48036 7.57425C5.30186 7.39925 5.16186 7.1945 5.06036 6.96C4.95886 6.722 4.90811 6.4665 4.90811 6.1935C4.90811 5.9205 4.95711 5.6685 5.05511 5.4375C5.15661 5.203 5.29661 4.99825 5.47511 4.82325C5.65361 4.64825 5.86361 4.5135 6.10511 4.419C6.34661 4.321 6.61086 4.272 6.89786 4.272C7.18486 4.272 7.44911 4.321 7.69061 4.419C7.93211 4.5135 8.14211 4.64825 8.32061 4.82325C8.49911 4.99825 8.63736 5.203 8.73536 5.4375C8.83686 5.672 8.88761 5.92575 8.88761 6.19875C8.88761 6.47175 8.83686 6.7255 8.73536 6.96C8.63736 7.1945 8.49911 7.401 8.32061 7.5795C8.14211 7.7545 7.93211 7.891 7.69061 7.989C7.45261 8.0835 7.19186 8.13075 6.90836 8.13075ZM6.89786 7.29075C7.10786 7.29075 7.28986 7.24525 7.44386 7.15425C7.59786 7.06325 7.71686 6.9355 7.80086 6.771C7.88486 6.6065 7.92686 6.414 7.92686 6.1935C7.92686 6.0325 7.90236 5.8855 7.85336 5.7525C7.80786 5.6195 7.73961 5.50575 7.64861 5.41125C7.55761 5.31325 7.44911 5.238 7.32311 5.1855C7.19711 5.133 7.05536 5.10675 6.89786 5.10675C6.68786 5.10675 6.50586 5.15225 6.35186 5.24325C6.19786 5.33075 6.07886 5.45675 5.99486 5.62125C5.91086 5.78575 5.86886 5.9765 5.86886 6.1935C5.86886 6.3615 5.89161 6.51375 5.93711 6.65025C5.98611 6.78325 6.05611 6.89875 6.14711 6.99675C6.23811 7.09125 6.34661 7.16475 6.47261 7.21725C6.59861 7.26625 6.74036 7.29075 6.89786 7.29075ZM10.1031 6.729V6.03075H10.8381C10.9291 6.03075 11.0114 6.01325 11.0849 5.97825C11.1619 5.93975 11.2231 5.88375 11.2686 5.81025C11.3141 5.73675 11.3369 5.64575 11.3369 5.53725C11.3369 5.42875 11.3141 5.33775 11.2686 5.26425C11.2231 5.18725 11.1619 5.13125 11.0849 5.09625C11.0114 5.05775 10.9291 5.0385 10.8381 5.0385H10.1031V4.34025H11.0009C11.2389 4.34025 11.4541 4.38925 11.6466 4.48725C11.8391 4.58175 11.9914 4.71825 12.1034 4.89675C12.2154 5.07175 12.2714 5.28525 12.2714 5.53725C12.2714 5.78225 12.2154 5.99575 12.1034 6.17775C11.9914 6.35625 11.8391 6.49275 11.6466 6.58725C11.4541 6.68175 11.2389 6.729 11.0009 6.729H10.1031ZM9.35761 8.0625V4.34025H10.2974V8.0625H9.35761Z"
+                    fill="#923800"
+                  ></path>
+                  <defs>
+                    <linearGradient
+                      id="paint0_linear_10018_17757"
+                      x1="1.53125"
+                      y1="2.89655e-07"
+                      x2="11.8125"
+                      y2="12.25"
+                      gradientUnits="userSpaceOnUse"
+                    >
+                      <stop stopColor="#FDC775"></stop>
+                      <stop offset="0.528482" stopColor="#FFE7C6"></stop>
+                      <stop offset="1" stopColor="#E7A85C"></stop>
+                    </linearGradient>
+                    <linearGradient
+                      id="paint1_linear_10018_17757"
+                      x1="7"
+                      y1="0.65625"
+                      x2="7"
+                      y2="13.3438"
+                      gradientUnits="userSpaceOnUse"
+                    >
+                      <stop stopColor="#D27F4B"></stop>
+                      <stop offset="1" stopColor="#F1B55E"></stop>
+                    </linearGradient>
+                  </defs>
+                </svg>
+                <span data-v-4e36107e className="trend-name">
+                  Smart Watches New Arrival
+                </span>
+                <span data-v-4e36107e className="trend-rank">
+                  #1
+                </span>
+                <svg
+                  data-v-b958d155
+                  data-v-4e36107e
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="8"
+                  height="8"
+                  viewBox="0 0 8 8"
+                  fill="none"
+                  className="trend-arrow"
+                >
+                  <path
+                    data-v-b958d155
+                    d="M2.6665 0.828125L5.83808 3.9997L2.6665 7.17127"
+                    stroke="#9A3412"
+                  ></path>
+                </svg>
+              </a>
+            </div>
+            <div className="site-item" data-id="4332">
+              <a
+                className="js_select_item js_load_item"
+                href="https://ng.oraimo.com/product/oraimo-opensnap-clip-on-open-ear-true-wireless-headphones-opn-373?ean=4894947092275"
+                data-id="4332"
+                data-sku="OPN-373-GRAVITYBLACK"
+                data-name="OpenSnap oraimo OpenSnap Open-Ear Earbuds"
+                data-price="20.63"
+                data-category="Open-Ear Headphones"
+                data-section-type="list"
+                data-section-name="oraimo Daily Deals"
+                data-select="1"
+              >
+                <div className="item-container">
+                  <img
+                    className="item-picture lazyloaded"
+                    alt="OpenSnap oraimo OpenSnap Open-Ear Earbuds"
+                    data-src="https://cdn-img.oraimo.com/fit-in/540x540/BD/product/2025/08/07/OPN-373-BLACK.png"
+                    src="/images/oraimo-fe500fa8c2921a23.webp"
+                  />
+                  <div className="item-color">
+                    <div className="item-color-item">
+                      <img
+                        className="item-color-avatar lazyloaded"
+                        alt="BD/product/2025/08/07/OPN-373-BLACK.png"
+                        data-src="https://cdn-img.oraimo.com/fit-in/360x360/BD/product/2025/08/07/OPN-373-BLACK.png"
+                        src="/images/oraimo-cbeea86b7c7d75af.webp"
+                      />
+                    </div>
+                    <div className="item-color-item">
+                      <img
+                        className="item-color-avatar lazyloaded"
+                        alt="BD/product/2025/08/07/OPN-373-lightgold.png"
+                        data-src="https://cdn-img.oraimo.com/fit-in/360x360/BD/product/2025/08/07/OPN-373-lightgold.png"
+                        src="/images/oraimo-929bd8be7dd12087.webp"
+                      />
+                    </div>
+                  </div>
+                  <div className="item-review">
+                    <span
+                      className="item-review-score"
+                      style={{ display: "inline" }}
+                    >
+                      4.7
+                    </span>
+                    <svg
+                      width="18"
+                      height="18"
+                      viewBox="0 0 18 18"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                      className="item-review-star"
+                    >
+                      <path
+                        d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                        fill="#82E600"
+                      ></path>
+                    </svg>
+                    <span className="item-review-count">(595)</span>
+                  </div>
+                </div>
+                <div className="item-content">
+                  <p className="item-title">
+                    {" "}
+                    OpenSnap oraimo OpenSnap Open-Ear Earbuds{" "}
+                  </p>
+                  <p className="item-point">
+                    <span className="item-point-container">
+                      <img
+                        className="item-point-icon lazyloaded"
+                        alt="Comfortable and Secure Fit"
+                        data-src="https://cdn-img.oraimo.com/label/compact-and-comfortable.svg"
+                        src="/images/oraimo-c6fe883bda2b48c2.svg"
+                      />
+                      <svg
+                        data-v-02c2eb76
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="20"
+                        height="20"
+                        viewBox="0 0 20 20"
+                        fill="none"
+                      >
+                        <circle
+                          data-v-02c2eb76
+                          opacity="0.3"
+                          cx="10"
+                          cy="10"
+                          r="9.75"
+                          stroke="#EEEEEE"
+                          strokeWidth="0.5"
+                        ></circle>
+                      </svg>
+                    </span>
+                    <span className="item-point-title">
+                      Comfortable and Secure Fit
+                    </span>
+                  </p>
+                  <div className="item-price">
+                    <div className="item-price-main">
+                      <span className="item-price-final">
+                        <span>₦ 29,900</span>
+                        <span className="item-price-discount sf-hidden">
+                          -10%
+                        </span>
+                      </span>
+                      <del className="item-price-market">₦ 33,200</del>
+                    </div>
+                    <span className="item-price-discount">-10%</span>
+                  </div>
+                </div>
+              </a>
+              <a
+                data-v-4e36107e
+                href="https://ng.oraimo.com/trend?type=2&rank_id=0&category_id=229&category_rank_type=1"
+                className="module-common-trend"
+              >
+                <svg
+                  data-v-4e36107e
+                  width="14"
+                  height="14"
+                  viewBox="0 0 14 14"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                  className="trend-top"
+                >
+                  <path
+                    d="M0 1.75C0 0.783501 0.783502 0 1.75 0H12.25C13.2165 0 14 0.783502 14 1.75V9.71848C14 10.4071 13.5961 11.0317 12.9681 11.3143L7.71814 13.6768C7.26143 13.8824 6.73857 13.8824 6.28186 13.6768L1.03186 11.3143C0.403872 11.0317 0 10.4071 0 9.71848L0 1.75Z"
+                    fill="url(#paint0_linear_10018_17757)"
+                  ></path>
+                  <path
+                    d="M1.96875 0.765625H12.0312C12.6957 0.765625 13.2344 1.30428 13.2344 1.96875V9.61133C13.2344 10.0829 12.9585 10.5117 12.5293 10.707L7.49805 12.9971C7.18165 13.1409 6.81835 13.1409 6.50195 12.9971L1.4707 10.707C1.0415 10.5117 0.765625 10.0829 0.765625 9.61133V1.96875C0.765626 1.30428 1.30428 0.765625 1.96875 0.765625Z"
+                    stroke="url(#paint1_linear_10018_17757)"
+                    strokeWidth="0.21875"
+                  ></path>
+                  <path
+                    d="M2.765 8.0625V4.3665H3.70475V8.0625H2.765ZM1.62575 5.14875V4.34025H4.844V5.14875H1.62575ZM6.90836 8.13075C6.62136 8.13075 6.35711 8.08175 6.11561 7.98375C5.87411 7.88575 5.66236 7.74925 5.48036 7.57425C5.30186 7.39925 5.16186 7.1945 5.06036 6.96C4.95886 6.722 4.90811 6.4665 4.90811 6.1935C4.90811 5.9205 4.95711 5.6685 5.05511 5.4375C5.15661 5.203 5.29661 4.99825 5.47511 4.82325C5.65361 4.64825 5.86361 4.5135 6.10511 4.419C6.34661 4.321 6.61086 4.272 6.89786 4.272C7.18486 4.272 7.44911 4.321 7.69061 4.419C7.93211 4.5135 8.14211 4.64825 8.32061 4.82325C8.49911 4.99825 8.63736 5.203 8.73536 5.4375C8.83686 5.672 8.88761 5.92575 8.88761 6.19875C8.88761 6.47175 8.83686 6.7255 8.73536 6.96C8.63736 7.1945 8.49911 7.401 8.32061 7.5795C8.14211 7.7545 7.93211 7.891 7.69061 7.989C7.45261 8.0835 7.19186 8.13075 6.90836 8.13075ZM6.89786 7.29075C7.10786 7.29075 7.28986 7.24525 7.44386 7.15425C7.59786 7.06325 7.71686 6.9355 7.80086 6.771C7.88486 6.6065 7.92686 6.414 7.92686 6.1935C7.92686 6.0325 7.90236 5.8855 7.85336 5.7525C7.80786 5.6195 7.73961 5.50575 7.64861 5.41125C7.55761 5.31325 7.44911 5.238 7.32311 5.1855C7.19711 5.133 7.05536 5.10675 6.89786 5.10675C6.68786 5.10675 6.50586 5.15225 6.35186 5.24325C6.19786 5.33075 6.07886 5.45675 5.99486 5.62125C5.91086 5.78575 5.86886 5.9765 5.86886 6.1935C5.86886 6.3615 5.89161 6.51375 5.93711 6.65025C5.98611 6.78325 6.05611 6.89875 6.14711 6.99675C6.23811 7.09125 6.34661 7.16475 6.47261 7.21725C6.59861 7.26625 6.74036 7.29075 6.89786 7.29075ZM10.1031 6.729V6.03075H10.8381C10.9291 6.03075 11.0114 6.01325 11.0849 5.97825C11.1619 5.93975 11.2231 5.88375 11.2686 5.81025C11.3141 5.73675 11.3369 5.64575 11.3369 5.53725C11.3369 5.42875 11.3141 5.33775 11.2686 5.26425C11.2231 5.18725 11.1619 5.13125 11.0849 5.09625C11.0114 5.05775 10.9291 5.0385 10.8381 5.0385H10.1031V4.34025H11.0009C11.2389 4.34025 11.4541 4.38925 11.6466 4.48725C11.8391 4.58175 11.9914 4.71825 12.1034 4.89675C12.2154 5.07175 12.2714 5.28525 12.2714 5.53725C12.2714 5.78225 12.2154 5.99575 12.1034 6.17775C11.9914 6.35625 11.8391 6.49275 11.6466 6.58725C11.4541 6.68175 11.2389 6.729 11.0009 6.729H10.1031ZM9.35761 8.0625V4.34025H10.2974V8.0625H9.35761Z"
+                    fill="#923800"
+                  ></path>
+                  <defs>
+                    <linearGradient
+                      id="paint0_linear_10018_17757"
+                      x1="1.53125"
+                      y1="2.89655e-07"
+                      x2="11.8125"
+                      y2="12.25"
+                      gradientUnits="userSpaceOnUse"
+                    >
+                      <stop stopColor="#FDC775"></stop>
+                      <stop offset="0.528482" stopColor="#FFE7C6"></stop>
+                      <stop offset="1" stopColor="#E7A85C"></stop>
+                    </linearGradient>
+                    <linearGradient
+                      id="paint1_linear_10018_17757"
+                      x1="7"
+                      y1="0.65625"
+                      x2="7"
+                      y2="13.3438"
+                      gradientUnits="userSpaceOnUse"
+                    >
+                      <stop stopColor="#D27F4B"></stop>
+                      <stop offset="1" stopColor="#F1B55E"></stop>
+                    </linearGradient>
+                  </defs>
+                </svg>
+                <span data-v-4e36107e className="trend-name">
+                  oraimo Audio Best Seller
+                </span>
+                <span data-v-4e36107e className="trend-rank">
+                  #5
+                </span>
+                <svg
+                  data-v-b958d155
+                  data-v-4e36107e
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="8"
+                  height="8"
+                  viewBox="0 0 8 8"
+                  fill="none"
+                  className="trend-arrow"
+                >
+                  <path
+                    data-v-b958d155
+                    d="M2.6665 0.828125L5.83808 3.9997L2.6665 7.17127"
+                    stroke="#9A3412"
+                  ></path>
+                </svg>
+              </a>
+            </div>
+            <div className="site-item" data-id="2646">
+              <a
+                className="js_select_item js_load_item"
+                href="https://ng.oraimo.com/product/oraimo-osv-102b-cybervac-self-standing-powerful-suction-advanced-180w-stick-vaccum?ean=4894947058356"
+                data-id="2646"
+                data-sku="OSV-102B"
+                data-name="CyberVac 180W Wireless Stick Vacuum Cleaner"
+                data-price="89.63"
+                data-category="Vacuums & Scrubbers"
+                data-section-type="list"
+                data-section-name="oraimo Daily Deals"
+                data-select="1"
+              >
+                <div className="item-container">
+                  <img
+                    className="item-picture lazyloaded"
+                    alt="CyberVac 180W Wireless Stick Vacuum Cleaner"
+                    data-src="https://cdn-img.oraimo.com/fit-in/540x540/NG/product/2026/06/25/OSV-102B-MAIN.png"
+                    src="/images/oraimo-3d0b2bf797afd716.webp"
+                  />
+                  <div className="item-review">
+                    <span className="item-review-score">4.8</span>
+                    <svg
+                      width="18"
+                      height="18"
+                      viewBox="0 0 18 18"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                      className="item-review-star"
+                    >
+                      <path
+                        d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                        fill="#82E600"
+                      ></path>
+                    </svg>
+                    <span className="item-review-count">(196)</span>
+                  </div>
+                </div>
+                <div className="item-content">
+                  <p className="item-title">
+                    {" "}
+                    CyberVac 180W Wireless Stick Vacuum Cleaner{" "}
+                  </p>
+                  <p className="item-point">
+                    <span className="item-point-container">
+                      <img
+                        className="item-point-icon lazyloaded"
+                        alt="Advanced Filtration"
+                        data-src="https://cdn-img.oraimo.com/label/advanced-filtration.svg"
+                        src="/images/oraimo-8e004aa625af5744.svg"
+                      />
+                      <svg
+                        data-v-02c2eb76
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="20"
+                        height="20"
+                        viewBox="0 0 20 20"
+                        fill="none"
+                      >
+                        <circle
+                          data-v-02c2eb76
+                          opacity="0.3"
+                          cx="10"
+                          cy="10"
+                          r="9.75"
+                          stroke="#EEEEEE"
+                          strokeWidth="0.5"
+                        ></circle>
+                      </svg>
+                    </span>
+                    <span className="item-point-title">
+                      Advanced Filtration
+                    </span>
+                  </p>
+                  <div className="item-price">
+                    <div className="item-price-main">
+                      <span className="item-price-final">
+                        <span>₦ 129,900</span>
+                        <span className="item-price-discount sf-hidden">
+                          -10%
+                        </span>
+                      </span>
+                      <del className="item-price-market">₦ 144,400</del>
+                    </div>
+                    <span className="item-price-discount">-10%</span>
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div className="site-item" data-id="5751">
+              <a
+                className="js_select_item js_load_item"
+                href="https://ng.oraimo.com/product/oraimo-easycut-2-10w-super-powerful-quick-charge-hair-clipper-ocl-233n-naturaltitanium?ean=4894947109065"
+                data-id="5751"
+                data-sku="OCL-233N-NATURALTITANIUM"
+                data-name="EasyCut 2 10W Super Powerful Quick Charge Hair Clipper"
+                data-price="19.81"
+                data-category="Clipper"
+                data-section-type="list"
+                data-section-name="oraimo Daily Deals"
+                data-select="1"
+              >
+                <div className="item-container">
+                  <img
+                    className="item-picture lazyloaded"
+                    alt="EasyCut 2 10W Super Powerful Quick Charge Hair Clipper"
+                    data-src="https://cdn-img.oraimo.com/fit-in/540x540/NG/product/2026/05/22/OCL-233N-TITANIUM-MAIN-image.png"
+                    src="/images/oraimo-1fbc194dda3341fa.webp"
+                  />
+                  <div
+                    className="item-tag"
+                    style={{ borderColor: "rgb(230,0,27)" }}
+                  >
+                    <span
+                      className="item-tag-content"
+                      style={{ backgroundColor: "rgb(230,0,27)" }}
+                    >
+                      {" "}
+                      Flash Sale{" "}
+                    </span>
+                  </div>
+                  <div className="item-review">
+                    <span className="item-review-score">4.8</span>
+                    <svg
+                      width="18"
+                      height="18"
+                      viewBox="0 0 18 18"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                      className="item-review-star"
+                    >
+                      <path
+                        d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                        fill="#82E600"
+                      ></path>
+                    </svg>
+                    <span className="item-review-count">(195)</span>
+                  </div>
+                </div>
+                <div className="item-content">
+                  <p className="item-title">
+                    {" "}
+                    EasyCut 2 10W Super Powerful Quick Charge Hair Clipper{" "}
+                  </p>
+                  <p className="item-point">
+                    <span className="item-point-container">
+                      <img
+                        className="item-point-icon lazyloaded"
+                        alt="Super Powerful Motor"
+                        data-src="https://cdn-img.oraimo.com/GH/2025/07/15/super-powerful-motor.svg"
+                        src="/images/oraimo-bcfec33c87f5dedf.svg"
+                      />
+                      <svg
+                        data-v-02c2eb76
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="20"
+                        height="20"
+                        viewBox="0 0 20 20"
+                        fill="none"
+                      >
+                        <circle
+                          data-v-02c2eb76
+                          opacity="0.3"
+                          cx="10"
+                          cy="10"
+                          r="9.75"
+                          stroke="#EEEEEE"
+                          strokeWidth="0.5"
+                        ></circle>
+                      </svg>
+                    </span>
+                    <span className="item-point-title">
+                      Super Powerful Motor
+                    </span>
+                  </p>
+                  <div className="item-price">
+                    <div className="item-price-main">
+                      <span className="item-price-final">
+                        <span>₦ 28,710</span>
+                        <span className="item-price-discount sf-hidden">
+                          -14%
+                        </span>
+                      </span>
+                      <del className="item-price-market">₦ 33,300</del>
+                    </div>
+                    <span className="item-price-discount">-14%</span>
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div className="site-item" data-id="6197">
+              <a
+                className="js_select_item js_load_item"
+                href="https://ng.oraimo.com/product/oraimo-opensnap-n2-quick-charging-adaptive-volume-open-ear-true-wireless-earbuds-opn-374n?ean=4894947117992"
+                data-id="6197"
+                data-sku="OPN-374N-GRAVITYBLACK"
+                data-name="OpenSnap N2 Quick Charging Deep Bass Open-Ear True Wireless Earbuds"
+                data-price="20.63"
+                data-category="Open-Ear Headphones"
+                data-section-type="list"
+                data-section-name="oraimo Daily Deals"
+                data-select="1"
+              >
+                <div className="item-container">
+                  <img
+                    className="item-picture lazyloaded"
+                    alt="OpenSnap N2 Quick Charging Deep Bass Open-Ear True Wireless Earbuds"
+                    data-src="https://cdn-img.oraimo.com/fit-in/540x540/MA/product/2026/03/16/OPN-374N-BLACK-NEW.png"
+                    src="/images/oraimo-f77c1f170762dadb.webp"
+                  />
+                  <div
+                    className="item-tag"
+                    style={{ borderColor: "rgb(130,230,0)" }}
+                  >
+                    <span
+                      className="item-tag-content"
+                      style={{ backgroundColor: "rgb(130,230,0)" }}
+                    >
+                      {" "}
+                      New Arrival{" "}
+                    </span>
+                  </div>
+                  <div className="item-color">
+                    <div className="item-color-item">
+                      <img
+                        className="item-color-avatar lazyloaded"
+                        alt="MA/product/2026/03/16/OPN-374N-BLACK-NEW.png"
+                        data-src="https://cdn-img.oraimo.com/fit-in/360x360/MA/product/2026/03/16/OPN-374N-BLACK-NEW.png"
+                        src="/images/oraimo-0b358a3efb898ded.webp"
+                      />
+                    </div>
+                    <div className="item-color-item">
+                      <img
+                        className="item-color-avatar lazyloaded"
+                        alt="GH/product/2026/04/09/OPN-374N-AMBERGOLD-MAIN.png"
+                        data-src="https://cdn-img.oraimo.com/fit-in/360x360/GH/product/2026/04/09/OPN-374N-AMBERGOLD-MAIN.png"
+                        src="/images/oraimo-1428da198bc0e4f7.webp"
+                      />
+                    </div>
+                    <div className="item-color-item">
+                      <img
+                        className="item-color-avatar lazyloaded"
+                        alt="MA/product/2026/03/16/OPN-374N-LIGHTGOLD-NEW.png"
+                        data-src="https://cdn-img.oraimo.com/fit-in/360x360/MA/product/2026/03/16/OPN-374N-LIGHTGOLD-NEW.png"
+                        src="/images/oraimo-1add9ce5a3404b8a.webp"
+                      />
+                    </div>
+                  </div>
+                  <div className="item-review">
+                    <span className="item-review-score">4.7</span>
+                    <svg
+                      width="18"
+                      height="18"
+                      viewBox="0 0 18 18"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                      className="item-review-star"
+                    >
+                      <path
+                        d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                        fill="#82E600"
+                      ></path>
+                    </svg>
+                    <span className="item-review-count">(281)</span>
+                  </div>
+                </div>
+                <div className="item-content">
+                  <p className="item-title">
+                    {" "}
+                    OpenSnap N2 Quick Charging Deep Bass Open-Ear True Wireless
+                    Earbuds{" "}
+                  </p>
+                  <p className="item-point">
+                    <span className="item-point-container">
+                      <img
+                        className="item-point-icon lazyloaded"
+                        alt="Smart Adaptive Volume"
+                        data-src="https://cdn-img.oraimo.com/CI/2026/02/09/smart-adaptive-volume.svg"
+                        src="/images/oraimo-42db8644177117c1.svg"
+                      />
+                      <svg
+                        data-v-02c2eb76
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="20"
+                        height="20"
+                        viewBox="0 0 20 20"
+                        fill="none"
+                      >
+                        <circle
+                          data-v-02c2eb76
+                          opacity="0.3"
+                          cx="10"
+                          cy="10"
+                          r="9.75"
+                          stroke="#EEEEEE"
+                          strokeWidth="0.5"
+                        ></circle>
+                      </svg>
+                    </span>
+                    <span className="item-point-title">
+                      Smart Adaptive Volume
+                    </span>
+                  </p>
+                  <div className="item-price">
+                    <div className="item-price-main">
+                      <span className="item-price-final">
+                        <span>₦ 29,900</span>
+                        <span className="item-price-discount sf-hidden">
+                          -10%
+                        </span>
+                      </span>
+                      <del className="item-price-market">₦ 33,300</del>
+                    </div>
+                    <span className="item-price-discount">-10%</span>
+                  </div>
+                </div>
+              </a>
+              <a
+                data-v-4e36107e
+                href="https://ng.oraimo.com/trend?type=2&rank_id=0&category_id=229&category_rank_type=1"
+                className="module-common-trend"
+              >
+                <svg
+                  data-v-4e36107e
+                  width="14"
+                  height="14"
+                  viewBox="0 0 14 14"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                  className="trend-top"
+                >
+                  <path
+                    d="M0 1.75C0 0.783501 0.783502 0 1.75 0H12.25C13.2165 0 14 0.783502 14 1.75V9.71848C14 10.4071 13.5961 11.0317 12.9681 11.3143L7.71814 13.6768C7.26143 13.8824 6.73857 13.8824 6.28186 13.6768L1.03186 11.3143C0.403872 11.0317 0 10.4071 0 9.71848L0 1.75Z"
+                    fill="url(#paint0_linear_10018_17757)"
+                  ></path>
+                  <path
+                    d="M1.96875 0.765625H12.0312C12.6957 0.765625 13.2344 1.30428 13.2344 1.96875V9.61133C13.2344 10.0829 12.9585 10.5117 12.5293 10.707L7.49805 12.9971C7.18165 13.1409 6.81835 13.1409 6.50195 12.9971L1.4707 10.707C1.0415 10.5117 0.765625 10.0829 0.765625 9.61133V1.96875C0.765626 1.30428 1.30428 0.765625 1.96875 0.765625Z"
+                    stroke="url(#paint1_linear_10018_17757)"
+                    strokeWidth="0.21875"
+                  ></path>
+                  <path
+                    d="M2.765 8.0625V4.3665H3.70475V8.0625H2.765ZM1.62575 5.14875V4.34025H4.844V5.14875H1.62575ZM6.90836 8.13075C6.62136 8.13075 6.35711 8.08175 6.11561 7.98375C5.87411 7.88575 5.66236 7.74925 5.48036 7.57425C5.30186 7.39925 5.16186 7.1945 5.06036 6.96C4.95886 6.722 4.90811 6.4665 4.90811 6.1935C4.90811 5.9205 4.95711 5.6685 5.05511 5.4375C5.15661 5.203 5.29661 4.99825 5.47511 4.82325C5.65361 4.64825 5.86361 4.5135 6.10511 4.419C6.34661 4.321 6.61086 4.272 6.89786 4.272C7.18486 4.272 7.44911 4.321 7.69061 4.419C7.93211 4.5135 8.14211 4.64825 8.32061 4.82325C8.49911 4.99825 8.63736 5.203 8.73536 5.4375C8.83686 5.672 8.88761 5.92575 8.88761 6.19875C8.88761 6.47175 8.83686 6.7255 8.73536 6.96C8.63736 7.1945 8.49911 7.401 8.32061 7.5795C8.14211 7.7545 7.93211 7.891 7.69061 7.989C7.45261 8.0835 7.19186 8.13075 6.90836 8.13075ZM6.89786 7.29075C7.10786 7.29075 7.28986 7.24525 7.44386 7.15425C7.59786 7.06325 7.71686 6.9355 7.80086 6.771C7.88486 6.6065 7.92686 6.414 7.92686 6.1935C7.92686 6.0325 7.90236 5.8855 7.85336 5.7525C7.80786 5.6195 7.73961 5.50575 7.64861 5.41125C7.55761 5.31325 7.44911 5.238 7.32311 5.1855C7.19711 5.133 7.05536 5.10675 6.89786 5.10675C6.68786 5.10675 6.50586 5.15225 6.35186 5.24325C6.19786 5.33075 6.07886 5.45675 5.99486 5.62125C5.91086 5.78575 5.86886 5.9765 5.86886 6.1935C5.86886 6.3615 5.89161 6.51375 5.93711 6.65025C5.98611 6.78325 6.05611 6.89875 6.14711 6.99675C6.23811 7.09125 6.34661 7.16475 6.47261 7.21725C6.59861 7.26625 6.74036 7.29075 6.89786 7.29075ZM10.1031 6.729V6.03075H10.8381C10.9291 6.03075 11.0114 6.01325 11.0849 5.97825C11.1619 5.93975 11.2231 5.88375 11.2686 5.81025C11.3141 5.73675 11.3369 5.64575 11.3369 5.53725C11.3369 5.42875 11.3141 5.33775 11.2686 5.26425C11.2231 5.18725 11.1619 5.13125 11.0849 5.09625C11.0114 5.05775 10.9291 5.0385 10.8381 5.0385H10.1031V4.34025H11.0009C11.2389 4.34025 11.4541 4.38925 11.6466 4.48725C11.8391 4.58175 11.9914 4.71825 12.1034 4.89675C12.2154 5.07175 12.2714 5.28525 12.2714 5.53725C12.2714 5.78225 12.2154 5.99575 12.1034 6.17775C11.9914 6.35625 11.8391 6.49275 11.6466 6.58725C11.4541 6.68175 11.2389 6.729 11.0009 6.729H10.1031ZM9.35761 8.0625V4.34025H10.2974V8.0625H9.35761Z"
+                    fill="#923800"
+                  ></path>
+                  <defs>
+                    <linearGradient
+                      id="paint0_linear_10018_17757"
+                      x1="1.53125"
+                      y1="2.89655e-07"
+                      x2="11.8125"
+                      y2="12.25"
+                      gradientUnits="userSpaceOnUse"
+                    >
+                      <stop stopColor="#FDC775"></stop>
+                      <stop offset="0.528482" stopColor="#FFE7C6"></stop>
+                      <stop offset="1" stopColor="#E7A85C"></stop>
+                    </linearGradient>
+                    <linearGradient
+                      id="paint1_linear_10018_17757"
+                      x1="7"
+                      y1="0.65625"
+                      x2="7"
+                      y2="13.3438"
+                      gradientUnits="userSpaceOnUse"
+                    >
+                      <stop stopColor="#D27F4B"></stop>
+                      <stop offset="1" stopColor="#F1B55E"></stop>
+                    </linearGradient>
+                  </defs>
+                </svg>
+                <span data-v-4e36107e className="trend-name">
+                  oraimo Audio Best Seller
+                </span>
+                <span data-v-4e36107e className="trend-rank">
+                  #2
+                </span>
+                <svg
+                  data-v-b958d155
+                  data-v-4e36107e
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="8"
+                  height="8"
+                  viewBox="0 0 8 8"
+                  fill="none"
+                  className="trend-arrow"
+                >
+                  <path
+                    data-v-b958d155
+                    d="M2.6665 0.828125L5.83808 3.9997L2.6665 7.17127"
+                    stroke="#9A3412"
+                  ></path>
+                </svg>
+              </a>
+            </div>
+            <div className="site-item" data-id="3303">
+              <a
+                className="js_select_item js_load_item"
+                href="https://ng.oraimo.com/product/oraimo-easyjuice-108mm-large-feed-chute-slow-juicer?ean=4894947066139"
+                data-id="3303"
+                data-sku="OMJ-501A"
+                data-name="EasyJuice 108mm Diameter 800ML Slow Juicer"
+                data-price="67.55"
+                data-category="Blenders, Juicers & Grinders"
+                data-section-type="list"
+                data-section-name="oraimo Daily Deals"
+                data-select="1"
+              >
+                <div className="item-container">
+                  <img
+                    className="item-picture lazyloaded"
+                    alt="EasyJuice 108mm Diameter 800ML Slow Juicer"
+                    data-src="https://cdn-img.oraimo.com/fit-in/540x540/KE/product/2025/04/07/oraimo-Slow-Juicer-OMJ-501A.png"
+                    src="/images/oraimo-e880d507c92d9219.webp"
+                  />
+                  <div className="item-review">
+                    <span className="item-review-score">4.7</span>
+                    <svg
+                      width="18"
+                      height="18"
+                      viewBox="0 0 18 18"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                      className="item-review-star"
+                    >
+                      <path
+                        d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                        fill="#82E600"
+                      ></path>
+                    </svg>
+                    <span className="item-review-count">(125)</span>
+                  </div>
+                </div>
+                <div className="item-content">
+                  <p className="item-title">
+                    {" "}
+                    EasyJuice 108mm Diameter 800ML Slow Juicer{" "}
+                  </p>
+                  <p className="item-point">
+                    <span className="item-point-container">
+                      <img
+                        className="item-point-icon lazyloaded"
+                        alt="Larger Feed Chute"
+                        data-src="https://cdn-img.oraimo.com/KE/2025/04/12/larger-feed-chute.svg"
+                        src="/images/oraimo-8ddcdb12068cbad7.svg"
+                      />
+                      <svg
+                        data-v-02c2eb76
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="20"
+                        height="20"
+                        viewBox="0 0 20 20"
+                        fill="none"
+                      >
+                        <circle
+                          data-v-02c2eb76
+                          opacity="0.3"
+                          cx="10"
+                          cy="10"
+                          r="9.75"
+                          stroke="#EEEEEE"
+                          strokeWidth="0.5"
+                        ></circle>
+                      </svg>
+                    </span>
+                    <span className="item-point-title">Larger Feed Chute</span>
+                  </p>
+                  <div className="item-price">
+                    <div className="item-price-main">
+                      <span className="item-price-final">
+                        <span>₦ 97,900</span>
+                        <span className="item-price-discount sf-hidden">
+                          -10%
+                        </span>
+                      </span>
+                      <del className="item-price-market">₦ 108,800</del>
+                    </div>
+                    <span className="item-price-discount">-10%</span>
+                  </div>
+                </div>
+              </a>
+              <a
+                data-v-4e36107e
+                href="https://ng.oraimo.com/trend?type=2&rank_id=0&category_id=743&category_rank_type=1"
+                className="module-common-trend"
+              >
+                <svg
+                  data-v-4e36107e
+                  width="14"
+                  height="14"
+                  viewBox="0 0 14 14"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                  className="trend-top"
+                >
+                  <path
+                    d="M0 1.75C0 0.783501 0.783502 0 1.75 0H12.25C13.2165 0 14 0.783502 14 1.75V9.71848C14 10.4071 13.5961 11.0317 12.9681 11.3143L7.71814 13.6768C7.26143 13.8824 6.73857 13.8824 6.28186 13.6768L1.03186 11.3143C0.403872 11.0317 0 10.4071 0 9.71848L0 1.75Z"
+                    fill="url(#paint0_linear_10018_17757)"
+                  ></path>
+                  <path
+                    d="M1.96875 0.765625H12.0312C12.6957 0.765625 13.2344 1.30428 13.2344 1.96875V9.61133C13.2344 10.0829 12.9585 10.5117 12.5293 10.707L7.49805 12.9971C7.18165 13.1409 6.81835 13.1409 6.50195 12.9971L1.4707 10.707C1.0415 10.5117 0.765625 10.0829 0.765625 9.61133V1.96875C0.765626 1.30428 1.30428 0.765625 1.96875 0.765625Z"
+                    stroke="url(#paint1_linear_10018_17757)"
+                    strokeWidth="0.21875"
+                  ></path>
+                  <path
+                    d="M2.765 8.0625V4.3665H3.70475V8.0625H2.765ZM1.62575 5.14875V4.34025H4.844V5.14875H1.62575ZM6.90836 8.13075C6.62136 8.13075 6.35711 8.08175 6.11561 7.98375C5.87411 7.88575 5.66236 7.74925 5.48036 7.57425C5.30186 7.39925 5.16186 7.1945 5.06036 6.96C4.95886 6.722 4.90811 6.4665 4.90811 6.1935C4.90811 5.9205 4.95711 5.6685 5.05511 5.4375C5.15661 5.203 5.29661 4.99825 5.47511 4.82325C5.65361 4.64825 5.86361 4.5135 6.10511 4.419C6.34661 4.321 6.61086 4.272 6.89786 4.272C7.18486 4.272 7.44911 4.321 7.69061 4.419C7.93211 4.5135 8.14211 4.64825 8.32061 4.82325C8.49911 4.99825 8.63736 5.203 8.73536 5.4375C8.83686 5.672 8.88761 5.92575 8.88761 6.19875C8.88761 6.47175 8.83686 6.7255 8.73536 6.96C8.63736 7.1945 8.49911 7.401 8.32061 7.5795C8.14211 7.7545 7.93211 7.891 7.69061 7.989C7.45261 8.0835 7.19186 8.13075 6.90836 8.13075ZM6.89786 7.29075C7.10786 7.29075 7.28986 7.24525 7.44386 7.15425C7.59786 7.06325 7.71686 6.9355 7.80086 6.771C7.88486 6.6065 7.92686 6.414 7.92686 6.1935C7.92686 6.0325 7.90236 5.8855 7.85336 5.7525C7.80786 5.6195 7.73961 5.50575 7.64861 5.41125C7.55761 5.31325 7.44911 5.238 7.32311 5.1855C7.19711 5.133 7.05536 5.10675 6.89786 5.10675C6.68786 5.10675 6.50586 5.15225 6.35186 5.24325C6.19786 5.33075 6.07886 5.45675 5.99486 5.62125C5.91086 5.78575 5.86886 5.9765 5.86886 6.1935C5.86886 6.3615 5.89161 6.51375 5.93711 6.65025C5.98611 6.78325 6.05611 6.89875 6.14711 6.99675C6.23811 7.09125 6.34661 7.16475 6.47261 7.21725C6.59861 7.26625 6.74036 7.29075 6.89786 7.29075ZM10.1031 6.729V6.03075H10.8381C10.9291 6.03075 11.0114 6.01325 11.0849 5.97825C11.1619 5.93975 11.2231 5.88375 11.2686 5.81025C11.3141 5.73675 11.3369 5.64575 11.3369 5.53725C11.3369 5.42875 11.3141 5.33775 11.2686 5.26425C11.2231 5.18725 11.1619 5.13125 11.0849 5.09625C11.0114 5.05775 10.9291 5.0385 10.8381 5.0385H10.1031V4.34025H11.0009C11.2389 4.34025 11.4541 4.38925 11.6466 4.48725C11.8391 4.58175 11.9914 4.71825 12.1034 4.89675C12.2154 5.07175 12.2714 5.28525 12.2714 5.53725C12.2714 5.78225 12.2154 5.99575 12.1034 6.17775C11.9914 6.35625 11.8391 6.49275 11.6466 6.58725C11.4541 6.68175 11.2389 6.729 11.0009 6.729H10.1031ZM9.35761 8.0625V4.34025H10.2974V8.0625H9.35761Z"
+                    fill="#923800"
+                  ></path>
+                  <defs>
+                    <linearGradient
+                      id="paint0_linear_10018_17757"
+                      x1="1.53125"
+                      y1="2.89655e-07"
+                      x2="11.8125"
+                      y2="12.25"
+                      gradientUnits="userSpaceOnUse"
+                    >
+                      <stop stopColor="#FDC775"></stop>
+                      <stop offset="0.528482" stopColor="#FFE7C6"></stop>
+                      <stop offset="1" stopColor="#E7A85C"></stop>
+                    </linearGradient>
+                    <linearGradient
+                      id="paint1_linear_10018_17757"
+                      x1="7"
+                      y1="0.65625"
+                      x2="7"
+                      y2="13.3438"
+                      gradientUnits="userSpaceOnUse"
+                    >
+                      <stop stopColor="#D27F4B"></stop>
+                      <stop offset="1" stopColor="#F1B55E"></stop>
+                    </linearGradient>
+                  </defs>
+                </svg>
+                <span data-v-4e36107e className="trend-name">
+                  Kitchen Appliances Best Seller
+                </span>
+                <span data-v-4e36107e className="trend-rank">
+                  #3
+                </span>
+                <svg
+                  data-v-b958d155
+                  data-v-4e36107e
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="8"
+                  height="8"
+                  viewBox="0 0 8 8"
+                  fill="none"
+                  className="trend-arrow"
+                >
+                  <path
+                    data-v-b958d155
+                    d="M2.6665 0.828125L5.83808 3.9997L2.6665 7.17127"
+                    stroke="#9A3412"
+                  ></path>
+                </svg>
+              </a>
+            </div>
+            <div className="site-item" data-id="2929">
+              <a
+                className="js_select_item js_load_item"
+                href="https://ng.oraimo.com/product/oraimo-spacebuds-n-active-noise-cancellation-38-hour-play-time-true-wireless-earbuds?ean=4894947054648"
+                data-id="2929"
+                data-sku="OTW-626N-BLACK"
+                data-name="SpaceBuds N oraimo SpaceBuds N ANC Wireless Earbuds"
+                data-price="18.56"
+                data-category="Noise Cancelling Earbuds"
+                data-section-type="list"
+                data-section-name="oraimo Daily Deals"
+                data-select="1"
+              >
+                <div className="item-container">
+                  <img
+                    className="item-picture lazyloaded"
+                    alt="SpaceBuds N oraimo SpaceBuds N ANC Wireless Earbuds"
+                    data-src="https://cdn-img.oraimo.com/fit-in/540x540/KE/product/2024/12/20/OTW-626N-2.png"
+                    src="/images/oraimo-2fce711207b9a24e.webp"
+                  />
+                  <div className="item-review">
+                    <span className="item-review-score">4.7</span>
+                    <svg
+                      width="18"
+                      height="18"
+                      viewBox="0 0 18 18"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                      className="item-review-star"
+                    >
+                      <path
+                        d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                        fill="#82E600"
+                      ></path>
+                    </svg>
+                    <span className="item-review-count">(1113)</span>
+                  </div>
+                </div>
+                <div className="item-content">
+                  <p className="item-title">
+                    {" "}
+                    SpaceBuds N oraimo SpaceBuds N ANC Wireless Earbuds{" "}
+                  </p>
+                  <p className="item-point">
+                    <span className="item-point-container">
+                      <img
+                        className="item-point-icon lazyloaded"
+                        alt="38-Hr Long Playtime"
+                        data-src="https://cdn-img.oraimo.com/label/36-hr-long-playtime.svg"
+                        src="/images/oraimo-b6cbb3637324c6c9.svg"
+                      />
+                      <svg
+                        data-v-02c2eb76
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="20"
+                        height="20"
+                        viewBox="0 0 20 20"
+                        fill="none"
+                      >
+                        <circle
+                          data-v-02c2eb76
+                          opacity="0.3"
+                          cx="10"
+                          cy="10"
+                          r="9.75"
+                          stroke="#EEEEEE"
+                          strokeWidth="0.5"
+                        ></circle>
+                      </svg>
+                    </span>
+                    <span className="item-point-title">
+                      38-Hr Long Playtime
+                    </span>
+                  </p>
+                  <div className="item-price">
+                    <div className="item-price-main">
+                      <span className="item-price-final">
+                        <span>₦ 26,900</span>
+                        <span className="item-price-discount sf-hidden">
+                          -10%
+                        </span>
+                      </span>
+                      <del className="item-price-market">₦ 29,900</del>
+                    </div>
+                    <span className="item-price-discount">-10%</span>
+                  </div>
+                </div>
+              </a>
+              <a
+                data-v-4e36107e
+                href="https://ng.oraimo.com/trend?type=2&rank_id=0&category_id=229&category_rank_type=1"
+                className="module-common-trend"
+              >
+                <svg
+                  data-v-4e36107e
+                  width="14"
+                  height="14"
+                  viewBox="0 0 14 14"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                  className="trend-top"
+                >
+                  <path
+                    d="M0 1.75C0 0.783501 0.783502 0 1.75 0H12.25C13.2165 0 14 0.783502 14 1.75V9.71848C14 10.4071 13.5961 11.0317 12.9681 11.3143L7.71814 13.6768C7.26143 13.8824 6.73857 13.8824 6.28186 13.6768L1.03186 11.3143C0.403872 11.0317 0 10.4071 0 9.71848L0 1.75Z"
+                    fill="url(#paint0_linear_10018_17757)"
+                  ></path>
+                  <path
+                    d="M1.96875 0.765625H12.0312C12.6957 0.765625 13.2344 1.30428 13.2344 1.96875V9.61133C13.2344 10.0829 12.9585 10.5117 12.5293 10.707L7.49805 12.9971C7.18165 13.1409 6.81835 13.1409 6.50195 12.9971L1.4707 10.707C1.0415 10.5117 0.765625 10.0829 0.765625 9.61133V1.96875C0.765626 1.30428 1.30428 0.765625 1.96875 0.765625Z"
+                    stroke="url(#paint1_linear_10018_17757)"
+                    strokeWidth="0.21875"
+                  ></path>
+                  <path
+                    d="M2.765 8.0625V4.3665H3.70475V8.0625H2.765ZM1.62575 5.14875V4.34025H4.844V5.14875H1.62575ZM6.90836 8.13075C6.62136 8.13075 6.35711 8.08175 6.11561 7.98375C5.87411 7.88575 5.66236 7.74925 5.48036 7.57425C5.30186 7.39925 5.16186 7.1945 5.06036 6.96C4.95886 6.722 4.90811 6.4665 4.90811 6.1935C4.90811 5.9205 4.95711 5.6685 5.05511 5.4375C5.15661 5.203 5.29661 4.99825 5.47511 4.82325C5.65361 4.64825 5.86361 4.5135 6.10511 4.419C6.34661 4.321 6.61086 4.272 6.89786 4.272C7.18486 4.272 7.44911 4.321 7.69061 4.419C7.93211 4.5135 8.14211 4.64825 8.32061 4.82325C8.49911 4.99825 8.63736 5.203 8.73536 5.4375C8.83686 5.672 8.88761 5.92575 8.88761 6.19875C8.88761 6.47175 8.83686 6.7255 8.73536 6.96C8.63736 7.1945 8.49911 7.401 8.32061 7.5795C8.14211 7.7545 7.93211 7.891 7.69061 7.989C7.45261 8.0835 7.19186 8.13075 6.90836 8.13075ZM6.89786 7.29075C7.10786 7.29075 7.28986 7.24525 7.44386 7.15425C7.59786 7.06325 7.71686 6.9355 7.80086 6.771C7.88486 6.6065 7.92686 6.414 7.92686 6.1935C7.92686 6.0325 7.90236 5.8855 7.85336 5.7525C7.80786 5.6195 7.73961 5.50575 7.64861 5.41125C7.55761 5.31325 7.44911 5.238 7.32311 5.1855C7.19711 5.133 7.05536 5.10675 6.89786 5.10675C6.68786 5.10675 6.50586 5.15225 6.35186 5.24325C6.19786 5.33075 6.07886 5.45675 5.99486 5.62125C5.91086 5.78575 5.86886 5.9765 5.86886 6.1935C5.86886 6.3615 5.89161 6.51375 5.93711 6.65025C5.98611 6.78325 6.05611 6.89875 6.14711 6.99675C6.23811 7.09125 6.34661 7.16475 6.47261 7.21725C6.59861 7.26625 6.74036 7.29075 6.89786 7.29075ZM10.1031 6.729V6.03075H10.8381C10.9291 6.03075 11.0114 6.01325 11.0849 5.97825C11.1619 5.93975 11.2231 5.88375 11.2686 5.81025C11.3141 5.73675 11.3369 5.64575 11.3369 5.53725C11.3369 5.42875 11.3141 5.33775 11.2686 5.26425C11.2231 5.18725 11.1619 5.13125 11.0849 5.09625C11.0114 5.05775 10.9291 5.0385 10.8381 5.0385H10.1031V4.34025H11.0009C11.2389 4.34025 11.4541 4.38925 11.6466 4.48725C11.8391 4.58175 11.9914 4.71825 12.1034 4.89675C12.2154 5.07175 12.2714 5.28525 12.2714 5.53725C12.2714 5.78225 12.2154 5.99575 12.1034 6.17775C11.9914 6.35625 11.8391 6.49275 11.6466 6.58725C11.4541 6.68175 11.2389 6.729 11.0009 6.729H10.1031ZM9.35761 8.0625V4.34025H10.2974V8.0625H9.35761Z"
+                    fill="#923800"
+                  ></path>
+                  <defs>
+                    <linearGradient
+                      id="paint0_linear_10018_17757"
+                      x1="1.53125"
+                      y1="2.89655e-07"
+                      x2="11.8125"
+                      y2="12.25"
+                      gradientUnits="userSpaceOnUse"
+                    >
+                      <stop stopColor="#FDC775"></stop>
+                      <stop offset="0.528482" stopColor="#FFE7C6"></stop>
+                      <stop offset="1" stopColor="#E7A85C"></stop>
+                    </linearGradient>
+                    <linearGradient
+                      id="paint1_linear_10018_17757"
+                      x1="7"
+                      y1="0.65625"
+                      x2="7"
+                      y2="13.3438"
+                      gradientUnits="userSpaceOnUse"
+                    >
+                      <stop stopColor="#D27F4B"></stop>
+                      <stop offset="1" stopColor="#F1B55E"></stop>
+                    </linearGradient>
+                  </defs>
+                </svg>
+                <span data-v-4e36107e className="trend-name">
+                  oraimo Audio Best Seller
+                </span>
+                <span data-v-4e36107e className="trend-rank">
+                  #3
+                </span>
+                <svg
+                  data-v-b958d155
+                  data-v-4e36107e
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="8"
+                  height="8"
+                  viewBox="0 0 8 8"
+                  fill="none"
+                  className="trend-arrow"
+                >
+                  <path
+                    data-v-b958d155
+                    d="M2.6665 0.828125L5.83808 3.9997L2.6665 7.17127"
+                    stroke="#9A3412"
+                  ></path>
+                </svg>
+              </a>
+            </div>
+            <div className="site-item" data-id="6693">
+              <a
+                className="js_select_item js_load_item"
+                href="https://ng.oraimo.com/product/oraimo-powernova-q31-30000mah-22.5w-fast-charging-safe-power-bank-opb-7300q?ean=4894947114694"
+                data-id="6693"
+                data-sku="OPB-7300Q-GRAPHITEBLACK"
+                data-name="PowerNova Q31 30000mAh 22.5W Fast Charging Power Bank"
+                data-price="24.08"
+                data-category="Power Bank 30000mah"
+                data-section-type="list"
+                data-section-name="oraimo Daily Deals"
+                data-select="1"
+              >
+                <div className="item-container">
+                  <img
+                    className="item-picture lazyloaded"
+                    alt="PowerNova Q31 30000mAh 22.5W Fast Charging Power Bank"
+                    data-src="https://cdn-img.oraimo.com/fit-in/540x540/KE/product/2026/05/06/oraimo-Power-Bank-PowerNova-Q31-OPB-7300Q-mainimage.png"
+                    src="/images/oraimo-38f75c371d427812.webp"
+                  />
+                  <div
+                    className="item-tag"
+                    style={{ borderColor: "rgb(130,230,0)" }}
+                  >
+                    <span
+                      className="item-tag-content"
+                      style={{ backgroundColor: "rgb(130,230,0)" }}
+                    >
+                      {" "}
+                      New Arrival{" "}
+                    </span>
+                  </div>
+                  <div className="item-review">
+                    <span className="item-review-score">4.9</span>
+                    <svg
+                      width="18"
+                      height="18"
+                      viewBox="0 0 18 18"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                      className="item-review-star"
+                    >
+                      <path
+                        d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                        fill="#82E600"
+                      ></path>
+                    </svg>
+                    <span className="item-review-count">(31)</span>
+                  </div>
+                </div>
+                <div className="item-content">
+                  <p className="item-title">
+                    {" "}
+                    PowerNova Q31 30000mAh 22.5W Fast Charging Power Bank{" "}
+                  </p>
+                  <p className="item-point">
+                    <span className="item-point-container">
+                      <img
+                        className="item-point-icon lazyloaded"
+                        alt="Charge Your Phone Up TO 5.5 Times"
+                        data-src="https://cdn-img.oraimo.com/GH/2025/07/11/charge-your-phone-up-to-5.5-times.svg"
+                        src="/images/oraimo-dc98db6fc6684ba0.svg"
+                      />
+                      <svg
+                        data-v-02c2eb76
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="20"
+                        height="20"
+                        viewBox="0 0 20 20"
+                        fill="none"
+                      >
+                        <circle
+                          data-v-02c2eb76
+                          opacity="0.3"
+                          cx="10"
+                          cy="10"
+                          r="9.75"
+                          stroke="#EEEEEE"
+                          strokeWidth="0.5"
+                        ></circle>
+                      </svg>
+                    </span>
+                    <span className="item-point-title">
+                      Charge Your Phone Up TO 5.5 Times
+                    </span>
+                  </p>
+                  <div className="item-price">
+                    <div className="item-price-main">
+                      <span className="item-price-final">
+                        <span>₦ 34,900</span>
+                        <span className="item-price-discount sf-hidden">
+                          -14%
+                        </span>
+                      </span>
+                      <del className="item-price-market">₦ 40,600</del>
+                    </div>
+                    <span className="item-price-discount">-14%</span>
+                  </div>
+                </div>
+              </a>
+              <a
+                data-v-4e36107e
+                href="https://ng.oraimo.com/trend?type=2&rank_id=0&category_id=222&category_rank_type=2"
+                className="module-common-trend"
+              >
+                <svg
+                  data-v-4e36107e
+                  width="14"
+                  height="14"
+                  viewBox="0 0 14 14"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                  className="trend-top"
+                >
+                  <path
+                    d="M0 1.75C0 0.783501 0.783502 0 1.75 0H12.25C13.2165 0 14 0.783502 14 1.75V9.71848C14 10.4071 13.5961 11.0317 12.9681 11.3143L7.71814 13.6768C7.26143 13.8824 6.73857 13.8824 6.28186 13.6768L1.03186 11.3143C0.403872 11.0317 0 10.4071 0 9.71848L0 1.75Z"
+                    fill="url(#paint0_linear_10018_17757)"
+                  ></path>
+                  <path
+                    d="M1.96875 0.765625H12.0312C12.6957 0.765625 13.2344 1.30428 13.2344 1.96875V9.61133C13.2344 10.0829 12.9585 10.5117 12.5293 10.707L7.49805 12.9971C7.18165 13.1409 6.81835 13.1409 6.50195 12.9971L1.4707 10.707C1.0415 10.5117 0.765625 10.0829 0.765625 9.61133V1.96875C0.765626 1.30428 1.30428 0.765625 1.96875 0.765625Z"
+                    stroke="url(#paint1_linear_10018_17757)"
+                    strokeWidth="0.21875"
+                  ></path>
+                  <path
+                    d="M2.765 8.0625V4.3665H3.70475V8.0625H2.765ZM1.62575 5.14875V4.34025H4.844V5.14875H1.62575ZM6.90836 8.13075C6.62136 8.13075 6.35711 8.08175 6.11561 7.98375C5.87411 7.88575 5.66236 7.74925 5.48036 7.57425C5.30186 7.39925 5.16186 7.1945 5.06036 6.96C4.95886 6.722 4.90811 6.4665 4.90811 6.1935C4.90811 5.9205 4.95711 5.6685 5.05511 5.4375C5.15661 5.203 5.29661 4.99825 5.47511 4.82325C5.65361 4.64825 5.86361 4.5135 6.10511 4.419C6.34661 4.321 6.61086 4.272 6.89786 4.272C7.18486 4.272 7.44911 4.321 7.69061 4.419C7.93211 4.5135 8.14211 4.64825 8.32061 4.82325C8.49911 4.99825 8.63736 5.203 8.73536 5.4375C8.83686 5.672 8.88761 5.92575 8.88761 6.19875C8.88761 6.47175 8.83686 6.7255 8.73536 6.96C8.63736 7.1945 8.49911 7.401 8.32061 7.5795C8.14211 7.7545 7.93211 7.891 7.69061 7.989C7.45261 8.0835 7.19186 8.13075 6.90836 8.13075ZM6.89786 7.29075C7.10786 7.29075 7.28986 7.24525 7.44386 7.15425C7.59786 7.06325 7.71686 6.9355 7.80086 6.771C7.88486 6.6065 7.92686 6.414 7.92686 6.1935C7.92686 6.0325 7.90236 5.8855 7.85336 5.7525C7.80786 5.6195 7.73961 5.50575 7.64861 5.41125C7.55761 5.31325 7.44911 5.238 7.32311 5.1855C7.19711 5.133 7.05536 5.10675 6.89786 5.10675C6.68786 5.10675 6.50586 5.15225 6.35186 5.24325C6.19786 5.33075 6.07886 5.45675 5.99486 5.62125C5.91086 5.78575 5.86886 5.9765 5.86886 6.1935C5.86886 6.3615 5.89161 6.51375 5.93711 6.65025C5.98611 6.78325 6.05611 6.89875 6.14711 6.99675C6.23811 7.09125 6.34661 7.16475 6.47261 7.21725C6.59861 7.26625 6.74036 7.29075 6.89786 7.29075ZM10.1031 6.729V6.03075H10.8381C10.9291 6.03075 11.0114 6.01325 11.0849 5.97825C11.1619 5.93975 11.2231 5.88375 11.2686 5.81025C11.3141 5.73675 11.3369 5.64575 11.3369 5.53725C11.3369 5.42875 11.3141 5.33775 11.2686 5.26425C11.2231 5.18725 11.1619 5.13125 11.0849 5.09625C11.0114 5.05775 10.9291 5.0385 10.8381 5.0385H10.1031V4.34025H11.0009C11.2389 4.34025 11.4541 4.38925 11.6466 4.48725C11.8391 4.58175 11.9914 4.71825 12.1034 4.89675C12.2154 5.07175 12.2714 5.28525 12.2714 5.53725C12.2714 5.78225 12.2154 5.99575 12.1034 6.17775C11.9914 6.35625 11.8391 6.49275 11.6466 6.58725C11.4541 6.68175 11.2389 6.729 11.0009 6.729H10.1031ZM9.35761 8.0625V4.34025H10.2974V8.0625H9.35761Z"
+                    fill="#923800"
+                  ></path>
+                  <defs>
+                    <linearGradient
+                      id="paint0_linear_10018_17757"
+                      x1="1.53125"
+                      y1="2.89655e-07"
+                      x2="11.8125"
+                      y2="12.25"
+                      gradientUnits="userSpaceOnUse"
+                    >
+                      <stop stopColor="#FDC775"></stop>
+                      <stop offset="0.528482" stopColor="#FFE7C6"></stop>
+                      <stop offset="1" stopColor="#E7A85C"></stop>
+                    </linearGradient>
+                    <linearGradient
+                      id="paint1_linear_10018_17757"
+                      x1="7"
+                      y1="0.65625"
+                      x2="7"
+                      y2="13.3438"
+                      gradientUnits="userSpaceOnUse"
+                    >
+                      <stop stopColor="#D27F4B"></stop>
+                      <stop offset="1" stopColor="#F1B55E"></stop>
+                    </linearGradient>
+                  </defs>
+                </svg>
+                <span data-v-4e36107e className="trend-name">
+                  oraimo Power Products New Arrival
+                </span>
+                <span data-v-4e36107e className="trend-rank">
+                  #3
+                </span>
+                <svg
+                  data-v-b958d155
+                  data-v-4e36107e
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="8"
+                  height="8"
+                  viewBox="0 0 8 8"
+                  fill="none"
+                  className="trend-arrow"
+                >
+                  <path
+                    data-v-b958d155
+                    d="M2.6665 0.828125L5.83808 3.9997L2.6665 7.17127"
+                    stroke="#9A3412"
+                  ></path>
+                </svg>
+              </a>
+            </div>
+            <div className="site-item" data-id="2844">
+              <a
+                className="js_select_item js_load_item"
+                href="https://ng.oraimo.com/product/oraimo-watch-gt-1.43%22-amoled-wireless-calling-3atm-waterproof-6-star-gps-tracking-smart-watch?ean=4894947061813"
+                data-id="2844"
+                data-sku="OSW-852H"
+                data-name="Watch GT oraimo Watch GT GPS Smart Watch"
+                data-price="123.51"
+                data-category="Smart Watches"
+                data-section-type="list"
+                data-section-name="oraimo Daily Deals"
+                data-select="1"
+              >
+                <div className="item-container">
+                  <img
+                    className="item-picture lazyloaded"
+                    alt="Watch GT oraimo Watch GT GPS Smart Watch"
+                    data-src="https://cdn-img.oraimo.com/fit-in/540x540/KE/product/2025/02/14/OSW-852H.png"
+                    src="/images/oraimo-922675aee5581e94.webp"
+                  />
+                  <div className="item-review">
+                    <span className="item-review-score">4.8</span>
+                    <svg
+                      width="18"
+                      height="18"
+                      viewBox="0 0 18 18"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                      className="item-review-star"
+                    >
+                      <path
+                        d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                        fill="#82E600"
+                      ></path>
+                    </svg>
+                    <span className="item-review-count">(91)</span>
+                  </div>
+                </div>
+                <div className="item-content">
+                  <p className="item-title">
+                    {" "}
+                    Watch GT oraimo Watch GT GPS Smart Watch{" "}
+                  </p>
+                  <p className="item-point">
+                    <span className="item-point-container">
+                      <img
+                        className="item-point-icon lazyloaded"
+                        alt="Up to 25-Day Usage Time"
+                        data-src="https://cdn-img.oraimo.com/NG/2024/09/25/35.5-hour-long-playtime.svg"
+                        src="/images/oraimo-c611db3a4337e3d8.svg"
+                      />
+                      <svg
+                        data-v-02c2eb76
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="20"
+                        height="20"
+                        viewBox="0 0 20 20"
+                        fill="none"
+                      >
+                        <circle
+                          data-v-02c2eb76
+                          opacity="0.3"
+                          cx="10"
+                          cy="10"
+                          r="9.75"
+                          stroke="#EEEEEE"
+                          strokeWidth="0.5"
+                        ></circle>
+                      </svg>
+                    </span>
+                    <span className="item-point-title">
+                      Up to 25-Day Usage Time
+                    </span>
+                  </p>
+                  <div className="item-price">
+                    <div className="item-price-main">
+                      <span className="item-price-final">
+                        <span>₦ 179,000</span>
+                        <span className="item-price-discount sf-hidden">
+                          -10%
+                        </span>
+                      </span>
+                      <del className="item-price-market">₦ 198,890</del>
+                    </div>
+                    <span className="item-price-discount">-10%</span>
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div className="site-item" data-id="3587">
+              <a
+                className="js_select_item js_load_item"
+                href="https://ng.oraimo.com/product/oraimo-boompop-n-wireless-headphones-ohp-915n?ean=4894947084072"
+                data-id="3587"
+                data-sku="OHP-915N-SPEED-BLACK"
+                data-name="BoomPop N oraimo BoomPop N Wireless Headphones"
+                data-price="26.84"
+                data-category="Over-Ear Headphones"
+                data-section-type="list"
+                data-section-name="oraimo Daily Deals"
+                data-select="1"
+              >
+                <div className="item-container">
+                  <img
+                    className="item-picture lazyloaded"
+                    alt="BoomPop N oraimo BoomPop N Wireless Headphones"
+                    data-src="https://cdn-img.oraimo.com/fit-in/540x540/GH/product/2025/07/14/oraimo-Wireless-Headphones-BoomPop-N-OHP-915N-0.png"
+                    src="/images/oraimo-67b430182127d635.webp"
+                  />
+                  <div className="item-review">
+                    <span className="item-review-score">4.7</span>
+                    <svg
+                      width="18"
+                      height="18"
+                      viewBox="0 0 18 18"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                      className="item-review-star"
+                    >
+                      <path
+                        d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                        fill="#82E600"
+                      ></path>
+                    </svg>
+                    <span className="item-review-count">(482)</span>
+                  </div>
+                </div>
+                <div className="item-content">
+                  <p className="item-title">
+                    {" "}
+                    BoomPop N oraimo BoomPop N Wireless Headphones{" "}
+                  </p>
+                  <p className="item-point">
+                    <span className="item-point-container">
+                      <img
+                        className="item-point-icon lazyloaded"
+                        alt="Hybrid Noise Cancellation"
+                        data-src="https://cdn-img.oraimo.com/label/pro-hybrid-noise-cancellation-technology.svg"
+                        src="/images/oraimo-3f53a500332b88ff.svg"
+                      />
+                      <svg
+                        data-v-02c2eb76
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="20"
+                        height="20"
+                        viewBox="0 0 20 20"
+                        fill="none"
+                      >
+                        <circle
+                          data-v-02c2eb76
+                          opacity="0.3"
+                          cx="10"
+                          cy="10"
+                          r="9.75"
+                          stroke="#EEEEEE"
+                          strokeWidth="0.5"
+                        ></circle>
+                      </svg>
+                    </span>
+                    <span className="item-point-title">
+                      Hybrid Noise Cancellation
+                    </span>
+                  </p>
+                  <div className="item-price">
+                    <div className="item-price-main">
+                      <span className="item-price-final">
+                        <span>₦ 38,900</span>
+                        <span className="item-price-discount sf-hidden">
+                          -10%
+                        </span>
+                      </span>
+                      <del className="item-price-market">₦ 43,300</del>
+                    </div>
+                    <span className="item-price-discount">-10%</span>
+                  </div>
+                </div>
+              </a>
+              <a
+                data-v-4e36107e
+                href="https://ng.oraimo.com/trend?type=2&rank_id=0&category_id=229&category_rank_type=3"
+                className="module-common-trend"
+              >
+                <svg
+                  data-v-4e36107e
+                  width="14"
+                  height="14"
+                  viewBox="0 0 14 14"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                  className="trend-top"
+                >
+                  <path
+                    d="M0 1.75C0 0.783501 0.783502 0 1.75 0H12.25C13.2165 0 14 0.783502 14 1.75V9.71848C14 10.4071 13.5961 11.0317 12.9681 11.3143L7.71814 13.6768C7.26143 13.8824 6.73857 13.8824 6.28186 13.6768L1.03186 11.3143C0.403872 11.0317 0 10.4071 0 9.71848L0 1.75Z"
+                    fill="url(#paint0_linear_10018_17757)"
+                  ></path>
+                  <path
+                    d="M1.96875 0.765625H12.0312C12.6957 0.765625 13.2344 1.30428 13.2344 1.96875V9.61133C13.2344 10.0829 12.9585 10.5117 12.5293 10.707L7.49805 12.9971C7.18165 13.1409 6.81835 13.1409 6.50195 12.9971L1.4707 10.707C1.0415 10.5117 0.765625 10.0829 0.765625 9.61133V1.96875C0.765626 1.30428 1.30428 0.765625 1.96875 0.765625Z"
+                    stroke="url(#paint1_linear_10018_17757)"
+                    strokeWidth="0.21875"
+                  ></path>
+                  <path
+                    d="M2.765 8.0625V4.3665H3.70475V8.0625H2.765ZM1.62575 5.14875V4.34025H4.844V5.14875H1.62575ZM6.90836 8.13075C6.62136 8.13075 6.35711 8.08175 6.11561 7.98375C5.87411 7.88575 5.66236 7.74925 5.48036 7.57425C5.30186 7.39925 5.16186 7.1945 5.06036 6.96C4.95886 6.722 4.90811 6.4665 4.90811 6.1935C4.90811 5.9205 4.95711 5.6685 5.05511 5.4375C5.15661 5.203 5.29661 4.99825 5.47511 4.82325C5.65361 4.64825 5.86361 4.5135 6.10511 4.419C6.34661 4.321 6.61086 4.272 6.89786 4.272C7.18486 4.272 7.44911 4.321 7.69061 4.419C7.93211 4.5135 8.14211 4.64825 8.32061 4.82325C8.49911 4.99825 8.63736 5.203 8.73536 5.4375C8.83686 5.672 8.88761 5.92575 8.88761 6.19875C8.88761 6.47175 8.83686 6.7255 8.73536 6.96C8.63736 7.1945 8.49911 7.401 8.32061 7.5795C8.14211 7.7545 7.93211 7.891 7.69061 7.989C7.45261 8.0835 7.19186 8.13075 6.90836 8.13075ZM6.89786 7.29075C7.10786 7.29075 7.28986 7.24525 7.44386 7.15425C7.59786 7.06325 7.71686 6.9355 7.80086 6.771C7.88486 6.6065 7.92686 6.414 7.92686 6.1935C7.92686 6.0325 7.90236 5.8855 7.85336 5.7525C7.80786 5.6195 7.73961 5.50575 7.64861 5.41125C7.55761 5.31325 7.44911 5.238 7.32311 5.1855C7.19711 5.133 7.05536 5.10675 6.89786 5.10675C6.68786 5.10675 6.50586 5.15225 6.35186 5.24325C6.19786 5.33075 6.07886 5.45675 5.99486 5.62125C5.91086 5.78575 5.86886 5.9765 5.86886 6.1935C5.86886 6.3615 5.89161 6.51375 5.93711 6.65025C5.98611 6.78325 6.05611 6.89875 6.14711 6.99675C6.23811 7.09125 6.34661 7.16475 6.47261 7.21725C6.59861 7.26625 6.74036 7.29075 6.89786 7.29075ZM10.1031 6.729V6.03075H10.8381C10.9291 6.03075 11.0114 6.01325 11.0849 5.97825C11.1619 5.93975 11.2231 5.88375 11.2686 5.81025C11.3141 5.73675 11.3369 5.64575 11.3369 5.53725C11.3369 5.42875 11.3141 5.33775 11.2686 5.26425C11.2231 5.18725 11.1619 5.13125 11.0849 5.09625C11.0114 5.05775 10.9291 5.0385 10.8381 5.0385H10.1031V4.34025H11.0009C11.2389 4.34025 11.4541 4.38925 11.6466 4.48725C11.8391 4.58175 11.9914 4.71825 12.1034 4.89675C12.2154 5.07175 12.2714 5.28525 12.2714 5.53725C12.2714 5.78225 12.2154 5.99575 12.1034 6.17775C11.9914 6.35625 11.8391 6.49275 11.6466 6.58725C11.4541 6.68175 11.2389 6.729 11.0009 6.729H10.1031ZM9.35761 8.0625V4.34025H10.2974V8.0625H9.35761Z"
+                    fill="#923800"
+                  ></path>
+                  <defs>
+                    <linearGradient
+                      id="paint0_linear_10018_17757"
+                      x1="1.53125"
+                      y1="2.89655e-07"
+                      x2="11.8125"
+                      y2="12.25"
+                      gradientUnits="userSpaceOnUse"
+                    >
+                      <stop stopColor="#FDC775"></stop>
+                      <stop offset="0.528482" stopColor="#FFE7C6"></stop>
+                      <stop offset="1" stopColor="#E7A85C"></stop>
+                    </linearGradient>
+                    <linearGradient
+                      id="paint1_linear_10018_17757"
+                      x1="7"
+                      y1="0.65625"
+                      x2="7"
+                      y2="13.3438"
+                      gradientUnits="userSpaceOnUse"
+                    >
+                      <stop stopColor="#D27F4B"></stop>
+                      <stop offset="1" stopColor="#F1B55E"></stop>
+                    </linearGradient>
+                  </defs>
+                </svg>
+                <span data-v-4e36107e className="trend-name">
+                  oraimo Audio Trending
+                </span>
+                <span data-v-4e36107e className="trend-rank">
+                  #3
+                </span>
+                <svg
+                  data-v-b958d155
+                  data-v-4e36107e
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="8"
+                  height="8"
+                  viewBox="0 0 8 8"
+                  fill="none"
+                  className="trend-arrow"
+                >
+                  <path
+                    data-v-b958d155
+                    d="M2.6665 0.828125L5.83808 3.9997L2.6665 7.17127"
+                    stroke="#9A3412"
+                  ></path>
+                </svg>
+              </a>
+            </div>
+            <div className="site-item" data-id="5410">
+              <a
+                className="js_select_item js_load_item"
+                href="https://ng.oraimo.com/product/oraimo-powernova-l21-20000mah-30w-power-bank-opb-7203c?ean=4894947105456"
+                data-id="5410"
+                data-sku="OPB-7203C-GRAPHITEBLACK"
+                data-name="PowerNova L21 20000mAh 30W Power Bank"
+                data-price="22.01"
+                data-category="Power Bank 20000mah"
+                data-section-type="list"
+                data-section-name="oraimo Daily Deals"
+                data-select="1"
+              >
+                <div className="item-container">
+                  <img
+                    className="item-picture lazyloaded"
+                    alt="PowerNova L21 20000mAh 30W Power Bank"
+                    data-src="https://cdn-img.oraimo.com/fit-in/540x540/EG/product/2026/02/02/OPB-7203C-GRAPHITEBLACK.png"
+                    src="/images/oraimo-84bd00eddf1368ae.webp"
+                  />
+                  <div
+                    className="item-tag"
+                    style={{ borderColor: "rgb(130,230,0)" }}
+                  >
+                    <span
+                      className="item-tag-content"
+                      style={{ backgroundColor: "rgb(130,230,0)" }}
+                    >
+                      {" "}
+                      New Arrival{" "}
+                    </span>
+                  </div>
+                  <div className="item-review">
+                    <span className="item-review-score">4.9</span>
+                    <svg
+                      width="18"
+                      height="18"
+                      viewBox="0 0 18 18"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                      className="item-review-star"
+                    >
+                      <path
+                        d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                        fill="#82E600"
+                      ></path>
+                    </svg>
+                    <span className="item-review-count">(221)</span>
+                  </div>
+                </div>
+                <div className="item-content">
+                  <p className="item-title">
+                    {" "}
+                    PowerNova L21 20000mAh 30W Power Bank{" "}
+                  </p>
+                  <p className="item-point">
+                    <span className="item-point-container">
+                      <img
+                        className="item-point-icon lazyloaded"
+                        alt="30W Power for Multi-Device Charging"
+                        data-src="https://cdn-img.oraimo.com/label/12w-smart-fast-charging.svg"
+                        src="/images/oraimo-f586db224cb56217.svg"
+                      />
+                      <svg
+                        data-v-02c2eb76
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="20"
+                        height="20"
+                        viewBox="0 0 20 20"
+                        fill="none"
+                      >
+                        <circle
+                          data-v-02c2eb76
+                          opacity="0.3"
+                          cx="10"
+                          cy="10"
+                          r="9.75"
+                          stroke="#EEEEEE"
+                          strokeWidth="0.5"
+                        ></circle>
+                      </svg>
+                    </span>
+                    <span className="item-point-title">
+                      30W Power for Multi-Device Charging
+                    </span>
+                  </p>
+                  <div className="item-price">
+                    <div className="item-price-main">
+                      <span className="item-price-final">
+                        <span>₦ 31,900</span>
+                        <span className="item-price-discount sf-hidden">
+                          -11%
+                        </span>
+                      </span>
+                      <del className="item-price-market">₦ 35,800</del>
+                    </div>
+                    <span className="item-price-discount">-11%</span>
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div className="site-item" data-id="6763">
+              <a
+                className="js_select_item js_load_item"
+                href="https://ng.oraimo.com/product/oraimo-spacebuds-hayato-low-latency-50-hour-playtime-spacebuds-hayato-otw-325-graphiteblack-ff?ean=4894947122552"
+                data-id="6763"
+                data-sku="OTW-325-FREEFIRE"
+                data-name="SpaceBuds HAYATO Low-Latency Long-Lasting True Wireless Earbuds"
+                data-price="14.15"
+                data-category="Wireless Stereo Earbuds"
+                data-section-type="list"
+                data-section-name="oraimo Daily Deals"
+                data-select="1"
+              >
+                <div className="item-container">
+                  <img
+                    className="item-picture lazyloaded"
+                    alt="SpaceBuds HAYATO Low-Latency Long-Lasting True Wireless Earbuds"
+                    data-src="https://cdn-img.oraimo.com/fit-in/540x540/GH/product/2026/06/18/OTW-325-GRAPHITEBLACK-FF.png"
+                    src="/images/oraimo-c3081e1e7accd044.webp"
+                  />
+                  <div
+                    className="item-tag"
+                    style={{ borderColor: "rgb(130,230,0)" }}
+                  >
+                    <span
+                      className="item-tag-content"
+                      style={{ backgroundColor: "rgb(130,230,0)" }}
+                    >
+                      {" "}
+                      New Arrival{" "}
+                    </span>
+                  </div>
+                  <div className="item-review">
+                    <span className="item-review-score">4.5</span>
+                    <svg
+                      width="18"
+                      height="18"
+                      viewBox="0 0 18 18"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                      className="item-review-star"
+                    >
+                      <path
+                        d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                        fill="#82E600"
+                      ></path>
+                    </svg>
+                    <span className="item-review-count">(26)</span>
+                  </div>
+                </div>
+                <div className="item-content">
+                  <p className="item-title">
+                    {" "}
+                    SpaceBuds HAYATO Low-Latency Long-Lasting True Wireless
+                    Earbuds{" "}
+                  </p>
+                  <p className="item-point">
+                    <span className="item-point-container">
+                      <img
+                        className="item-point-icon lazyloaded"
+                        alt="Low Latency Game Mode"
+                        data-src="https://cdn-img.oraimo.com/label/game-mode.svg"
+                        src="/images/oraimo-10f3993e68d0d593.svg"
+                      />
+                      <svg
+                        data-v-02c2eb76
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="20"
+                        height="20"
+                        viewBox="0 0 20 20"
+                        fill="none"
+                      >
+                        <circle
+                          data-v-02c2eb76
+                          opacity="0.3"
+                          cx="10"
+                          cy="10"
+                          r="9.75"
+                          stroke="#EEEEEE"
+                          strokeWidth="0.5"
+                        ></circle>
+                      </svg>
+                    </span>
+                    <span className="item-point-title">
+                      Low Latency Game Mode
+                    </span>
+                  </p>
+                  <div className="item-price">
+                    <div className="item-price-main">
+                      <span className="item-price-final">
+                        <span>₦ 20,500</span>
+                        <span className="item-price-discount sf-hidden">
+                          -20%
+                        </span>
+                      </span>
+                      <del className="item-price-market">₦ 25,600</del>
+                    </div>
+                    <span className="item-price-discount">-20%</span>
+                  </div>
+                </div>
+              </a>
+              <a
+                data-v-4e36107e
+                href="https://ng.oraimo.com/trend?type=2&rank_id=0&category_id=229&category_rank_type=2"
+                className="module-common-trend"
+              >
+                <svg
+                  data-v-4e36107e
+                  width="14"
+                  height="14"
+                  viewBox="0 0 14 14"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                  className="trend-top"
+                >
+                  <path
+                    d="M0 1.75C0 0.783501 0.783502 0 1.75 0H12.25C13.2165 0 14 0.783502 14 1.75V9.71848C14 10.4071 13.5961 11.0317 12.9681 11.3143L7.71814 13.6768C7.26143 13.8824 6.73857 13.8824 6.28186 13.6768L1.03186 11.3143C0.403872 11.0317 0 10.4071 0 9.71848L0 1.75Z"
+                    fill="url(#paint0_linear_10018_17757)"
+                  ></path>
+                  <path
+                    d="M1.96875 0.765625H12.0312C12.6957 0.765625 13.2344 1.30428 13.2344 1.96875V9.61133C13.2344 10.0829 12.9585 10.5117 12.5293 10.707L7.49805 12.9971C7.18165 13.1409 6.81835 13.1409 6.50195 12.9971L1.4707 10.707C1.0415 10.5117 0.765625 10.0829 0.765625 9.61133V1.96875C0.765626 1.30428 1.30428 0.765625 1.96875 0.765625Z"
+                    stroke="url(#paint1_linear_10018_17757)"
+                    strokeWidth="0.21875"
+                  ></path>
+                  <path
+                    d="M2.765 8.0625V4.3665H3.70475V8.0625H2.765ZM1.62575 5.14875V4.34025H4.844V5.14875H1.62575ZM6.90836 8.13075C6.62136 8.13075 6.35711 8.08175 6.11561 7.98375C5.87411 7.88575 5.66236 7.74925 5.48036 7.57425C5.30186 7.39925 5.16186 7.1945 5.06036 6.96C4.95886 6.722 4.90811 6.4665 4.90811 6.1935C4.90811 5.9205 4.95711 5.6685 5.05511 5.4375C5.15661 5.203 5.29661 4.99825 5.47511 4.82325C5.65361 4.64825 5.86361 4.5135 6.10511 4.419C6.34661 4.321 6.61086 4.272 6.89786 4.272C7.18486 4.272 7.44911 4.321 7.69061 4.419C7.93211 4.5135 8.14211 4.64825 8.32061 4.82325C8.49911 4.99825 8.63736 5.203 8.73536 5.4375C8.83686 5.672 8.88761 5.92575 8.88761 6.19875C8.88761 6.47175 8.83686 6.7255 8.73536 6.96C8.63736 7.1945 8.49911 7.401 8.32061 7.5795C8.14211 7.7545 7.93211 7.891 7.69061 7.989C7.45261 8.0835 7.19186 8.13075 6.90836 8.13075ZM6.89786 7.29075C7.10786 7.29075 7.28986 7.24525 7.44386 7.15425C7.59786 7.06325 7.71686 6.9355 7.80086 6.771C7.88486 6.6065 7.92686 6.414 7.92686 6.1935C7.92686 6.0325 7.90236 5.8855 7.85336 5.7525C7.80786 5.6195 7.73961 5.50575 7.64861 5.41125C7.55761 5.31325 7.44911 5.238 7.32311 5.1855C7.19711 5.133 7.05536 5.10675 6.89786 5.10675C6.68786 5.10675 6.50586 5.15225 6.35186 5.24325C6.19786 5.33075 6.07886 5.45675 5.99486 5.62125C5.91086 5.78575 5.86886 5.9765 5.86886 6.1935C5.86886 6.3615 5.89161 6.51375 5.93711 6.65025C5.98611 6.78325 6.05611 6.89875 6.14711 6.99675C6.23811 7.09125 6.34661 7.16475 6.47261 7.21725C6.59861 7.26625 6.74036 7.29075 6.89786 7.29075ZM10.1031 6.729V6.03075H10.8381C10.9291 6.03075 11.0114 6.01325 11.0849 5.97825C11.1619 5.93975 11.2231 5.88375 11.2686 5.81025C11.3141 5.73675 11.3369 5.64575 11.3369 5.53725C11.3369 5.42875 11.3141 5.33775 11.2686 5.26425C11.2231 5.18725 11.1619 5.13125 11.0849 5.09625C11.0114 5.05775 10.9291 5.0385 10.8381 5.0385H10.1031V4.34025H11.0009C11.2389 4.34025 11.4541 4.38925 11.6466 4.48725C11.8391 4.58175 11.9914 4.71825 12.1034 4.89675C12.2154 5.07175 12.2714 5.28525 12.2714 5.53725C12.2714 5.78225 12.2154 5.99575 12.1034 6.17775C11.9914 6.35625 11.8391 6.49275 11.6466 6.58725C11.4541 6.68175 11.2389 6.729 11.0009 6.729H10.1031ZM9.35761 8.0625V4.34025H10.2974V8.0625H9.35761Z"
+                    fill="#923800"
+                  ></path>
+                  <defs>
+                    <linearGradient
+                      id="paint0_linear_10018_17757"
+                      x1="1.53125"
+                      y1="2.89655e-07"
+                      x2="11.8125"
+                      y2="12.25"
+                      gradientUnits="userSpaceOnUse"
+                    >
+                      <stop stopColor="#FDC775"></stop>
+                      <stop offset="0.528482" stopColor="#FFE7C6"></stop>
+                      <stop offset="1" stopColor="#E7A85C"></stop>
+                    </linearGradient>
+                    <linearGradient
+                      id="paint1_linear_10018_17757"
+                      x1="7"
+                      y1="0.65625"
+                      x2="7"
+                      y2="13.3438"
+                      gradientUnits="userSpaceOnUse"
+                    >
+                      <stop stopColor="#D27F4B"></stop>
+                      <stop offset="1" stopColor="#F1B55E"></stop>
+                    </linearGradient>
+                  </defs>
+                </svg>
+                <span data-v-4e36107e className="trend-name">
+                  oraimo Audio New Arrival
+                </span>
+                <span data-v-4e36107e className="trend-rank">
+                  #4
+                </span>
+                <svg
+                  data-v-b958d155
+                  data-v-4e36107e
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="8"
+                  height="8"
+                  viewBox="0 0 8 8"
+                  fill="none"
+                  className="trend-arrow"
+                >
+                  <path
+                    data-v-b958d155
+                    d="M2.6665 0.828125L5.83808 3.9997L2.6665 7.17127"
+                    stroke="#9A3412"
+                  ></path>
+                </svg>
+              </a>
+            </div>
+            <div className="site-item" data-id="3272">
+              <a
+                className="js_select_item js_load_item"
+                href="https://ng.oraimo.com/product/oraimo-boompop-pro-hybrid-noise-cancellation-swipe-contro-wireless-headphones?ean=4894947069345"
+                data-id="3272"
+                data-sku="OHP-917-GRAPHITEGREY"
+                data-name="BoomPop Pro oraimo BoomPop Pro ANC Headphones"
+                data-price="44.78"
+                data-category="Over-Ear Headphones"
+                data-section-type="list"
+                data-section-name="oraimo Daily Deals"
+                data-select="1"
+              >
+                <div className="item-container">
+                  <img
+                    className="item-picture lazyloaded"
+                    alt="BoomPop Pro oraimo BoomPop Pro ANC Headphones"
+                    data-src="https://cdn-img.oraimo.com/fit-in/540x540/PK/product/2025/05/20/oraimo-BoomPop-Pro-OHP-917-wireless-headphones-GREY.png"
+                    src="/images/oraimo-2afe66a8c9d54aaa.webp"
+                  />
+                  <div className="item-color">
+                    <div className="item-color-item">
+                      <img
+                        className="item-color-avatar lazyloaded"
+                        alt="PK/product/2025/05/20/oraimo-BoomPop-Pro-OHP-917-wireless-headphones-GREY.png"
+                        data-src="https://cdn-img.oraimo.com/fit-in/360x360/PK/product/2025/05/20/oraimo-BoomPop-Pro-OHP-917-wireless-headphones-GREY.png"
+                        src="/images/oraimo-5b1999b64961c37c.webp"
+                      />
+                    </div>
+                    <div className="item-color-item">
+                      <img
+                        className="item-color-avatar lazyloaded"
+                        alt="PK/product/2025/05/20/oraimo-BoomPop-Pro-OHP-917-wireless-headphones-GOLD.png"
+                        data-src="https://cdn-img.oraimo.com/fit-in/360x360/PK/product/2025/05/20/oraimo-BoomPop-Pro-OHP-917-wireless-headphones-GOLD.png"
+                        src="/images/oraimo-3b3b9d9d495be13a.webp"
+                      />
+                    </div>
+                  </div>
+                  <div className="item-review">
+                    <span className="item-review-score">4.7</span>
+                    <svg
+                      width="18"
+                      height="18"
+                      viewBox="0 0 18 18"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                      className="item-review-star"
+                    >
+                      <path
+                        d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                        fill="#82E600"
+                      ></path>
+                    </svg>
+                    <span className="item-review-count">(663)</span>
+                  </div>
+                </div>
+                <div className="item-content">
+                  <p className="item-title">
+                    {" "}
+                    BoomPop Pro oraimo BoomPop Pro ANC Headphones{" "}
+                  </p>
+                  <p className="item-point">
+                    <span className="item-point-container">
+                      <img
+                        className="item-point-icon lazyloaded"
+                        alt="Touch & Swipe to Control"
+                        data-src="https://cdn-img.oraimo.com/label/touch-controls.svg"
+                        src="/images/oraimo-f7fc755f7ef5a2ef.svg"
+                      />
+                      <svg
+                        data-v-02c2eb76
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="20"
+                        height="20"
+                        viewBox="0 0 20 20"
+                        fill="none"
+                      >
+                        <circle
+                          data-v-02c2eb76
+                          opacity="0.3"
+                          cx="10"
+                          cy="10"
+                          r="9.75"
+                          stroke="#EEEEEE"
+                          strokeWidth="0.5"
+                        ></circle>
+                      </svg>
+                    </span>
+                    <span className="item-point-title">
+                      Touch &amp; Swipe to Control
+                    </span>
+                  </p>
+                  <div className="item-price">
+                    <div className="item-price-main">
+                      <span className="item-price-final">
+                        <span>₦ 64,900</span>
+                        <span className="item-price-discount sf-hidden">
+                          -10%
+                        </span>
+                      </span>
+                      <del className="item-price-market">₦ 72,110</del>
+                    </div>
+                    <span className="item-price-discount">-10%</span>
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div className="site-item" data-id="4060">
+              <a
+                className="js_select_item js_load_item"
+                href="https://ng.oraimo.com/product/oraimo-nutrifry-s1-ultra-1500w-6l-full-touchscreen-airfryer-oaf-521a?ean=4894947097300"
+                data-id="4060"
+                data-sku="OAF-521A"
+                data-name="NutriFry S1 Ultra 1500W 6L App Control Full Touchscreen Air fryer"
+                data-price="76.52"
+                data-category="Smart Air Fryer"
+                data-section-type="list"
+                data-section-name="oraimo Daily Deals"
+                data-select="1"
+              >
+                <div className="item-container">
+                  <img
+                    className="item-picture lazyloaded"
+                    alt="NutriFry S1 Ultra 1500W 6L App Control Full Touchscreen Air fryer"
+                    data-src="https://cdn-img.oraimo.com/fit-in/540x540/NG/product/2025/09/24/OAF-521A.png"
+                    src="/images/oraimo-dacdc082e7c646d0.webp"
+                  />
+                  <div className="item-review">
+                    <span
+                      className="item-review-score"
+                      style={{ display: "inline" }}
+                    >
+                      4.7
+                    </span>
+                    <svg
+                      width="18"
+                      height="18"
+                      viewBox="0 0 18 18"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                      className="item-review-star"
+                    >
+                      <path
+                        d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                        fill="#82E600"
+                      ></path>
+                    </svg>
+                    <span className="item-review-count">(47)</span>
+                  </div>
+                </div>
+                <div className="item-content">
+                  <p className="item-title">
+                    {" "}
+                    NutriFry S1 Ultra 1500W 6L App Control Full Touchscreen Air
+                    fryer{" "}
+                  </p>
+                  <p className="item-point">
+                    <span className="item-point-container">
+                      <img
+                        className="item-point-icon lazyloaded"
+                        alt="Smart recipes controlled by app"
+                        data-src="https://cdn-img.oraimo.com/CI/2025/09/25/smart-recipes-controlled-by-app.svg"
+                        src="/images/oraimo-ce9e3fc0a71ee4b3.svg"
+                      />
+                      <svg
+                        data-v-02c2eb76
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="20"
+                        height="20"
+                        viewBox="0 0 20 20"
+                        fill="none"
+                      >
+                        <circle
+                          data-v-02c2eb76
+                          opacity="0.3"
+                          cx="10"
+                          cy="10"
+                          r="9.75"
+                          stroke="#EEEEEE"
+                          strokeWidth="0.5"
+                        ></circle>
+                      </svg>
+                    </span>
+                    <span className="item-point-title">
+                      Smart recipes controlled by app
+                    </span>
+                  </p>
+                  <div className="item-price">
+                    <div className="item-price-main">
+                      <span className="item-price-final">
+                        <span>₦ 110,900</span>
+                        <span className="item-price-discount sf-hidden">
+                          -10%
+                        </span>
+                      </span>
+                      <del className="item-price-market">₦ 123,300</del>
+                    </div>
+                    <span className="item-price-discount">-10%</span>
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div className="site-item" data-id="2228">
+              <a
+                className="js_select_item js_load_item"
+                href="https://ng.oraimo.com/product/oraimo-500ml-4000mah-battery-powerful-motors-tritan-plastic-portable-blender?ean=4894947046261"
+                data-id="2228"
+                data-sku="OH-PB1N"
+                data-name="SmartBlender Go 500ML Portable Blender"
+                data-price="17.34"
+                data-category="Blenders, Juicers & Grinders"
+                data-section-type="list"
+                data-section-name="oraimo Daily Deals"
+                data-select="1"
+              >
+                <div className="item-container">
+                  <img
+                    className="item-picture lazyloaded"
+                    alt="SmartBlender Go 500ML Portable Blender"
+                    data-src="https://cdn-img.oraimo.com/fit-in/540x540/KE/product/2024/10/18/OH-PB1N-1.png"
+                    src="/images/oraimo-1c047e44535aa747.webp"
+                  />
+                  <div
+                    className="item-tag"
+                    style={{ borderColor: "rgb(230,0,27)" }}
+                  >
+                    <span
+                      className="item-tag-content"
+                      style={{ backgroundColor: "rgb(230,0,27)" }}
+                    >
+                      {" "}
+                      Flash Sale{" "}
+                    </span>
+                  </div>
+                  <div className="item-review">
+                    <span className="item-review-score">4.8</span>
+                    <svg
+                      width="18"
+                      height="18"
+                      viewBox="0 0 18 18"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                      className="item-review-star"
+                    >
+                      <path
+                        d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                        fill="#82E600"
+                      ></path>
+                    </svg>
+                    <span className="item-review-count">(346)</span>
+                  </div>
+                </div>
+                <div className="item-content">
+                  <p className="item-title">
+                    {" "}
+                    SmartBlender Go 500ML Portable Blender{" "}
+                  </p>
+                  <p className="item-point">
+                    <span className="item-point-container">
+                      <img
+                        className="item-point-icon lazyloaded"
+                        alt="Lightweight & Portable Design"
+                        data-src="https://cdn-img.oraimo.com/2024/07/12/lightweight-portable-design.svg"
+                        src="/images/oraimo-8a262493072e3ba8.svg"
+                      />
+                      <svg
+                        data-v-02c2eb76
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="20"
+                        height="20"
+                        viewBox="0 0 20 20"
+                        fill="none"
+                      >
+                        <circle
+                          data-v-02c2eb76
+                          opacity="0.3"
+                          cx="10"
+                          cy="10"
+                          r="9.75"
+                          stroke="#EEEEEE"
+                          strokeWidth="0.5"
+                        ></circle>
+                      </svg>
+                    </span>
+                    <span className="item-point-title">
+                      Lightweight &amp; Portable Design
+                    </span>
+                  </p>
+                  <div className="item-price">
+                    <div className="item-price-main">
+                      <span className="item-price-final">
+                        <span>₦ 25,130</span>
+                        <span className="item-price-discount sf-hidden">
+                          -37%
+                        </span>
+                      </span>
+                      <del className="item-price-market">₦ 39,900</del>
+                    </div>
+                    <span className="item-price-discount">-37%</span>
+                  </div>
+                </div>
+              </a>
+              <a
+                data-v-4e36107e
+                href="https://ng.oraimo.com/trend?type=2&rank_id=0&category_id=743&category_rank_type=1"
+                className="module-common-trend"
+              >
+                <svg
+                  data-v-4e36107e
+                  width="14"
+                  height="14"
+                  viewBox="0 0 14 14"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                  className="trend-top"
+                >
+                  <path
+                    d="M0 1.75C0 0.783501 0.783502 0 1.75 0H12.25C13.2165 0 14 0.783502 14 1.75V9.71848C14 10.4071 13.5961 11.0317 12.9681 11.3143L7.71814 13.6768C7.26143 13.8824 6.73857 13.8824 6.28186 13.6768L1.03186 11.3143C0.403872 11.0317 0 10.4071 0 9.71848L0 1.75Z"
+                    fill="url(#paint0_linear_10018_17757)"
+                  ></path>
+                  <path
+                    d="M1.96875 0.765625H12.0312C12.6957 0.765625 13.2344 1.30428 13.2344 1.96875V9.61133C13.2344 10.0829 12.9585 10.5117 12.5293 10.707L7.49805 12.9971C7.18165 13.1409 6.81835 13.1409 6.50195 12.9971L1.4707 10.707C1.0415 10.5117 0.765625 10.0829 0.765625 9.61133V1.96875C0.765626 1.30428 1.30428 0.765625 1.96875 0.765625Z"
+                    stroke="url(#paint1_linear_10018_17757)"
+                    strokeWidth="0.21875"
+                  ></path>
+                  <path
+                    d="M2.765 8.0625V4.3665H3.70475V8.0625H2.765ZM1.62575 5.14875V4.34025H4.844V5.14875H1.62575ZM6.90836 8.13075C6.62136 8.13075 6.35711 8.08175 6.11561 7.98375C5.87411 7.88575 5.66236 7.74925 5.48036 7.57425C5.30186 7.39925 5.16186 7.1945 5.06036 6.96C4.95886 6.722 4.90811 6.4665 4.90811 6.1935C4.90811 5.9205 4.95711 5.6685 5.05511 5.4375C5.15661 5.203 5.29661 4.99825 5.47511 4.82325C5.65361 4.64825 5.86361 4.5135 6.10511 4.419C6.34661 4.321 6.61086 4.272 6.89786 4.272C7.18486 4.272 7.44911 4.321 7.69061 4.419C7.93211 4.5135 8.14211 4.64825 8.32061 4.82325C8.49911 4.99825 8.63736 5.203 8.73536 5.4375C8.83686 5.672 8.88761 5.92575 8.88761 6.19875C8.88761 6.47175 8.83686 6.7255 8.73536 6.96C8.63736 7.1945 8.49911 7.401 8.32061 7.5795C8.14211 7.7545 7.93211 7.891 7.69061 7.989C7.45261 8.0835 7.19186 8.13075 6.90836 8.13075ZM6.89786 7.29075C7.10786 7.29075 7.28986 7.24525 7.44386 7.15425C7.59786 7.06325 7.71686 6.9355 7.80086 6.771C7.88486 6.6065 7.92686 6.414 7.92686 6.1935C7.92686 6.0325 7.90236 5.8855 7.85336 5.7525C7.80786 5.6195 7.73961 5.50575 7.64861 5.41125C7.55761 5.31325 7.44911 5.238 7.32311 5.1855C7.19711 5.133 7.05536 5.10675 6.89786 5.10675C6.68786 5.10675 6.50586 5.15225 6.35186 5.24325C6.19786 5.33075 6.07886 5.45675 5.99486 5.62125C5.91086 5.78575 5.86886 5.9765 5.86886 6.1935C5.86886 6.3615 5.89161 6.51375 5.93711 6.65025C5.98611 6.78325 6.05611 6.89875 6.14711 6.99675C6.23811 7.09125 6.34661 7.16475 6.47261 7.21725C6.59861 7.26625 6.74036 7.29075 6.89786 7.29075ZM10.1031 6.729V6.03075H10.8381C10.9291 6.03075 11.0114 6.01325 11.0849 5.97825C11.1619 5.93975 11.2231 5.88375 11.2686 5.81025C11.3141 5.73675 11.3369 5.64575 11.3369 5.53725C11.3369 5.42875 11.3141 5.33775 11.2686 5.26425C11.2231 5.18725 11.1619 5.13125 11.0849 5.09625C11.0114 5.05775 10.9291 5.0385 10.8381 5.0385H10.1031V4.34025H11.0009C11.2389 4.34025 11.4541 4.38925 11.6466 4.48725C11.8391 4.58175 11.9914 4.71825 12.1034 4.89675C12.2154 5.07175 12.2714 5.28525 12.2714 5.53725C12.2714 5.78225 12.2154 5.99575 12.1034 6.17775C11.9914 6.35625 11.8391 6.49275 11.6466 6.58725C11.4541 6.68175 11.2389 6.729 11.0009 6.729H10.1031ZM9.35761 8.0625V4.34025H10.2974V8.0625H9.35761Z"
+                    fill="#923800"
+                  ></path>
+                  <defs>
+                    <linearGradient
+                      id="paint0_linear_10018_17757"
+                      x1="1.53125"
+                      y1="2.89655e-07"
+                      x2="11.8125"
+                      y2="12.25"
+                      gradientUnits="userSpaceOnUse"
+                    >
+                      <stop stopColor="#FDC775"></stop>
+                      <stop offset="0.528482" stopColor="#FFE7C6"></stop>
+                      <stop offset="1" stopColor="#E7A85C"></stop>
+                    </linearGradient>
+                    <linearGradient
+                      id="paint1_linear_10018_17757"
+                      x1="7"
+                      y1="0.65625"
+                      x2="7"
+                      y2="13.3438"
+                      gradientUnits="userSpaceOnUse"
+                    >
+                      <stop stopColor="#D27F4B"></stop>
+                      <stop offset="1" stopColor="#F1B55E"></stop>
+                    </linearGradient>
+                  </defs>
+                </svg>
+                <span data-v-4e36107e className="trend-name">
+                  Kitchen Appliances Best Seller
+                </span>
+                <span data-v-4e36107e className="trend-rank">
+                  #2
+                </span>
+                <svg
+                  data-v-b958d155
+                  data-v-4e36107e
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="8"
+                  height="8"
+                  viewBox="0 0 8 8"
+                  fill="none"
+                  className="trend-arrow"
+                >
+                  <path
+                    data-v-b958d155
+                    d="M2.6665 0.828125L5.83808 3.9997L2.6665 7.17127"
+                    stroke="#9A3412"
+                  ></path>
+                </svg>
+              </a>
+            </div>
+            <div className="site-item" data-id="6022">
+              <a
+                className="js_select_item js_load_item"
+                href="https://ng.oraimo.com/product/oraimo-robustline-high-speed-sturdy-data-cable-ocd-1145cc?ean=4894947100857"
+                data-id="6022"
+                data-sku="OCD-1145CC-BLACK"
+                data-name="RobustLine 100W High‑Speed Durable Type-c to Type-c Data Cable"
+                data-price="1.79"
+                data-category="Cables"
+                data-section-type="list"
+                data-section-name="oraimo Daily Deals"
+                data-select="1"
+              >
+                <div className="item-container">
+                  <img
+                    className="item-picture lazyloaded"
+                    alt="RobustLine 100W High‑Speed Durable Type-c to Type-c Data Cable"
+                    data-src="https://cdn-img.oraimo.com/fit-in/540x540/BD/product/2025/12/01/OCD-1145CC-BLACK.png"
+                    src="/images/oraimo-af7522718fcbc082.webp"
+                  />
+                  <div className="item-color">
+                    <div className="item-color-item">
+                      <img
+                        className="item-color-avatar lazyloaded"
+                        alt=""
+                        data-src="https://cdn-img.oraimo.com/fit-in/360x360/BD/product/2025/12/01/OCD-1145CC-BLACK.png"
+                        src="/images/oraimo-07d5e3661174d97e.webp"
+                      />
+                    </div>
+                    <div className="item-color-item">
+                      <img
+                        className="item-color-avatar lazyloaded"
+                        alt=""
+                        data-src="https://cdn-img.oraimo.com/fit-in/360x360/BD/product/2025/12/01/OCD-1145CC-WHITE.png"
+                        src="/images/oraimo-1414f88404d9375a.webp"
+                      />
+                    </div>
+                  </div>
+                  <div className="item-review">
+                    <span className="item-review-score">4.9</span>
+                    <svg
+                      width="18"
+                      height="18"
+                      viewBox="0 0 18 18"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                      className="item-review-star"
+                    >
+                      <path
+                        d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                        fill="#82E600"
+                      ></path>
+                    </svg>
+                    <span className="item-review-count">(52)</span>
+                  </div>
+                </div>
+                <div className="item-content">
+                  <p className="item-title">
+                    {" "}
+                    RobustLine 100W High‑Speed Durable Type-c to Type-c Data
+                    Cable
+                  </p>
+                  <p className="item-point">
+                    <span className="item-point-container">
+                      <img
+                        className="item-point-icon lazyloaded"
+                        alt="Universal Compatibility"
+                        data-src="https://cdn-img.oraimo.com/label/universal-compatibility.svg"
+                        src="/images/oraimo-bd5b804a130cb682.svg"
+                      />
+                      <svg
+                        data-v-02c2eb76
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="20"
+                        height="20"
+                        viewBox="0 0 20 20"
+                        fill="none"
+                      >
+                        <circle
+                          data-v-02c2eb76
+                          opacity="0.3"
+                          cx="10"
+                          cy="10"
+                          r="9.75"
+                          stroke="#EEEEEE"
+                          strokeWidth="0.5"
+                        ></circle>
+                      </svg>
+                    </span>
+                    <span className="item-point-title">
+                      Universal Compatibility
+                    </span>
+                  </p>
+                  <div className="item-price">
+                    <div className="item-price-main">
+                      <span className="item-price-final">
+                        <span>₦ 2,600</span>
+                        <span className="item-price-discount sf-hidden">
+                          -13%
+                        </span>
+                      </span>
+                      <del className="item-price-market">₦ 3,000</del>
+                    </div>
+                    <span className="item-price-discount">-13%</span>
+                  </div>
+                </div>
+              </a>
+              <a
+                data-v-4e36107e
+                href="https://ng.oraimo.com/trend?type=2&rank_id=0&category_id=222&category_rank_type=3"
+                className="module-common-trend"
+              >
+                <svg
+                  data-v-4e36107e
+                  width="14"
+                  height="14"
+                  viewBox="0 0 14 14"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                  className="trend-top"
+                >
+                  <path
+                    d="M0 1.75C0 0.783501 0.783502 0 1.75 0H12.25C13.2165 0 14 0.783502 14 1.75V9.71848C14 10.4071 13.5961 11.0317 12.9681 11.3143L7.71814 13.6768C7.26143 13.8824 6.73857 13.8824 6.28186 13.6768L1.03186 11.3143C0.403872 11.0317 0 10.4071 0 9.71848L0 1.75Z"
+                    fill="url(#paint0_linear_10018_17757)"
+                  ></path>
+                  <path
+                    d="M1.96875 0.765625H12.0312C12.6957 0.765625 13.2344 1.30428 13.2344 1.96875V9.61133C13.2344 10.0829 12.9585 10.5117 12.5293 10.707L7.49805 12.9971C7.18165 13.1409 6.81835 13.1409 6.50195 12.9971L1.4707 10.707C1.0415 10.5117 0.765625 10.0829 0.765625 9.61133V1.96875C0.765626 1.30428 1.30428 0.765625 1.96875 0.765625Z"
+                    stroke="url(#paint1_linear_10018_17757)"
+                    strokeWidth="0.21875"
+                  ></path>
+                  <path
+                    d="M2.765 8.0625V4.3665H3.70475V8.0625H2.765ZM1.62575 5.14875V4.34025H4.844V5.14875H1.62575ZM6.90836 8.13075C6.62136 8.13075 6.35711 8.08175 6.11561 7.98375C5.87411 7.88575 5.66236 7.74925 5.48036 7.57425C5.30186 7.39925 5.16186 7.1945 5.06036 6.96C4.95886 6.722 4.90811 6.4665 4.90811 6.1935C4.90811 5.9205 4.95711 5.6685 5.05511 5.4375C5.15661 5.203 5.29661 4.99825 5.47511 4.82325C5.65361 4.64825 5.86361 4.5135 6.10511 4.419C6.34661 4.321 6.61086 4.272 6.89786 4.272C7.18486 4.272 7.44911 4.321 7.69061 4.419C7.93211 4.5135 8.14211 4.64825 8.32061 4.82325C8.49911 4.99825 8.63736 5.203 8.73536 5.4375C8.83686 5.672 8.88761 5.92575 8.88761 6.19875C8.88761 6.47175 8.83686 6.7255 8.73536 6.96C8.63736 7.1945 8.49911 7.401 8.32061 7.5795C8.14211 7.7545 7.93211 7.891 7.69061 7.989C7.45261 8.0835 7.19186 8.13075 6.90836 8.13075ZM6.89786 7.29075C7.10786 7.29075 7.28986 7.24525 7.44386 7.15425C7.59786 7.06325 7.71686 6.9355 7.80086 6.771C7.88486 6.6065 7.92686 6.414 7.92686 6.1935C7.92686 6.0325 7.90236 5.8855 7.85336 5.7525C7.80786 5.6195 7.73961 5.50575 7.64861 5.41125C7.55761 5.31325 7.44911 5.238 7.32311 5.1855C7.19711 5.133 7.05536 5.10675 6.89786 5.10675C6.68786 5.10675 6.50586 5.15225 6.35186 5.24325C6.19786 5.33075 6.07886 5.45675 5.99486 5.62125C5.91086 5.78575 5.86886 5.9765 5.86886 6.1935C5.86886 6.3615 5.89161 6.51375 5.93711 6.65025C5.98611 6.78325 6.05611 6.89875 6.14711 6.99675C6.23811 7.09125 6.34661 7.16475 6.47261 7.21725C6.59861 7.26625 6.74036 7.29075 6.89786 7.29075ZM10.1031 6.729V6.03075H10.8381C10.9291 6.03075 11.0114 6.01325 11.0849 5.97825C11.1619 5.93975 11.2231 5.88375 11.2686 5.81025C11.3141 5.73675 11.3369 5.64575 11.3369 5.53725C11.3369 5.42875 11.3141 5.33775 11.2686 5.26425C11.2231 5.18725 11.1619 5.13125 11.0849 5.09625C11.0114 5.05775 10.9291 5.0385 10.8381 5.0385H10.1031V4.34025H11.0009C11.2389 4.34025 11.4541 4.38925 11.6466 4.48725C11.8391 4.58175 11.9914 4.71825 12.1034 4.89675C12.2154 5.07175 12.2714 5.28525 12.2714 5.53725C12.2714 5.78225 12.2154 5.99575 12.1034 6.17775C11.9914 6.35625 11.8391 6.49275 11.6466 6.58725C11.4541 6.68175 11.2389 6.729 11.0009 6.729H10.1031ZM9.35761 8.0625V4.34025H10.2974V8.0625H9.35761Z"
+                    fill="#923800"
+                  ></path>
+                  <defs>
+                    <linearGradient
+                      id="paint0_linear_10018_17757"
+                      x1="1.53125"
+                      y1="2.89655e-07"
+                      x2="11.8125"
+                      y2="12.25"
+                      gradientUnits="userSpaceOnUse"
+                    >
+                      <stop stopColor="#FDC775"></stop>
+                      <stop offset="0.528482" stopColor="#FFE7C6"></stop>
+                      <stop offset="1" stopColor="#E7A85C"></stop>
+                    </linearGradient>
+                    <linearGradient
+                      id="paint1_linear_10018_17757"
+                      x1="7"
+                      y1="0.65625"
+                      x2="7"
+                      y2="13.3438"
+                      gradientUnits="userSpaceOnUse"
+                    >
+                      <stop stopColor="#D27F4B"></stop>
+                      <stop offset="1" stopColor="#F1B55E"></stop>
+                    </linearGradient>
+                  </defs>
+                </svg>
+                <span data-v-4e36107e className="trend-name">
+                  oraimo Power Products Trending
+                </span>
+                <span data-v-4e36107e className="trend-rank">
+                  #5
+                </span>
+                <svg
+                  data-v-b958d155
+                  data-v-4e36107e
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="8"
+                  height="8"
+                  viewBox="0 0 8 8"
+                  fill="none"
+                  className="trend-arrow"
+                >
+                  <path
+                    data-v-b958d155
+                    d="M2.6665 0.828125L5.83808 3.9997L2.6665 7.17127"
+                    stroke="#9A3412"
+                  ></path>
+                </svg>
+              </a>
+            </div>
+            <div className="site-item" data-id="6764">
+              <a
+                className="js_select_item js_load_item"
+                href="https://ng.oraimo.com/product/oraimo-true-wireless-earbuds-lightweight-spacebuds-air-2-otw-325s?ean=4894947121395"
+                data-id="6764"
+                data-sku="OTW-325S-GRAPHITEBLACK"
+                data-name="SpaceBuds Air 2 50H Long Battery Life Earbuds with Smart Translation"
+                data-price="13.66"
+                data-category="Wireless Stereo Earbuds"
+                data-section-type="list"
+                data-section-name="oraimo Daily Deals"
+                data-select="1"
+              >
+                <div className="item-container">
+                  <img
+                    className="item-picture lazyloaded"
+                    alt="SpaceBuds Air 2 50H Long Battery Life Earbuds with Smart Translation"
+                    data-src="https://cdn-img.oraimo.com/fit-in/540x540/CI/product/2026/06/23/OTW-325S-GRAPHITEBLACK-MAIN.png"
+                    src="/images/oraimo-b109c6e24180d9bb.webp"
+                  />
+                  <div
+                    className="item-tag"
+                    style={{ borderColor: "rgb(130,230,0)" }}
+                  >
+                    <span
+                      className="item-tag-content"
+                      style={{ backgroundColor: "rgb(130,230,0)" }}
+                    >
+                      New Arrival
+                    </span>
+                  </div>
+                  <div className="item-review">
+                    <span className="item-review-score">4.8</span>
+                    <svg
+                      width="18"
+                      height="18"
+                      viewBox="0 0 18 18"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                      className="item-review-star"
+                    >
+                      <path
+                        d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                        fill="#82E600"
+                      ></path>
+                    </svg>
+                    <span className="item-review-count">(28)</span>
+                  </div>
+                </div>
+                <div className="item-content">
+                  <p className="item-title">
+                    {" "}
+                    SpaceBuds Air 2 50H Long Battery Life Earbuds with Smart
+                    Translation
+                  </p>
+                  <p className="item-point">
+                    <span className="item-point-container">
+                      <img
+                        className="item-point-icon lazyloaded"
+                        alt="Half-In-Ear Comfort"
+                        data-src="https://cdn-img.oraimo.com/CI/2026/06/23/half-in-ear-comfort.svg"
+                        src="/images/oraimo-ee51b80299a7ba0d.svg"
+                      />
+                      <svg
+                        data-v-02c2eb76
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="20"
+                        height="20"
+                        viewBox="0 0 20 20"
+                        fill="none"
+                      >
+                        <circle
+                          data-v-02c2eb76
+                          opacity="0.3"
+                          cx="10"
+                          cy="10"
+                          r="9.75"
+                          stroke="#EEEEEE"
+                          strokeWidth="0.5"
+                        ></circle>
+                      </svg>
+                    </span>
+                    <span className="item-point-title">
+                      Half-In-Ear Comfort
+                    </span>
+                  </p>
+                  <div className="item-price">
+                    <div className="item-price-main">
+                      <span className="item-price-final">
+                        <span>₦ 19,800</span>
+                        <span className="item-price-discount sf-hidden">
+                          -20%
+                        </span>
+                      </span>
+                      <del className="item-price-market">₦ 24,700</del>
+                    </div>
+                    <span className="item-price-discount">-20%</span>
+                  </div>
+                </div>
+              </a>
+              <a
+                data-v-4e36107e
+                href="https://ng.oraimo.com/trend?type=2&rank_id=0&category_id=229&category_rank_type=2"
+                className="module-common-trend"
+              >
+                <svg
+                  data-v-4e36107e
+                  width="14"
+                  height="14"
+                  viewBox="0 0 14 14"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                  className="trend-top"
+                >
+                  <path
+                    d="M0 1.75C0 0.783501 0.783502 0 1.75 0H12.25C13.2165 0 14 0.783502 14 1.75V9.71848C14 10.4071 13.5961 11.0317 12.9681 11.3143L7.71814 13.6768C7.26143 13.8824 6.73857 13.8824 6.28186 13.6768L1.03186 11.3143C0.403872 11.0317 0 10.4071 0 9.71848L0 1.75Z"
+                    fill="url(#paint0_linear_10018_17757)"
+                  ></path>
+                  <path
+                    d="M1.96875 0.765625H12.0312C12.6957 0.765625 13.2344 1.30428 13.2344 1.96875V9.61133C13.2344 10.0829 12.9585 10.5117 12.5293 10.707L7.49805 12.9971C7.18165 13.1409 6.81835 13.1409 6.50195 12.9971L1.4707 10.707C1.0415 10.5117 0.765625 10.0829 0.765625 9.61133V1.96875C0.765626 1.30428 1.30428 0.765625 1.96875 0.765625Z"
+                    stroke="url(#paint1_linear_10018_17757)"
+                    strokeWidth="0.21875"
+                  ></path>
+                  <path
+                    d="M2.765 8.0625V4.3665H3.70475V8.0625H2.765ZM1.62575 5.14875V4.34025H4.844V5.14875H1.62575ZM6.90836 8.13075C6.62136 8.13075 6.35711 8.08175 6.11561 7.98375C5.87411 7.88575 5.66236 7.74925 5.48036 7.57425C5.30186 7.39925 5.16186 7.1945 5.06036 6.96C4.95886 6.722 4.90811 6.4665 4.90811 6.1935C4.90811 5.9205 4.95711 5.6685 5.05511 5.4375C5.15661 5.203 5.29661 4.99825 5.47511 4.82325C5.65361 4.64825 5.86361 4.5135 6.10511 4.419C6.34661 4.321 6.61086 4.272 6.89786 4.272C7.18486 4.272 7.44911 4.321 7.69061 4.419C7.93211 4.5135 8.14211 4.64825 8.32061 4.82325C8.49911 4.99825 8.63736 5.203 8.73536 5.4375C8.83686 5.672 8.88761 5.92575 8.88761 6.19875C8.88761 6.47175 8.83686 6.7255 8.73536 6.96C8.63736 7.1945 8.49911 7.401 8.32061 7.5795C8.14211 7.7545 7.93211 7.891 7.69061 7.989C7.45261 8.0835 7.19186 8.13075 6.90836 8.13075ZM6.89786 7.29075C7.10786 7.29075 7.28986 7.24525 7.44386 7.15425C7.59786 7.06325 7.71686 6.9355 7.80086 6.771C7.88486 6.6065 7.92686 6.414 7.92686 6.1935C7.92686 6.0325 7.90236 5.8855 7.85336 5.7525C7.80786 5.6195 7.73961 5.50575 7.64861 5.41125C7.55761 5.31325 7.44911 5.238 7.32311 5.1855C7.19711 5.133 7.05536 5.10675 6.89786 5.10675C6.68786 5.10675 6.50586 5.15225 6.35186 5.24325C6.19786 5.33075 6.07886 5.45675 5.99486 5.62125C5.91086 5.78575 5.86886 5.9765 5.86886 6.1935C5.86886 6.3615 5.89161 6.51375 5.93711 6.65025C5.98611 6.78325 6.05611 6.89875 6.14711 6.99675C6.23811 7.09125 6.34661 7.16475 6.47261 7.21725C6.59861 7.26625 6.74036 7.29075 6.89786 7.29075ZM10.1031 6.729V6.03075H10.8381C10.9291 6.03075 11.0114 6.01325 11.0849 5.97825C11.1619 5.93975 11.2231 5.88375 11.2686 5.81025C11.3141 5.73675 11.3369 5.64575 11.3369 5.53725C11.3369 5.42875 11.3141 5.33775 11.2686 5.26425C11.2231 5.18725 11.1619 5.13125 11.0849 5.09625C11.0114 5.05775 10.9291 5.0385 10.8381 5.0385H10.1031V4.34025H11.0009C11.2389 4.34025 11.4541 4.38925 11.6466 4.48725C11.8391 4.58175 11.9914 4.71825 12.1034 4.89675C12.2154 5.07175 12.2714 5.28525 12.2714 5.53725C12.2714 5.78225 12.2154 5.99575 12.1034 6.17775C11.9914 6.35625 11.8391 6.49275 11.6466 6.58725C11.4541 6.68175 11.2389 6.729 11.0009 6.729H10.1031ZM9.35761 8.0625V4.34025H10.2974V8.0625H9.35761Z"
+                    fill="#923800"
+                  ></path>
+                  <defs>
+                    <linearGradient
+                      id="paint0_linear_10018_17757"
+                      x1="1.53125"
+                      y1="2.89655e-07"
+                      x2="11.8125"
+                      y2="12.25"
+                      gradientUnits="userSpaceOnUse"
+                    >
+                      <stop stopColor="#FDC775"></stop>
+                      <stop offset="0.528482" stopColor="#FFE7C6"></stop>
+                      <stop offset="1" stopColor="#E7A85C"></stop>
+                    </linearGradient>
+                    <linearGradient
+                      id="paint1_linear_10018_17757"
+                      x1="7"
+                      y1="0.65625"
+                      x2="7"
+                      y2="13.3438"
+                      gradientUnits="userSpaceOnUse"
+                    >
+                      <stop stopColor="#D27F4B"></stop>
+                      <stop offset="1" stopColor="#F1B55E"></stop>
+                    </linearGradient>
+                  </defs>
+                </svg>
+                <span data-v-4e36107e className="trend-name">
+                  oraimo Audio New Arrival
+                </span>
+                <span data-v-4e36107e className="trend-rank">
+                  #3
+                </span>
+                <svg
+                  data-v-b958d155
+                  data-v-4e36107e
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="8"
+                  height="8"
+                  viewBox="0 0 8 8"
+                  fill="none"
+                  className="trend-arrow"
+                >
+                  <path
+                    data-v-b958d155
+                    d="M2.6665 0.828125L5.83808 3.9997L2.6665 7.17127"
+                    stroke="#9A3412"
+                  ></path>
+                </svg>
+              </a>
+            </div>
+            <div className="site-item" data-id="3457">
+              <a
+                className="js_select_item js_load_item"
+                href="https://ng.oraimo.com/product/oraimo-nutrifry-duo-dual-viewing-windows-8l-total-capacity-dual-basket-independent-control-airfryer?ean=4894947070006"
+                data-id="3457"
+                data-sku="OH-AF510N"
+                data-name="NutriFry Duo 8L 2800W AirFryer"
+                data-price="45.85"
+                data-category="Smart Air Fryer"
+                data-section-type="list"
+                data-section-name="oraimo Daily Deals"
+                data-select="1"
+              >
+                <div className="item-container">
+                  <img
+                    className="item-picture lazyloaded"
+                    alt="NutriFry Duo 8L 2800W AirFryer"
+                    data-src="https://cdn-img.oraimo.com/fit-in/540x540/PK/product/2025/06/13/oraimo-OH-AF510N-1ditu.png"
+                    src="/images/oraimo-133fb8b199c73508.webp"
+                  />
+                  <div
+                    className="item-tag"
+                    style={{ borderColor: "rgb(230,0,27)" }}
+                  >
+                    <span
+                      className="item-tag-content"
+                      style={{ backgroundColor: "rgb(230,0,27)" }}
+                    >
+                      Flash Sale
+                    </span>
+                  </div>
+                  <div className="item-review">
+                    <span className="item-review-score">4.9</span>
+                    <svg
+                      width="18"
+                      height="18"
+                      viewBox="0 0 18 18"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                      className="item-review-star"
+                    >
+                      <path
+                        d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                        fill="#82E600"
+                      ></path>
+                    </svg>
+                    <span className="item-review-count">(64)</span>
+                  </div>
+                </div>
+                <div className="item-content">
+                  <p className="item-title"> NutriFry Duo 8L 2800W AirFryer</p>
+                  <p className="item-point">
+                    <span className="item-point-container">
+                      <img
+                        className="item-point-icon lazyloaded"
+                        alt="Dual Viewing Windows"
+                        data-src="https://cdn-img.oraimo.com/KE/2025/04/12/large-viewing-window.svg"
+                        src="/images/oraimo-63d825430e56d71d.svg"
+                      />
+                      <svg
+                        data-v-02c2eb76
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="20"
+                        height="20"
+                        viewBox="0 0 20 20"
+                        fill="none"
+                      >
+                        <circle
+                          data-v-02c2eb76
+                          opacity="0.3"
+                          cx="10"
+                          cy="10"
+                          r="9.75"
+                          stroke="#EEEEEE"
+                          strokeWidth="0.5"
+                        ></circle>
+                      </svg>
+                    </span>
+                    <span className="item-point-title">
+                      Dual Viewing Windows
+                    </span>
+                  </p>
+                  <div className="item-price">
+                    <div className="item-price-main">
+                      <span className="item-price-final">
+                        <span>₦ 66,450</span>
+                        <span className="item-price-discount sf-hidden">
+                          -55%
+                        </span>
+                      </span>
+                      <del className="item-price-market">₦ 147,700</del>
+                    </div>
+                    <span className="item-price-discount">-55%</span>
+                  </div>
+                </div>
+              </a>
+              <a
+                data-v-4e36107e
+                href="https://ng.oraimo.com/trend?type=2&rank_id=0&category_id=743&category_rank_type=3"
+                className="module-common-trend"
+              >
+                <svg
+                  data-v-4e36107e
+                  width="14"
+                  height="14"
+                  viewBox="0 0 14 14"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                  className="trend-top"
+                >
+                  <path
+                    d="M0 1.75C0 0.783501 0.783502 0 1.75 0H12.25C13.2165 0 14 0.783502 14 1.75V9.71848C14 10.4071 13.5961 11.0317 12.9681 11.3143L7.71814 13.6768C7.26143 13.8824 6.73857 13.8824 6.28186 13.6768L1.03186 11.3143C0.403872 11.0317 0 10.4071 0 9.71848L0 1.75Z"
+                    fill="url(#paint0_linear_10018_17757)"
+                  ></path>
+                  <path
+                    d="M1.96875 0.765625H12.0312C12.6957 0.765625 13.2344 1.30428 13.2344 1.96875V9.61133C13.2344 10.0829 12.9585 10.5117 12.5293 10.707L7.49805 12.9971C7.18165 13.1409 6.81835 13.1409 6.50195 12.9971L1.4707 10.707C1.0415 10.5117 0.765625 10.0829 0.765625 9.61133V1.96875C0.765626 1.30428 1.30428 0.765625 1.96875 0.765625Z"
+                    stroke="url(#paint1_linear_10018_17757)"
+                    strokeWidth="0.21875"
+                  ></path>
+                  <path
+                    d="M2.765 8.0625V4.3665H3.70475V8.0625H2.765ZM1.62575 5.14875V4.34025H4.844V5.14875H1.62575ZM6.90836 8.13075C6.62136 8.13075 6.35711 8.08175 6.11561 7.98375C5.87411 7.88575 5.66236 7.74925 5.48036 7.57425C5.30186 7.39925 5.16186 7.1945 5.06036 6.96C4.95886 6.722 4.90811 6.4665 4.90811 6.1935C4.90811 5.9205 4.95711 5.6685 5.05511 5.4375C5.15661 5.203 5.29661 4.99825 5.47511 4.82325C5.65361 4.64825 5.86361 4.5135 6.10511 4.419C6.34661 4.321 6.61086 4.272 6.89786 4.272C7.18486 4.272 7.44911 4.321 7.69061 4.419C7.93211 4.5135 8.14211 4.64825 8.32061 4.82325C8.49911 4.99825 8.63736 5.203 8.73536 5.4375C8.83686 5.672 8.88761 5.92575 8.88761 6.19875C8.88761 6.47175 8.83686 6.7255 8.73536 6.96C8.63736 7.1945 8.49911 7.401 8.32061 7.5795C8.14211 7.7545 7.93211 7.891 7.69061 7.989C7.45261 8.0835 7.19186 8.13075 6.90836 8.13075ZM6.89786 7.29075C7.10786 7.29075 7.28986 7.24525 7.44386 7.15425C7.59786 7.06325 7.71686 6.9355 7.80086 6.771C7.88486 6.6065 7.92686 6.414 7.92686 6.1935C7.92686 6.0325 7.90236 5.8855 7.85336 5.7525C7.80786 5.6195 7.73961 5.50575 7.64861 5.41125C7.55761 5.31325 7.44911 5.238 7.32311 5.1855C7.19711 5.133 7.05536 5.10675 6.89786 5.10675C6.68786 5.10675 6.50586 5.15225 6.35186 5.24325C6.19786 5.33075 6.07886 5.45675 5.99486 5.62125C5.91086 5.78575 5.86886 5.9765 5.86886 6.1935C5.86886 6.3615 5.89161 6.51375 5.93711 6.65025C5.98611 6.78325 6.05611 6.89875 6.14711 6.99675C6.23811 7.09125 6.34661 7.16475 6.47261 7.21725C6.59861 7.26625 6.74036 7.29075 6.89786 7.29075ZM10.1031 6.729V6.03075H10.8381C10.9291 6.03075 11.0114 6.01325 11.0849 5.97825C11.1619 5.93975 11.2231 5.88375 11.2686 5.81025C11.3141 5.73675 11.3369 5.64575 11.3369 5.53725C11.3369 5.42875 11.3141 5.33775 11.2686 5.26425C11.2231 5.18725 11.1619 5.13125 11.0849 5.09625C11.0114 5.05775 10.9291 5.0385 10.8381 5.0385H10.1031V4.34025H11.0009C11.2389 4.34025 11.4541 4.38925 11.6466 4.48725C11.8391 4.58175 11.9914 4.71825 12.1034 4.89675C12.2154 5.07175 12.2714 5.28525 12.2714 5.53725C12.2714 5.78225 12.2154 5.99575 12.1034 6.17775C11.9914 6.35625 11.8391 6.49275 11.6466 6.58725C11.4541 6.68175 11.2389 6.729 11.0009 6.729H10.1031ZM9.35761 8.0625V4.34025H10.2974V8.0625H9.35761Z"
+                    fill="#923800"
+                  ></path>
+                  <defs>
+                    <linearGradient
+                      id="paint0_linear_10018_17757"
+                      x1="1.53125"
+                      y1="2.89655e-07"
+                      x2="11.8125"
+                      y2="12.25"
+                      gradientUnits="userSpaceOnUse"
+                    >
+                      <stop stopColor="#FDC775"></stop>
+                      <stop offset="0.528482" stopColor="#FFE7C6"></stop>
+                      <stop offset="1" stopColor="#E7A85C"></stop>
+                    </linearGradient>
+                    <linearGradient
+                      id="paint1_linear_10018_17757"
+                      x1="7"
+                      y1="0.65625"
+                      x2="7"
+                      y2="13.3438"
+                      gradientUnits="userSpaceOnUse"
+                    >
+                      <stop stopColor="#D27F4B"></stop>
+                      <stop offset="1" stopColor="#F1B55E"></stop>
+                    </linearGradient>
+                  </defs>
+                </svg>
+                <span data-v-4e36107e className="trend-name">
+                  Kitchen Appliances Trending
+                </span>
+                <span data-v-4e36107e className="trend-rank">
+                  #3
+                </span>
+                <svg
+                  data-v-b958d155
+                  data-v-4e36107e
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="8"
+                  height="8"
+                  viewBox="0 0 8 8"
+                  fill="none"
+                  className="trend-arrow"
+                >
+                  <path
+                    data-v-b958d155
+                    d="M2.6665 0.828125L5.83808 3.9997L2.6665 7.17127"
+                    stroke="#9A3412"
+                  ></path>
+                </svg>
+              </a>
+            </div>
+            <div className="site-item" data-id="3867">
+              <a
+                className="js_select_item js_load_item"
+                href="https://ng.oraimo.com/product/oraimo-spacebuds-lite-sound360-anti-lost-true-wireless-earbuds-otw-324?ean=4894947092299"
+                data-id="3867"
+                data-sku="OTW-324-SPEEDBLACK"
+                data-name="SpaceBuds Lite oraimo SpaceBuds Lite Earbuds"
+                data-price="10.63"
+                data-category="Noise Cancelling Earbuds"
+                data-section-type="list"
+                data-section-name="oraimo Daily Deals"
+                data-select="1"
+              >
+                <div className="item-container">
+                  <img
+                    className="item-picture lazyloaded"
+                    alt="SpaceBuds Lite oraimo SpaceBuds Lite Earbuds"
+                    data-src="https://cdn-img.oraimo.com/fit-in/540x540/KE/product/2025/08/14/OTW-324-1080-b.png"
+                    src="/images/oraimo-e1434c16ee5f5bd9.webp"
+                  />
+                  <div className="item-color">
+                    <div className="item-color-item">
+                      <img
+                        className="item-color-avatar lazyloaded"
+                        alt=""
+                        data-src="https://cdn-img.oraimo.com/fit-in/360x360/KE/product/2025/08/14/OTW-324-1080-b.png"
+                        src="/images/oraimo-670912fee1348987.webp"
+                      />
+                    </div>
+                    <div className="item-color-item">
+                      <img
+                        className="item-color-avatar lazyloaded"
+                        alt=""
+                        data-src="https://cdn-img.oraimo.com/fit-in/360x360/KE/product/2025/08/14/OTW-324-1080-blue.png"
+                        src="/images/oraimo-23072f3363c5118f.webp"
+                      />
+                    </div>
+                    <div className="item-color-item">
+                      <img
+                        className="item-color-avatar lazyloaded"
+                        alt=""
+                        data-src="https://cdn-img.oraimo.com/fit-in/360x360/KE/product/2025/08/14/OTW-324-1080-lg.png"
+                        src="/images/oraimo-fb5157ed4d755b32.webp"
+                      />
+                    </div>
+                  </div>
+                  <div className="item-review">
+                    <span className="item-review-score">4.7</span>
+                    <svg
+                      width="18"
+                      height="18"
+                      viewBox="0 0 18 18"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                      className="item-review-star"
+                    >
+                      <path
+                        d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                        fill="#82E600"
+                      ></path>
+                    </svg>
+                    <span className="item-review-count">(1316)</span>
+                  </div>
+                </div>
+                <div className="item-content">
+                  <p className="item-title">
+                    {" "}
+                    SpaceBuds Lite oraimo SpaceBuds Lite Earbuds
+                  </p>
+                  <p className="item-point">
+                    <span className="item-point-container">
+                      <img
+                        className="item-point-icon lazyloaded"
+                        alt="Sound360 Spatial Audio"
+                        data-src="https://cdn-img.oraimo.com/2024/06/20/sound360-spatial-audio.svg"
+                        src="/images/oraimo-f30422bb594be112.svg"
+                      />
+                      <svg
+                        data-v-02c2eb76
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="20"
+                        height="20"
+                        viewBox="0 0 20 20"
+                        fill="none"
+                      >
+                        <circle
+                          data-v-02c2eb76
+                          opacity="0.3"
+                          cx="10"
+                          cy="10"
+                          r="9.75"
+                          stroke="#EEEEEE"
+                          strokeWidth="0.5"
+                        ></circle>
+                      </svg>
+                    </span>
+                    <span className="item-point-title">
+                      Sound360 Spatial Audio
+                    </span>
+                  </p>
+                  <div className="item-price">
+                    <div className="item-price-main">
+                      <span className="item-price-final">
+                        <span>₦ 15,400</span>
+                        <span className="item-price-discount sf-hidden">
+                          -10%
+                        </span>
+                      </span>
+                      <del className="item-price-market">₦ 17,110</del>
+                    </div>
+                    <span className="item-price-discount">-10%</span>
+                  </div>
+                </div>
+              </a>
+              <a
+                data-v-4e36107e
+                href="https://ng.oraimo.com/trend?type=2&rank_id=0&category_id=229&category_rank_type=1"
+                className="module-common-trend"
+              >
+                <svg
+                  data-v-4e36107e
+                  width="14"
+                  height="14"
+                  viewBox="0 0 14 14"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                  className="trend-top"
+                >
+                  <path
+                    d="M0 1.75C0 0.783501 0.783502 0 1.75 0H12.25C13.2165 0 14 0.783502 14 1.75V9.71848C14 10.4071 13.5961 11.0317 12.9681 11.3143L7.71814 13.6768C7.26143 13.8824 6.73857 13.8824 6.28186 13.6768L1.03186 11.3143C0.403872 11.0317 0 10.4071 0 9.71848L0 1.75Z"
+                    fill="url(#paint0_linear_10018_17757)"
+                  ></path>
+                  <path
+                    d="M1.96875 0.765625H12.0312C12.6957 0.765625 13.2344 1.30428 13.2344 1.96875V9.61133C13.2344 10.0829 12.9585 10.5117 12.5293 10.707L7.49805 12.9971C7.18165 13.1409 6.81835 13.1409 6.50195 12.9971L1.4707 10.707C1.0415 10.5117 0.765625 10.0829 0.765625 9.61133V1.96875C0.765626 1.30428 1.30428 0.765625 1.96875 0.765625Z"
+                    stroke="url(#paint1_linear_10018_17757)"
+                    strokeWidth="0.21875"
+                  ></path>
+                  <path
+                    d="M2.765 8.0625V4.3665H3.70475V8.0625H2.765ZM1.62575 5.14875V4.34025H4.844V5.14875H1.62575ZM6.90836 8.13075C6.62136 8.13075 6.35711 8.08175 6.11561 7.98375C5.87411 7.88575 5.66236 7.74925 5.48036 7.57425C5.30186 7.39925 5.16186 7.1945 5.06036 6.96C4.95886 6.722 4.90811 6.4665 4.90811 6.1935C4.90811 5.9205 4.95711 5.6685 5.05511 5.4375C5.15661 5.203 5.29661 4.99825 5.47511 4.82325C5.65361 4.64825 5.86361 4.5135 6.10511 4.419C6.34661 4.321 6.61086 4.272 6.89786 4.272C7.18486 4.272 7.44911 4.321 7.69061 4.419C7.93211 4.5135 8.14211 4.64825 8.32061 4.82325C8.49911 4.99825 8.63736 5.203 8.73536 5.4375C8.83686 5.672 8.88761 5.92575 8.88761 6.19875C8.88761 6.47175 8.83686 6.7255 8.73536 6.96C8.63736 7.1945 8.49911 7.401 8.32061 7.5795C8.14211 7.7545 7.93211 7.891 7.69061 7.989C7.45261 8.0835 7.19186 8.13075 6.90836 8.13075ZM6.89786 7.29075C7.10786 7.29075 7.28986 7.24525 7.44386 7.15425C7.59786 7.06325 7.71686 6.9355 7.80086 6.771C7.88486 6.6065 7.92686 6.414 7.92686 6.1935C7.92686 6.0325 7.90236 5.8855 7.85336 5.7525C7.80786 5.6195 7.73961 5.50575 7.64861 5.41125C7.55761 5.31325 7.44911 5.238 7.32311 5.1855C7.19711 5.133 7.05536 5.10675 6.89786 5.10675C6.68786 5.10675 6.50586 5.15225 6.35186 5.24325C6.19786 5.33075 6.07886 5.45675 5.99486 5.62125C5.91086 5.78575 5.86886 5.9765 5.86886 6.1935C5.86886 6.3615 5.89161 6.51375 5.93711 6.65025C5.98611 6.78325 6.05611 6.89875 6.14711 6.99675C6.23811 7.09125 6.34661 7.16475 6.47261 7.21725C6.59861 7.26625 6.74036 7.29075 6.89786 7.29075ZM10.1031 6.729V6.03075H10.8381C10.9291 6.03075 11.0114 6.01325 11.0849 5.97825C11.1619 5.93975 11.2231 5.88375 11.2686 5.81025C11.3141 5.73675 11.3369 5.64575 11.3369 5.53725C11.3369 5.42875 11.3141 5.33775 11.2686 5.26425C11.2231 5.18725 11.1619 5.13125 11.0849 5.09625C11.0114 5.05775 10.9291 5.0385 10.8381 5.0385H10.1031V4.34025H11.0009C11.2389 4.34025 11.4541 4.38925 11.6466 4.48725C11.8391 4.58175 11.9914 4.71825 12.1034 4.89675C12.2154 5.07175 12.2714 5.28525 12.2714 5.53725C12.2714 5.78225 12.2154 5.99575 12.1034 6.17775C11.9914 6.35625 11.8391 6.49275 11.6466 6.58725C11.4541 6.68175 11.2389 6.729 11.0009 6.729H10.1031ZM9.35761 8.0625V4.34025H10.2974V8.0625H9.35761Z"
+                    fill="#923800"
+                  ></path>
+                  <defs>
+                    <linearGradient
+                      id="paint0_linear_10018_17757"
+                      x1="1.53125"
+                      y1="2.89655e-07"
+                      x2="11.8125"
+                      y2="12.25"
+                      gradientUnits="userSpaceOnUse"
+                    >
+                      <stop stopColor="#FDC775"></stop>
+                      <stop offset="0.528482" stopColor="#FFE7C6"></stop>
+                      <stop offset="1" stopColor="#E7A85C"></stop>
+                    </linearGradient>
+                    <linearGradient
+                      id="paint1_linear_10018_17757"
+                      x1="7"
+                      y1="0.65625"
+                      x2="7"
+                      y2="13.3438"
+                      gradientUnits="userSpaceOnUse"
+                    >
+                      <stop stopColor="#D27F4B"></stop>
+                      <stop offset="1" stopColor="#F1B55E"></stop>
+                    </linearGradient>
+                  </defs>
+                </svg>
+                <span data-v-4e36107e className="trend-name">
+                  oraimo Audio Best Seller
+                </span>
+                <span data-v-4e36107e className="trend-rank">
+                  #4
+                </span>
+                <svg
+                  data-v-b958d155
+                  data-v-4e36107e
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="8"
+                  height="8"
+                  viewBox="0 0 8 8"
+                  fill="none"
+                  className="trend-arrow"
+                >
+                  <path
+                    data-v-b958d155
+                    d="M2.6665 0.828125L5.83808 3.9997L2.6665 7.17127"
+                    stroke="#9A3412"
+                  ></path>
+                </svg>
+              </a>
+            </div>
+            <div className="site-item" data-id="6646">
+              <a
+                className="js_select_item js_load_item"
+                href="https://ng.oraimo.com/product/oraimo-watch-muse-2-ite-smart-watch-osw-827n-rosegold?ean=4894947124990"
+                data-id="6646"
+                data-sku="OSW-827N-ROSEGOLD"
+                data-name="Watch Muse 2 Lite 1.26&#x27;&#x27; IP68 Chic Versatile Smart Watch"
+                data-price="15.46"
+                data-category="Smart Watches"
+                data-section-type="list"
+                data-section-name="oraimo Daily Deals"
+                data-select="1"
+              >
+                <div className="item-container">
+                  <img
+                    className="item-picture lazyloaded"
+                    alt="Watch Muse 2 Lite 1.26&#x27;&#x27; IP68 Chic Versatile Smart Watch"
+                    data-src="https://cdn-img.oraimo.com/fit-in/540x540/MA/product/2026/06/14/osw-827n.png"
+                    src="/images/oraimo-98361480d7569708.webp"
+                  />
+                  <div
+                    className="item-tag"
+                    style={{ borderColor: "rgb(230,0,27)" }}
+                  >
+                    <span
+                      className="item-tag-content"
+                      style={{ backgroundColor: "rgb(230,0,27)" }}
+                    >
+                      Flash Sale
+                    </span>
+                  </div>
+                  <div className="item-review">
+                    <span className="item-review-score">4.7</span>
+                    <svg
+                      width="18"
+                      height="18"
+                      viewBox="0 0 18 18"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                      className="item-review-star"
+                    >
+                      <path
+                        d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                        fill="#82E600"
+                      ></path>
+                    </svg>
+                    <span className="item-review-count">(28)</span>
+                  </div>
+                </div>
+                <div className="item-content">
+                  <p className="item-title">
+                    {" "}
+                    Watch Muse 2 Lite 1.26'' IP68 Chic Versatile Smart Watch
+                  </p>
+                  <p className="item-point">
+                    <span className="item-point-container">
+                      <img
+                        className="item-point-icon lazyloaded"
+                        alt="AI-Generated Watch Faces"
+                        data-src="https://cdn-img.oraimo.com/BD/2025/01/16/ai-generated-watch-faces.svg"
+                        src="/images/oraimo-c696268560eb32c1.svg"
+                      />
+                      <svg
+                        data-v-02c2eb76
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="20"
+                        height="20"
+                        viewBox="0 0 20 20"
+                        fill="none"
+                      >
+                        <circle
+                          data-v-02c2eb76
+                          opacity="0.3"
+                          cx="10"
+                          cy="10"
+                          r="9.75"
+                          stroke="#EEEEEE"
+                          strokeWidth="0.5"
+                        ></circle>
+                      </svg>
+                    </span>
+                    <span className="item-point-title">
+                      AI-Generated Watch Faces
+                    </span>
+                  </p>
+                  <div className="item-price">
+                    <div className="item-price-main">
+                      <span className="item-price-final">
+                        <span>₦ 22,410</span>
+                        <span className="item-price-discount sf-hidden">
+                          -28%
+                        </span>
+                      </span>
+                      <del className="item-price-market">₦ 31,100</del>
+                    </div>
+                    <span className="item-price-discount">-28%</span>
+                  </div>
+                </div>
+              </a>
+              <a
+                data-v-4e36107e
+                href="https://ng.oraimo.com/trend?type=2&rank_id=0&category_id=238&category_rank_type=2"
+                className="module-common-trend"
+              >
+                <svg
+                  data-v-4e36107e
+                  width="14"
+                  height="14"
+                  viewBox="0 0 14 14"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                  className="trend-top"
+                >
+                  <path
+                    d="M0 1.75C0 0.783501 0.783502 0 1.75 0H12.25C13.2165 0 14 0.783502 14 1.75V9.71848C14 10.4071 13.5961 11.0317 12.9681 11.3143L7.71814 13.6768C7.26143 13.8824 6.73857 13.8824 6.28186 13.6768L1.03186 11.3143C0.403872 11.0317 0 10.4071 0 9.71848L0 1.75Z"
+                    fill="url(#paint0_linear_10018_17757)"
+                  ></path>
+                  <path
+                    d="M1.96875 0.765625H12.0312C12.6957 0.765625 13.2344 1.30428 13.2344 1.96875V9.61133C13.2344 10.0829 12.9585 10.5117 12.5293 10.707L7.49805 12.9971C7.18165 13.1409 6.81835 13.1409 6.50195 12.9971L1.4707 10.707C1.0415 10.5117 0.765625 10.0829 0.765625 9.61133V1.96875C0.765626 1.30428 1.30428 0.765625 1.96875 0.765625Z"
+                    stroke="url(#paint1_linear_10018_17757)"
+                    strokeWidth="0.21875"
+                  ></path>
+                  <path
+                    d="M2.765 8.0625V4.3665H3.70475V8.0625H2.765ZM1.62575 5.14875V4.34025H4.844V5.14875H1.62575ZM6.90836 8.13075C6.62136 8.13075 6.35711 8.08175 6.11561 7.98375C5.87411 7.88575 5.66236 7.74925 5.48036 7.57425C5.30186 7.39925 5.16186 7.1945 5.06036 6.96C4.95886 6.722 4.90811 6.4665 4.90811 6.1935C4.90811 5.9205 4.95711 5.6685 5.05511 5.4375C5.15661 5.203 5.29661 4.99825 5.47511 4.82325C5.65361 4.64825 5.86361 4.5135 6.10511 4.419C6.34661 4.321 6.61086 4.272 6.89786 4.272C7.18486 4.272 7.44911 4.321 7.69061 4.419C7.93211 4.5135 8.14211 4.64825 8.32061 4.82325C8.49911 4.99825 8.63736 5.203 8.73536 5.4375C8.83686 5.672 8.88761 5.92575 8.88761 6.19875C8.88761 6.47175 8.83686 6.7255 8.73536 6.96C8.63736 7.1945 8.49911 7.401 8.32061 7.5795C8.14211 7.7545 7.93211 7.891 7.69061 7.989C7.45261 8.0835 7.19186 8.13075 6.90836 8.13075ZM6.89786 7.29075C7.10786 7.29075 7.28986 7.24525 7.44386 7.15425C7.59786 7.06325 7.71686 6.9355 7.80086 6.771C7.88486 6.6065 7.92686 6.414 7.92686 6.1935C7.92686 6.0325 7.90236 5.8855 7.85336 5.7525C7.80786 5.6195 7.73961 5.50575 7.64861 5.41125C7.55761 5.31325 7.44911 5.238 7.32311 5.1855C7.19711 5.133 7.05536 5.10675 6.89786 5.10675C6.68786 5.10675 6.50586 5.15225 6.35186 5.24325C6.19786 5.33075 6.07886 5.45675 5.99486 5.62125C5.91086 5.78575 5.86886 5.9765 5.86886 6.1935C5.86886 6.3615 5.89161 6.51375 5.93711 6.65025C5.98611 6.78325 6.05611 6.89875 6.14711 6.99675C6.23811 7.09125 6.34661 7.16475 6.47261 7.21725C6.59861 7.26625 6.74036 7.29075 6.89786 7.29075ZM10.1031 6.729V6.03075H10.8381C10.9291 6.03075 11.0114 6.01325 11.0849 5.97825C11.1619 5.93975 11.2231 5.88375 11.2686 5.81025C11.3141 5.73675 11.3369 5.64575 11.3369 5.53725C11.3369 5.42875 11.3141 5.33775 11.2686 5.26425C11.2231 5.18725 11.1619 5.13125 11.0849 5.09625C11.0114 5.05775 10.9291 5.0385 10.8381 5.0385H10.1031V4.34025H11.0009C11.2389 4.34025 11.4541 4.38925 11.6466 4.48725C11.8391 4.58175 11.9914 4.71825 12.1034 4.89675C12.2154 5.07175 12.2714 5.28525 12.2714 5.53725C12.2714 5.78225 12.2154 5.99575 12.1034 6.17775C11.9914 6.35625 11.8391 6.49275 11.6466 6.58725C11.4541 6.68175 11.2389 6.729 11.0009 6.729H10.1031ZM9.35761 8.0625V4.34025H10.2974V8.0625H9.35761Z"
+                    fill="#923800"
+                  ></path>
+                  <defs>
+                    <linearGradient
+                      id="paint0_linear_10018_17757"
+                      x1="1.53125"
+                      y1="2.89655e-07"
+                      x2="11.8125"
+                      y2="12.25"
+                      gradientUnits="userSpaceOnUse"
+                    >
+                      <stop stopColor="#FDC775"></stop>
+                      <stop offset="0.528482" stopColor="#FFE7C6"></stop>
+                      <stop offset="1" stopColor="#E7A85C"></stop>
+                    </linearGradient>
+                    <linearGradient
+                      id="paint1_linear_10018_17757"
+                      x1="7"
+                      y1="0.65625"
+                      x2="7"
+                      y2="13.3438"
+                      gradientUnits="userSpaceOnUse"
+                    >
+                      <stop stopColor="#D27F4B"></stop>
+                      <stop offset="1" stopColor="#F1B55E"></stop>
+                    </linearGradient>
+                  </defs>
+                </svg>
+                <span data-v-4e36107e className="trend-name">
+                  Smart Watches New Arrival
+                </span>
+                <span data-v-4e36107e className="trend-rank">
+                  #2
+                </span>
+                <svg
+                  data-v-b958d155
+                  data-v-4e36107e
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="8"
+                  height="8"
+                  viewBox="0 0 8 8"
+                  fill="none"
+                  className="trend-arrow"
+                >
+                  <path
+                    data-v-b958d155
+                    d="M2.6665 0.828125L5.83808 3.9997L2.6665 7.17127"
+                    stroke="#9A3412"
+                  ></path>
+                </svg>
+              </a>
+            </div>
+            <div className="site-item" data-id="1623">
+              <a
+                className="js_select_item js_load_item"
+                href="https://ng.oraimo.com/product/oraimo-1500w-cooking-visible-smart-air-fryer?ean=4894947021749"
+                data-id="1623"
+                data-sku="OH-AF210N"
+                data-name="SmartAirFryer 5L 1500W Cooking Visible Smart Air Fryer"
+                data-price="53.96"
+                data-category="Air Fryers"
+                data-section-type="list"
+                data-section-name="oraimo Daily Deals"
+                data-select="1"
+              >
+                <div className="item-container">
+                  <img
+                    className="item-picture lazyloaded"
+                    alt="SmartAirFryer 5L 1500W Cooking Visible Smart Air Fryer"
+                    data-src="https://cdn-img.oraimo.com/fit-in/540x540/NG/product/2024/05/23/oraimo-air-fryer.png"
+                    src="/images/oraimo-9c6216bd4375f407.webp"
+                  />
+                  <div
+                    className="item-tag"
+                    style={{ borderColor: "rgb(230,0,27)" }}
+                  >
+                    <span
+                      className="item-tag-content"
+                      style={{ backgroundColor: "rgb(230,0,27)" }}
+                    >
+                      Flash Sale
+                    </span>
+                  </div>
+                  <div className="item-review">
+                    <span className="item-review-score">4.9</span>
+                    <svg
+                      width="18"
+                      height="18"
+                      viewBox="0 0 18 18"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                      className="item-review-star"
+                    >
+                      <path
+                        d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                        fill="#82E600"
+                      ></path>
+                    </svg>
+                    <span className="item-review-count">(4570)</span>
+                  </div>
+                </div>
+                <div className="item-content">
+                  <p className="item-title">
+                    {" "}
+                    SmartAirFryer 5L 1500W Cooking Visible Smart Air Fryer
+                  </p>
+                  <p className="item-point">
+                    <span className="item-point-container">
+                      <img
+                        className="item-point-icon lazyloaded"
+                        alt="Less Oil, More Crunch"
+                        data-src="https://cdn-img.oraimo.com/2024/05/23/better-handfeel.svg"
+                        src="/images/oraimo-9a3223f81c31cab3.svg"
+                      />
+                      <svg
+                        data-v-02c2eb76
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="20"
+                        height="20"
+                        viewBox="0 0 20 20"
+                        fill="none"
+                      >
+                        <circle
+                          data-v-02c2eb76
+                          opacity="0.3"
+                          cx="10"
+                          cy="10"
+                          r="9.75"
+                          stroke="#EEEEEE"
+                          strokeWidth="0.5"
+                        ></circle>
+                      </svg>
+                    </span>
+                    <span className="item-point-title">
+                      Less Oil, More Crunch
+                    </span>
+                  </p>
+                  <div className="item-price">
+                    <div className="item-price-main">
+                      <span className="item-price-final">
+                        <span>₦ 78,210</span>
+                        <span className="item-price-discount sf-hidden">
+                          -19%
+                        </span>
+                      </span>
+                      <del className="item-price-market">₦ 96,600</del>
+                    </div>
+                    <span className="item-price-discount">-19%</span>
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div className="site-item" data-id="2734">
+              <a
+                className="js_select_item js_load_item"
+                href="https://ng.oraimo.com/product/oraimo-spacebuds-neo-true-wireless-spatial-earbuds-otw-323?ean=4894947053689"
+                data-id="2734"
+                data-sku="OTW-323-SPEEDBLACK"
+                data-name="SpaceBuds Neo oraimo SpaceBuds Neo Spatial Audio Earbuds"
+                data-price="12.97"
+                data-category="Wireless Stereo Earbuds"
+                data-section-type="list"
+                data-section-name="oraimo Daily Deals"
+                data-select="1"
+              >
+                <div className="item-container">
+                  <img
+                    className="item-picture lazyloaded"
+                    alt="SpaceBuds Neo oraimo SpaceBuds Neo Spatial Audio Earbuds"
+                    data-src="https://cdn-img.oraimo.com/fit-in/540x540/GH/product/2025/01/09/spacebuds-neo-otw-323.png"
+                    src="/images/oraimo-f6d1f73d49c949b8.webp"
+                  />
+                  <div className="item-color">
+                    <div className="item-color-item">
+                      <img
+                        className="item-color-avatar lazyloaded"
+                        alt=""
+                        data-src="https://cdn-img.oraimo.com/fit-in/360x360/GH/product/2025/01/09/spacebuds-neo-otw-323.png"
+                        src="/images/oraimo-b1eb4da757e2f779.webp"
+                      />
+                    </div>
+                    <div className="item-color-item">
+                      <img
+                        className="item-color-avatar lazyloaded"
+                        alt=""
+                        data-src="https://cdn-img.oraimo.com/fit-in/360x360/MA/product/2025/02/11/323-sagegreen.png"
+                        src="/images/oraimo-5453cb4099e4acd6.webp"
+                      />
+                    </div>
+                    <div className="item-color-item">
+                      <img
+                        className="item-color-avatar lazyloaded"
+                        alt=""
+                        data-src="https://cdn-img.oraimo.com/fit-in/360x360/KE/product/2025/03/03/spacebuds-neo-true-wireless-earbuds-otw-323-lightgold-1.png"
+                        src="/images/oraimo-18141f1698df4cf5.webp"
+                      />
+                    </div>
+                  </div>
+                  <div className="item-review">
+                    <span className="item-review-score">4.7</span>
+                    <svg
+                      width="18"
+                      height="18"
+                      viewBox="0 0 18 18"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                      className="item-review-star"
+                    >
+                      <path
+                        d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                        fill="#82E600"
+                      ></path>
+                    </svg>
+                    <span className="item-review-count">(1638)</span>
+                  </div>
+                </div>
+                <div className="item-content">
+                  <p className="item-title">
+                    {" "}
+                    SpaceBuds Neo oraimo SpaceBuds Neo Spatial Audio Earbuds
+                  </p>
+                  <p className="item-point">
+                    <span className="item-point-container">
+                      <img
+                        className="item-point-icon lazyloaded"
+                        alt="Noise Reduction in Call"
+                        data-src="https://cdn-img.oraimo.com/label/noise-reduction-in-call.svg"
+                        src="/images/oraimo-55b6eeb18768731a.svg"
+                      />
+                      <svg
+                        data-v-02c2eb76
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="20"
+                        height="20"
+                        viewBox="0 0 20 20"
+                        fill="none"
+                      >
+                        <circle
+                          data-v-02c2eb76
+                          opacity="0.3"
+                          cx="10"
+                          cy="10"
+                          r="9.75"
+                          stroke="#EEEEEE"
+                          strokeWidth="0.5"
+                        ></circle>
+                      </svg>
+                    </span>
+                    <span className="item-point-title">
+                      Noise Reduction in Call
+                    </span>
+                  </p>
+                  <div className="item-price">
+                    <div className="item-price-main">
+                      <span className="item-price-final">
+                        <span>₦ 18,800</span>
+                        <span className="item-price-discount sf-hidden">
+                          -10%
+                        </span>
+                      </span>
+                      <del className="item-price-market">₦ 20,890</del>
+                    </div>
+                    <span className="item-price-discount">-10%</span>
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div className="site-item" data-id="6688">
+              <a
+                className="js_select_item js_load_item"
+                href="https://ng.oraimo.com/product/oraimo-kitchnova-safe-reliable-multi-function-pressure-cooker-oec-202a-black?ean=4894947115325"
+                data-id="6688"
+                data-sku="OEC-202A-BLACK"
+                data-name="KitchNova 1200W 6L Pressure Cooker"
+                data-price="63.98"
+                data-category="Pressure Cooker"
+                data-section-type="list"
+                data-section-name="oraimo Daily Deals"
+                data-select="1"
+              >
+                <div className="item-container">
+                  <img
+                    className="item-picture lazyloaded"
+                    alt="KitchNova 1200W 6L Pressure Cooker"
+                    data-src="https://cdn-img.oraimo.com/fit-in/540x540/KE/product/2026/06/25/oraimo-kitchnova-africa-oec-202a-mainimage.png"
+                    src="/images/oraimo-72400fe3267a3c47.webp"
+                  />
+                  <div
+                    className="item-tag"
+                    style={{ borderColor: "rgb(230,0,27)" }}
+                  >
+                    <span
+                      className="item-tag-content"
+                      style={{ backgroundColor: "rgb(230,0,27)" }}
+                    >
+                      Flash Sale
+                    </span>
+                  </div>
+                  <div className="item-review">
+                    <span className="item-review-score">4.6</span>
+                    <svg
+                      width="18"
+                      height="18"
+                      viewBox="0 0 18 18"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                      className="item-review-star"
+                    >
+                      <path
+                        d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                        fill="#82E600"
+                      ></path>
+                    </svg>
+                    <span className="item-review-count">(7)</span>
+                  </div>
+                </div>
+                <div className="item-content">
+                  <p className="item-title">
+                    {" "}
+                    KitchNova 1200W 6L Pressure Cooker
+                  </p>
+                  <p className="item-point">
+                    <span className="item-point-container">
+                      <img
+                        className="item-point-icon lazyloaded"
+                        alt="1200W High Power & 80kPa Working Pressure"
+                        data-src="https://cdn-img.oraimo.com/KE/2026/06/25/1200W-high-power-and-working-pressure-80kPa.svg"
+                        src="/images/oraimo-c9df5b88a4e99547.svg"
+                      />
+                      <svg
+                        data-v-02c2eb76
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="20"
+                        height="20"
+                        viewBox="0 0 20 20"
+                        fill="none"
+                      >
+                        <circle
+                          data-v-02c2eb76
+                          opacity="0.3"
+                          cx="10"
+                          cy="10"
+                          r="9.75"
+                          stroke="#EEEEEE"
+                          strokeWidth="0.5"
+                        ></circle>
+                      </svg>
+                    </span>
+                    <span className="item-point-title">
+                      1200W High Power &amp; 80kPa Working Pressure
+                    </span>
+                  </p>
+                  <div className="item-price">
+                    <div className="item-price-main">
+                      <span className="item-price-final">
+                        <span>₦ 92,720</span>
+                        <span className="item-price-discount sf-hidden">
+                          -28%
+                        </span>
+                      </span>
+                      <del className="item-price-market">₦ 128,780</del>
+                    </div>
+                    <span className="item-price-discount">-28%</span>
+                  </div>
+                </div>
+              </a>
+              <a
+                data-v-4e36107e
+                href="https://ng.oraimo.com/trend?type=2&rank_id=0&category_id=402&category_rank_type=2"
+                className="module-common-trend"
+              >
+                <svg
+                  data-v-4e36107e
+                  width="14"
+                  height="14"
+                  viewBox="0 0 14 14"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                  className="trend-top"
+                >
+                  <path
+                    d="M0 1.75C0 0.783501 0.783502 0 1.75 0H12.25C13.2165 0 14 0.783502 14 1.75V9.71848C14 10.4071 13.5961 11.0317 12.9681 11.3143L7.71814 13.6768C7.26143 13.8824 6.73857 13.8824 6.28186 13.6768L1.03186 11.3143C0.403872 11.0317 0 10.4071 0 9.71848L0 1.75Z"
+                    fill="url(#paint0_linear_10018_17757)"
+                  ></path>
+                  <path
+                    d="M1.96875 0.765625H12.0312C12.6957 0.765625 13.2344 1.30428 13.2344 1.96875V9.61133C13.2344 10.0829 12.9585 10.5117 12.5293 10.707L7.49805 12.9971C7.18165 13.1409 6.81835 13.1409 6.50195 12.9971L1.4707 10.707C1.0415 10.5117 0.765625 10.0829 0.765625 9.61133V1.96875C0.765626 1.30428 1.30428 0.765625 1.96875 0.765625Z"
+                    stroke="url(#paint1_linear_10018_17757)"
+                    strokeWidth="0.21875"
+                  ></path>
+                  <path
+                    d="M2.765 8.0625V4.3665H3.70475V8.0625H2.765ZM1.62575 5.14875V4.34025H4.844V5.14875H1.62575ZM6.90836 8.13075C6.62136 8.13075 6.35711 8.08175 6.11561 7.98375C5.87411 7.88575 5.66236 7.74925 5.48036 7.57425C5.30186 7.39925 5.16186 7.1945 5.06036 6.96C4.95886 6.722 4.90811 6.4665 4.90811 6.1935C4.90811 5.9205 4.95711 5.6685 5.05511 5.4375C5.15661 5.203 5.29661 4.99825 5.47511 4.82325C5.65361 4.64825 5.86361 4.5135 6.10511 4.419C6.34661 4.321 6.61086 4.272 6.89786 4.272C7.18486 4.272 7.44911 4.321 7.69061 4.419C7.93211 4.5135 8.14211 4.64825 8.32061 4.82325C8.49911 4.99825 8.63736 5.203 8.73536 5.4375C8.83686 5.672 8.88761 5.92575 8.88761 6.19875C8.88761 6.47175 8.83686 6.7255 8.73536 6.96C8.63736 7.1945 8.49911 7.401 8.32061 7.5795C8.14211 7.7545 7.93211 7.891 7.69061 7.989C7.45261 8.0835 7.19186 8.13075 6.90836 8.13075ZM6.89786 7.29075C7.10786 7.29075 7.28986 7.24525 7.44386 7.15425C7.59786 7.06325 7.71686 6.9355 7.80086 6.771C7.88486 6.6065 7.92686 6.414 7.92686 6.1935C7.92686 6.0325 7.90236 5.8855 7.85336 5.7525C7.80786 5.6195 7.73961 5.50575 7.64861 5.41125C7.55761 5.31325 7.44911 5.238 7.32311 5.1855C7.19711 5.133 7.05536 5.10675 6.89786 5.10675C6.68786 5.10675 6.50586 5.15225 6.35186 5.24325C6.19786 5.33075 6.07886 5.45675 5.99486 5.62125C5.91086 5.78575 5.86886 5.9765 5.86886 6.1935C5.86886 6.3615 5.89161 6.51375 5.93711 6.65025C5.98611 6.78325 6.05611 6.89875 6.14711 6.99675C6.23811 7.09125 6.34661 7.16475 6.47261 7.21725C6.59861 7.26625 6.74036 7.29075 6.89786 7.29075ZM10.1031 6.729V6.03075H10.8381C10.9291 6.03075 11.0114 6.01325 11.0849 5.97825C11.1619 5.93975 11.2231 5.88375 11.2686 5.81025C11.3141 5.73675 11.3369 5.64575 11.3369 5.53725C11.3369 5.42875 11.3141 5.33775 11.2686 5.26425C11.2231 5.18725 11.1619 5.13125 11.0849 5.09625C11.0114 5.05775 10.9291 5.0385 10.8381 5.0385H10.1031V4.34025H11.0009C11.2389 4.34025 11.4541 4.38925 11.6466 4.48725C11.8391 4.58175 11.9914 4.71825 12.1034 4.89675C12.2154 5.07175 12.2714 5.28525 12.2714 5.53725C12.2714 5.78225 12.2154 5.99575 12.1034 6.17775C11.9914 6.35625 11.8391 6.49275 11.6466 6.58725C11.4541 6.68175 11.2389 6.729 11.0009 6.729H10.1031ZM9.35761 8.0625V4.34025H10.2974V8.0625H9.35761Z"
+                    fill="#923800"
+                  ></path>
+                  <defs>
+                    <linearGradient
+                      id="paint0_linear_10018_17757"
+                      x1="1.53125"
+                      y1="2.89655e-07"
+                      x2="11.8125"
+                      y2="12.25"
+                      gradientUnits="userSpaceOnUse"
+                    >
+                      <stop stopColor="#FDC775"></stop>
+                      <stop offset="0.528482" stopColor="#FFE7C6"></stop>
+                      <stop offset="1" stopColor="#E7A85C"></stop>
+                    </linearGradient>
+                    <linearGradient
+                      id="paint1_linear_10018_17757"
+                      x1="7"
+                      y1="0.65625"
+                      x2="7"
+                      y2="13.3438"
+                      gradientUnits="userSpaceOnUse"
+                    >
+                      <stop stopColor="#D27F4B"></stop>
+                      <stop offset="1" stopColor="#F1B55E"></stop>
+                    </linearGradient>
+                  </defs>
+                </svg>
+                <span data-v-4e36107e className="trend-name">
+                  Home Appliances New Arrival
+                </span>
+                <span data-v-4e36107e className="trend-rank">
+                  #1
+                </span>
+                <svg
+                  data-v-b958d155
+                  data-v-4e36107e
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="8"
+                  height="8"
+                  viewBox="0 0 8 8"
+                  fill="none"
+                  className="trend-arrow"
+                >
+                  <path
+                    data-v-b958d155
+                    d="M2.6665 0.828125L5.83808 3.9997L2.6665 7.17127"
+                    stroke="#9A3412"
+                  ></path>
+                </svg>
+              </a>
+            </div>
+            <div className="site-item" data-id="4717">
+              <a
+                className="js_select_item js_load_item"
+                href="https://ng.oraimo.com/product/oraimo-spacebuds-air+-metallic-texture-ipx4-true-wireless-earbuds-otw-323sp?ean=4894947100390"
+                data-id="4717"
+                data-sku="OTW-323SP-GRAPHITEBLACK"
+                data-name="SpaceBuds Air+ oraimo SpaceBuds Air+ Earbuds"
+                data-price="18.56"
+                data-category="Half In Ear Earbuds"
+                data-section-type="list"
+                data-section-name="oraimo Daily Deals"
+                data-select="1"
+              >
+                <div className="item-container">
+                  <img
+                    className="item-picture lazyloaded"
+                    alt="SpaceBuds Air+ oraimo SpaceBuds Air+ Earbuds"
+                    data-src="https://cdn-img.oraimo.com/fit-in/540x540/MA/product/2025/10/11/OTW-323SP-Total.png"
+                    src="/images/oraimo-072d6357bacd1c21.webp"
+                  />
+                  <div className="item-review">
+                    <span className="item-review-score">4.6</span>
+                    <svg
+                      width="18"
+                      height="18"
+                      viewBox="0 0 18 18"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                      className="item-review-star"
+                    >
+                      <path
+                        d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                        fill="#82E600"
+                      ></path>
+                    </svg>
+                    <span className="item-review-count">(412)</span>
+                  </div>
+                </div>
+                <div className="item-content">
+                  <p className="item-title">
+                    {" "}
+                    SpaceBuds Air+ oraimo SpaceBuds Air+ Earbuds
+                  </p>
+                  <p className="item-point">
+                    <span className="item-point-container">
+                      <img
+                        className="item-point-icon lazyloaded"
+                        alt="Sound 360 Spatial Audio"
+                        data-src="https://cdn-img.oraimo.com/GH/2025/07/16/sound-360-spatial-audio.svg"
+                        src="/images/oraimo-308a0fe4be4441c3.svg"
+                      />
+                      <svg
+                        data-v-02c2eb76
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="20"
+                        height="20"
+                        viewBox="0 0 20 20"
+                        fill="none"
+                      >
+                        <circle
+                          data-v-02c2eb76
+                          opacity="0.3"
+                          cx="10"
+                          cy="10"
+                          r="9.75"
+                          stroke="#EEEEEE"
+                          strokeWidth="0.5"
+                        ></circle>
+                      </svg>
+                    </span>
+                    <span className="item-point-title">
+                      Sound 360 Spatial Audio
+                    </span>
+                  </p>
+                  <div className="item-price">
+                    <div className="item-price-main">
+                      <span className="item-price-final">
+                        <span>₦ 26,900</span>
+                        <span className="item-price-discount sf-hidden">
+                          -10%
+                        </span>
+                      </span>
+                      <del className="item-price-market">₦ 29,890</del>
+                    </div>
+                    <span className="item-price-discount">-10%</span>
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div className="site-item" data-id="4328">
+              <a
+                className="js_select_item js_load_item"
+                href="https://ng.oraimo.com/product/oraimo-watch-nova2-2.01%22-amoled-curved-touchscreen-ip68-smartwatch-osw-814?ean=4894947097638"
+                data-id="4328"
+                data-sku="OSW-814"
+                data-name='Watch Nova 2 2.01" AMOLED IP68 Curved Touchscreen Smart Watch'
+                data-price="35.12"
+                data-category="Smart Watches"
+                data-section-type="list"
+                data-section-name="oraimo Daily Deals"
+                data-select="1"
+              >
+                <div className="item-container">
+                  <img
+                    className="item-picture lazyloaded"
+                    alt='Watch Nova 2 2.01" AMOLED IP68 Curved Touchscreen Smart Watch'
+                    data-src="https://cdn-img.oraimo.com/fit-in/540x540/BD/product/2025/10/09/OSW-814.png"
+                    src="/images/oraimo-c16ab6512247a327.webp"
+                  />
+                  <div className="item-review">
+                    <span className="item-review-score">4.8</span>
+                    <svg
+                      width="18"
+                      height="18"
+                      viewBox="0 0 18 18"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                      className="item-review-star"
+                    >
+                      <path
+                        d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                        fill="#82E600"
+                      ></path>
+                    </svg>
+                    <span className="item-review-count">(393)</span>
+                  </div>
+                  <div className="item-gift">
+                    <img
+                      className="item-gift-picture lazyloaded"
+                      alt="Watch Strap 06 Green Diamond Pattern Watch Strap"
+                      data-src="https://cdn-img.oraimo.com/fit-in/360x360/BD/product/2026/07/23/WB-06-GREEN.png"
+                      src="&#x27;data:image/svg+xml,&lt;svg"
+                      width="360"
+                      height="360"
+                    />
+                    <rect fillOpacity="0" />
+                  </div>
+                </div>
+              </a>
+            </div>
+          </div>
+        </section>
+      </div>
+      '
+      style="background-blend-mode:normal!important;background-clip:content-box!important;background-position:50%
+      50%!important;background-color:rgb(255,255,255)!important;background-image:var(--sf-img-185)!important;background-size:100%
+      100%!important;background-origin:content-box!important;background-repeat:no-repeat!important"&gt;
+      <span className="item-gift-title">FREE GIFT</span>
+      <div className="item-content">
+        <p className="item-title">
+          {" "}
+          Watch Nova 2 2.01" AMOLED IP68 Curved Touchscreen Smart Watch
+        </p>
+        <p className="item-point">
+          <span className="item-point-container">
+            <img
+              className="item-point-icon lazyloaded"
+              alt="AI-Generated Watch Faces"
+              data-src="https://cdn-img.oraimo.com/NG/2024/09/25/data-sync-with-app.svg"
+              src="/images/oraimo-4dc55aafa8dea5d1.svg"
+            />
+            <svg
+              data-v-02c2eb76
+              xmlns="http://www.w3.org/2000/svg"
+              width="20"
+              height="20"
+              viewBox="0 0 20 20"
+              fill="none"
+            >
+              <circle
+                data-v-02c2eb76
+                opacity="0.3"
+                cx="10"
+                cy="10"
+                r="9.75"
+                stroke="#EEEEEE"
+                strokeWidth="0.5"
+              ></circle>
+            </svg>
+          </span>
+          <span className="item-point-title">AI-Generated Watch Faces</span>
+        </p>
+        <div className="item-price">
+          <div className="item-price-main">
+            <span className="item-price-final">
+              <span>₦ 50,900</span>
+              <span className="item-price-discount sf-hidden">-10%</span>
+            </span>
+            <del className="item-price-market">₦ 56,600</del>
+          </div>
+          <span className="item-price-discount">-10%</span>
+        </div>
+      </div>
+      <div className="site-item" data-id="6029">
+        <a
+          className="js_select_item js_load_item"
+          href="https://ng.oraimo.com/product/oraimo-boompop-air-lightweight-durable-wireless-headphones-ohp-316?ean=4894947114519"
+          data-id="6029"
+          data-sku="OHP-316-GRAVITYBLACK"
+          data-name="BoomPop Air Lightweight On-Ear Wireless Headphones"
+          data-price="17.94"
+          data-category="Wireless Over-Ear Headphones"
+          data-section-type="list"
+          data-section-name="oraimo Daily Deals"
+          data-select="1"
+        >
+          <div className="item-container">
+            <img
+              className="item-picture lazyloaded"
+              alt="BoomPop Air Lightweight On-Ear Wireless Headphones"
+              data-src="https://cdn-img.oraimo.com/fit-in/540x540/KE/product/2026/04/13/oraimo-Headphone-BoomPop-Air-OHP-316-GRAVITYBLACK-mainimage.png"
+              src="/images/oraimo-35b9b43214e810e8.webp"
+            />
+            <div className="item-tag" style={{ borderColor: "rgb(130,230,0)" }}>
+              <span
+                className="item-tag-content"
+                style={{ backgroundColor: "rgb(130,230,0)" }}
+              >
+                New Arrival
+              </span>
+            </div>
+            <div className="item-color">
+              <div className="item-color-item">
+                <img
+                  className="item-color-avatar lazyloaded"
+                  alt=""
+                  data-src="https://cdn-img.oraimo.com/fit-in/360x360/KE/product/2026/04/13/oraimo-Headphone-BoomPop-Air-OHP-316-GRAVITYBLACK-mainimage.png"
+                  src="&#x27;data:image/svg+xml,&lt;svg"
+                  width="360"
+                  height="360"
+                />
+                <rect fillOpacity="0" />
+              </div>
+            </div>
+          </div>
+        </a>
+      </div>
+      '
+      style="background-blend-mode:normal!important;background-clip:content-box!important;background-position:50%
+      50%!important;background-color:rgb(255,255,255)!important;background-image:var(--sf-img-188)!important;background-size:100%
+      100%!important;background-origin:content-box!important;background-repeat:no-repeat!important"&gt;
+      <div className="item-color-item">
+        <img
+          className="item-color-avatar lazyloaded"
+          alt=""
+          data-src="https://cdn-img.oraimo.com/fit-in/360x360/KE/product/2026/04/13/oraimo-Headphone-BoomPop-Air-OHP-316-COSMICORANGE-mainimage.png"
+          src="/images/oraimo-7a4abcf423df571e.webp"
+        />
+      </div>
+      <div className="item-color-item">
+        <img
+          className="item-color-avatar lazyloaded"
+          alt=""
+          data-src="https://cdn-img.oraimo.com/fit-in/360x360/KE/product/2026/05/13/oraimo-Headphone-BoomPop-Air-OHP-316-ELEMENTALBLUE-mainimage.png"
+          src="/images/oraimo-44d53d6ab321c56d.webp"
+        />
+      </div>
+      <div className="item-color-item"></div>
+      <div className="item-color-item"></div>
+      <p className="item-color-count">5</p>
+      <div className="item-review">
+        <span className="item-review-score">4.6</span>
+        <svg
+          width="18"
+          height="18"
+          viewBox="0 0 18 18"
+          fill="none"
+          xmlns="http://www.w3.org/2000/svg"
+          className="item-review-star"
+        >
+          <path
+            d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+            fill="#82E600"
+          ></path>
+        </svg>
+        <span className="item-review-count">(76)</span>
+      </div>
+      <div className="item-gift">
+        <img
+          className="item-gift-picture lazyloaded"
+          alt="RobustLine 2A 1M Type-C Cable"
+          data-src="https://cdn-img.oraimo.com/fit-in/360x360/KE/product/2025/02/21/RobustLine-Typec-cable-OCD-114C-black.png"
+          src="&#x27;data:image/svg+xml,&lt;svg"
+          width="360"
+          height="360"
+        />
+        <rect fillOpacity="0" />
+      </div>
+      '
+      style="background-blend-mode:normal!important;background-clip:content-box!important;background-position:50%
+      50%!important;background-color:rgb(255,255,255)!important;background-image:var(--sf-img-191)!important;background-size:100%
+      100%!important;background-origin:content-box!important;background-repeat:no-repeat!important"&gt;
+      <span className="item-gift-title">FREE GIFT</span>
+      <div className="item-content">
+        <p className="item-title">
+          {" "}
+          BoomPop Air Lightweight On-Ear Wireless Headphones
+        </p>
+        <p className="item-point">
+          <span className="item-point-container">
+            <img
+              className="item-point-icon lazyloaded"
+              alt="On Ear Lightweight Design"
+              data-src="https://cdn-img.oraimo.com/KE/2026/04/13/on-ear-lightweight-design.svg"
+              src="/images/oraimo-5cee095a85173212.svg"
+            />
+            <svg
+              data-v-02c2eb76
+              xmlns="http://www.w3.org/2000/svg"
+              width="20"
+              height="20"
+              viewBox="0 0 20 20"
+              fill="none"
+            >
+              <circle
+                data-v-02c2eb76
+                opacity="0.3"
+                cx="10"
+                cy="10"
+                r="9.75"
+                stroke="#EEEEEE"
+                strokeWidth="0.5"
+              ></circle>
+            </svg>
+          </span>
+          <span className="item-point-title">On Ear Lightweight Design</span>
+        </p>
+        <div className="item-price">
+          <div className="item-price-main">
+            <span className="item-price-final">
+              <span>₦ 26,000</span>
+              <span className="item-price-discount sf-hidden">-10%</span>
+            </span>
+            <del className="item-price-market">₦ 28,900</del>
+          </div>
+          <span className="item-price-discount">-10%</span>
+        </div>
+      </div>
+      <div className="site-item" data-id="6690">
+        <a
+          className="js_select_item js_load_item"
+          href="https://ng.oraimo.com/product/oraimo-home-storage-dresser-noirdresser-air-ohfn-004-blackgold?ean=4894947125690"
+          data-id="6690"
+          data-sku="OHFN-004-BLACKGOLD"
+          data-name="NoirDresser Air Spacious Sturdy Storage Dresser with 6 Drawers"
+          data-price="76.12"
+          data-category="Furniture"
+          data-section-type="list"
+          data-section-name="oraimo Daily Deals"
+          data-select="1"
+        >
+          <div className="item-container">
+            <img
+              className="item-picture lazyloaded"
+              alt="NoirDresser Air Spacious Sturdy Storage Dresser with 6 Drawers"
+              data-src="https://cdn-img.oraimo.com/fit-in/540x540/CI/product/2026/07/08/OHFN-004-Main.png"
+              src="/images/oraimo-a4c6598d885a8575.webp"
+            />
+            <div className="item-tag" style={{ borderColor: "rgb(230,0,27)" }}>
+              <span
+                className="item-tag-content"
+                style={{ backgroundColor: "rgb(230,0,27)" }}
+              >
+                Flash Sale
+              </span>
+            </div>
+          </div>
+          <div className="item-content">
+            <p className="item-title">
+              {" "}
+              NoirDresser Air Spacious Sturdy Storage Dresser with 6 Drawers
+            </p>
+            <p className="item-point">
+              <span className="item-point-container">
+                <img
+                  className="item-point-icon lazyloaded"
+                  alt="Easy Assembly & Foldable"
+                  data-src="https://cdn-img.oraimo.com/GH/2025/12/08/easy-assembly-foldable.svg"
+                  src="/images/oraimo-0dbfe1ba15674d2a.svg"
+                />
+                <svg
+                  data-v-02c2eb76
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="20"
+                  height="20"
+                  viewBox="0 0 20 20"
+                  fill="none"
+                >
+                  <circle
+                    data-v-02c2eb76
+                    opacity="0.3"
+                    cx="10"
+                    cy="10"
+                    r="9.75"
+                    stroke="#EEEEEE"
+                    strokeWidth="0.5"
+                  ></circle>
+                </svg>
+              </span>
+              <span className="item-point-title">
+                Easy Assembly &amp; Foldable
+              </span>
+            </p>
+            <div className="item-price">
+              <div className="item-price-main">
+                <span className="item-price-final">
+                  <span>₦ 110,320</span>
+                  <span className="item-price-discount sf-hidden">-28%</span>
+                </span>
+                <del className="item-price-market">₦ 153,300</del>
+              </div>
+              <span className="item-price-discount">-28%</span>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div className="site-item" data-id="3432">
+        <a
+          className="js_select_item js_load_item"
+          href="https://ng.oraimo.com/product/oraimo-opensnap-n-comfortable-and-secure-fit-game-mode,-audio-upgraded-open-ear-true-wireless-earbuds?ean=4894947069031"
+          data-id="3432"
+          data-sku="OPN-372N"
+          data-name="OpenSnap N oraimo OpenSnap N Open-Ear Earbuds"
+          data-price="19.25"
+          data-category="Open-Ear Headphones"
+          data-section-type="list"
+          data-section-name="oraimo Daily Deals"
+          data-select="1"
+        >
+          <div className="item-container">
+            <img
+              className="item-picture lazyloaded"
+              alt="OpenSnap N oraimo OpenSnap N Open-Ear Earbuds"
+              data-src="https://cdn-img.oraimo.com/fit-in/540x540/KE/product/2025/05/26/oraimo-OpenSnap-N-OPN-372N-3.png"
+              src="/images/oraimo-eae4b80060c0379e.webp"
+            />
+            <div className="item-review">
+              <span className="item-review-score">4.7</span>
+              <svg
+                width="18"
+                height="18"
+                viewBox="0 0 18 18"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+                className="item-review-star"
+              >
+                <path
+                  d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                  fill="#82E600"
+                ></path>
+              </svg>
+              <span className="item-review-count">(941)</span>
+            </div>
+          </div>
+          <div className="item-content">
+            <p className="item-title">
+              {" "}
+              OpenSnap N oraimo OpenSnap N Open-Ear Earbuds
+            </p>
+            <p className="item-point">
+              <span className="item-point-container">
+                <img
+                  className="item-point-icon ls-is-cached lazyloaded"
+                  alt="Comfortable and Secure Fit"
+                  data-src="https://cdn-img.oraimo.com/label/compact-and-comfortable.svg"
+                  src="/images/oraimo-c6fe883bda2b48c2.svg"
+                />
+                <svg
+                  data-v-02c2eb76
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="20"
+                  height="20"
+                  viewBox="0 0 20 20"
+                  fill="none"
+                >
+                  <circle
+                    data-v-02c2eb76
+                    opacity="0.3"
+                    cx="10"
+                    cy="10"
+                    r="9.75"
+                    stroke="#EEEEEE"
+                    strokeWidth="0.5"
+                  ></circle>
+                </svg>
+              </span>
+              <span className="item-point-title">
+                Comfortable and Secure Fit
+              </span>
+            </p>
+            <div className="item-price">
+              <div className="item-price-main">
+                <span className="item-price-final">
+                  <span>₦ 27,900</span>
+                  <span className="item-price-discount sf-hidden">-10%</span>
+                </span>
+                <del className="item-price-market">₦ 31,000</del>
+              </div>
+              <span className="item-price-discount">-10%</span>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div className="site-item" data-id="1884">
+        <a
+          className="js_select_item js_load_item"
+          href="https://ng.oraimo.com/product/oraimo-powerjet-130-27600mah-smart-display-130w-fast-charge-power-bank-for-laptop-and-phone?ean=4894947025495"
+          data-id="1884"
+          data-sku="OPB-727SQ"
+          data-name="PowerJet 130 oraimo PowerJet 130 27600mAh Power Bank"
+          data-price="64.1"
+          data-category="Laptop Power Bank"
+          data-section-type="list"
+          data-section-name="oraimo Daily Deals"
+          data-select="1"
+        >
+          <div className="item-container">
+            <img
+              className="item-picture lazyloaded"
+              alt="PowerJet 130 oraimo PowerJet 130 27600mAh Power Bank"
+              data-src="https://cdn-img.oraimo.com/fit-in/540x540/NG/product/2024/08/14/OPB-727SQ.png"
+              src="/images/oraimo-d18e5b048504ee3c.webp"
+            />
+            <div className="item-review">
+              <span className="item-review-score">4.8</span>
+              <svg
+                width="18"
+                height="18"
+                viewBox="0 0 18 18"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+                className="item-review-star"
+              >
+                <path
+                  d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                  fill="#82E600"
+                ></path>
+              </svg>
+              <span className="item-review-count">(951)</span>
+            </div>
+            <div className="item-gift">
+              <img
+                className="item-gift-picture lazyloaded"
+                alt="BoomPop Air Lightweight On-Ear Wireless Headphones"
+                data-src="https://cdn-img.oraimo.com/fit-in/360x360/KE/product/2026/04/13/oraimo-Headphone-BoomPop-Air-OHP-316-GRAVITYBLACK-mainimage.png"
+                src="&#x27;data:image/svg+xml,&lt;svg"
+                width="360"
+                height="360"
+              />
+              <rect fillOpacity="0" />
+            </div>
+          </div>
+        </a>
+      </div>
+      '
+      style="background-blend-mode:normal!important;background-clip:content-box!important;background-position:50%
+      50%!important;background-color:rgb(255,255,255)!important;background-image:var(--sf-img-188)!important;background-size:100%
+      100%!important;background-origin:content-box!important;background-repeat:no-repeat!important"&gt;
+      <span className="item-gift-title">FREE GIFT</span>
+      <div className="item-content">
+        <p className="item-title">
+          {" "}
+          PowerJet 130 oraimo PowerJet 130 27600mAh Power Bank
+        </p>
+        <p className="item-point">
+          <span className="item-point-container">
+            <img
+              className="item-point-icon lazyloaded"
+              alt="130W Type-C Fast Charging"
+              data-src="https://cdn-img.oraimo.com/2024/08/20/type-c-charging-port.svg"
+              src="/images/oraimo-f4d0cb9e22e55170.svg"
+            />
+            <svg
+              data-v-02c2eb76
+              xmlns="http://www.w3.org/2000/svg"
+              width="20"
+              height="20"
+              viewBox="0 0 20 20"
+              fill="none"
+            >
+              <circle
+                data-v-02c2eb76
+                opacity="0.3"
+                cx="10"
+                cy="10"
+                r="9.75"
+                stroke="#EEEEEE"
+                strokeWidth="0.5"
+              ></circle>
+            </svg>
+          </span>
+          <span className="item-point-title">130W Type-C Fast Charging</span>
+        </p>
+        <div className="item-price">
+          <div className="item-price-main">
+            <span className="item-price-final">
+              <span>₦ 92,900</span>
+              <span className="item-price-discount sf-hidden">-10%</span>
+            </span>
+            <del className="item-price-market">₦ 103,200</del>
+          </div>
+          <span className="item-price-discount">-10%</span>
+        </div>
+      </div>
+      <div className="site-item" data-id="3165">
+        <a
+          className="js_select_item js_load_item"
+          href="https://ng.oraimo.com/product/oraimo-openarc-open-ear-true-wireless-earphones-opn-675-spacegrey-36-hr-long-playtime?ean=4894947065736"
+          data-id="3165"
+          data-sku="OPN-675-SPACEGREY"
+          data-name="OpenArc Open-Ear Wireless Earphones"
+          data-price="41.33"
+          data-category="Open-Ear Headphones"
+          data-section-type="list"
+          data-section-name="oraimo Daily Deals"
+          data-select="1"
+        >
+          <div className="item-container">
+            <img
+              className="item-picture lazyloaded"
+              alt="OpenArc Open-Ear Wireless Earphones"
+              data-src="https://cdn-img.oraimo.com/fit-in/540x540/NG/product/2025/05/16/OPN-675-1080-1.png"
+              src="/images/oraimo-6bda988d3126274e.webp"
+            />
+            <div className="item-review">
+              <span className="item-review-score">4.7</span>
+              <svg
+                width="18"
+                height="18"
+                viewBox="0 0 18 18"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+                className="item-review-star"
+              >
+                <path
+                  d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                  fill="#82E600"
+                ></path>
+              </svg>
+              <span className="item-review-count">(412)</span>
+            </div>
+          </div>
+          <div className="item-content">
+            <p className="item-title"> OpenArc Open-Ear Wireless Earphones</p>
+            <p className="item-point">
+              <span className="item-point-container">
+                <img
+                  className="item-point-icon lazyloaded"
+                  alt="Open-Ear Bass Boost"
+                  data-src="https://cdn-img.oraimo.com/label/10mm-driver-extra-bass.svg"
+                  src="/images/oraimo-e501cb455385bd0e.svg"
+                />
+                <svg
+                  data-v-02c2eb76
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="20"
+                  height="20"
+                  viewBox="0 0 20 20"
+                  fill="none"
+                >
+                  <circle
+                    data-v-02c2eb76
+                    opacity="0.3"
+                    cx="10"
+                    cy="10"
+                    r="9.75"
+                    stroke="#EEEEEE"
+                    strokeWidth="0.5"
+                  ></circle>
+                </svg>
+              </span>
+              <span className="item-point-title">Open-Ear Bass Boost</span>
+            </p>
+            <div className="item-price">
+              <div className="item-price-main">
+                <span className="item-price-final">
+                  <span>₦ 59,900</span>
+                  <span className="item-price-discount sf-hidden">-10%</span>
+                </span>
+                <del className="item-price-market">₦ 66,560</del>
+              </div>
+              <span className="item-price-discount">-10%</span>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div className="site-item" data-id="5910">
+        <a
+          className="js_select_item js_load_item"
+          href="https://ng.oraimo.com/product/oraimo-tri-ply-set-sturdy-spacious-stainless-steel-cookware-set-ohks-003?ean=4894947114908"
+          data-id="5910"
+          data-sku="OHKS-003"
+          data-name="Tri-Ply Set Durable Versatile Stainless Steel Cookware Set(6pcs)"
+          data-price="75.83"
+          data-category="Kitchen Utensils & Gadgets"
+          data-section-type="list"
+          data-section-name="oraimo Daily Deals"
+          data-select="1"
+        >
+          <div className="item-container">
+            <img
+              className="item-picture lazyloaded"
+              alt="Tri-Ply Set Durable Versatile Stainless Steel Cookware Set(6pcs)"
+              data-src="https://cdn-img.oraimo.com/fit-in/540x540/NG/product/2026/04/28/Tri-Ply-Set-Durable-Versatile-Stainless-Steel-Cookware-Set.png"
+              src="/images/oraimo-521b7943f9454aec.webp"
+            />
+            <div className="item-tag" style={{ borderColor: "rgb(130,230,0)" }}>
+              <span
+                className="item-tag-content"
+                style={{ backgroundColor: "rgb(130,230,0)" }}
+              >
+                New Arrival
+              </span>
+            </div>
+            <div className="item-review">
+              <span className="item-review-score">4.8</span>
+              <svg
+                width="18"
+                height="18"
+                viewBox="0 0 18 18"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+                className="item-review-star"
+              >
+                <path
+                  d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                  fill="#82E600"
+                ></path>
+              </svg>
+              <span className="item-review-count">(40)</span>
+            </div>
+          </div>
+          <div className="item-content">
+            <p className="item-title">
+              {" "}
+              Tri-Ply Set Durable Versatile Stainless Steel Cookware Set(6pcs)
+            </p>
+            <p className="item-point">
+              <span className="item-point-container">
+                <img
+                  className="item-point-icon lazyloaded"
+                  alt="heat-resistant-glass-lid"
+                  data-src="https://cdn-img.oraimo.com/KE/2026/04/21/heat-resistant-glass-lid.svg"
+                  src="/images/oraimo-320c29a446dd7054.svg"
+                />
+                <svg
+                  data-v-02c2eb76
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="20"
+                  height="20"
+                  viewBox="0 0 20 20"
+                  fill="none"
+                >
+                  <circle
+                    data-v-02c2eb76
+                    opacity="0.3"
+                    cx="10"
+                    cy="10"
+                    r="9.75"
+                    stroke="#EEEEEE"
+                    strokeWidth="0.5"
+                  ></circle>
+                </svg>
+              </span>
+              <span className="item-point-title">heat-resistant-glass-lid</span>
+            </p>
+            <div className="item-price">
+              <div className="item-price-main">
+                <span className="item-price-final">
+                  <span>₦ 109,900</span>
+                  <span className="item-price-discount sf-hidden">-10%</span>
+                </span>
+                <del className="item-price-market">₦ 122,200</del>
+              </div>
+              <span className="item-price-discount">-10%</span>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div className="site-item" data-id="6689">
+        <a
+          className="js_select_item js_load_item"
+          href="https://ng.oraimo.com/product/oraimo-noir-stand-plus-spacious-stylish-storage-dresser-ohfn-003?ean=4894947125683"
+          data-id="6689"
+          data-sku="OHFN-003-BLACKGOLD"
+          data-name="Noir Stand Plus Spacious and Stylish Storage Dresser"
+          data-price="71"
+          data-category="Furniture"
+          data-section-type="list"
+          data-section-name="oraimo Daily Deals"
+          data-select="1"
+        >
+          <div className="item-container">
+            <img
+              className="item-picture lazyloaded"
+              alt="Noir Stand Plus Spacious and Stylish Storage Dresser"
+              data-src="https://cdn-img.oraimo.com/fit-in/540x540/KE/product/2026/06/09/oraimo-storage-dresser-noir-stand-plus-ohfn-003-mainimage.png"
+              src="/images/oraimo-ef8278668f19dd24.webp"
+            />
+            <div className="item-tag" style={{ borderColor: "rgb(130,230,0)" }}>
+              <span
+                className="item-tag-content"
+                style={{ backgroundColor: "rgb(130,230,0)" }}
+              >
+                New Arrival
+              </span>
+            </div>
+            <div className="item-review">
+              <span className="item-review-score">5.0</span>
+              <svg
+                width="18"
+                height="18"
+                viewBox="0 0 18 18"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+                className="item-review-star"
+              >
+                <path
+                  d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                  fill="#82E600"
+                ></path>
+              </svg>
+              <span className="item-review-count">(1)</span>
+            </div>
+          </div>
+          <div className="item-content">
+            <p className="item-title">
+              {" "}
+              Noir Stand Plus Spacious and Stylish Storage Dresser
+            </p>
+            <p className="item-point">
+              <span className="item-point-container">
+                <img
+                  className="item-point-icon ls-is-cached lazyloaded"
+                  alt="Easy Assembly & Foldable"
+                  data-src="https://cdn-img.oraimo.com/GH/2025/12/08/easy-assembly-foldable.svg"
+                  src="/images/oraimo-0dbfe1ba15674d2a.svg"
+                />
+                <svg
+                  data-v-02c2eb76
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="20"
+                  height="20"
+                  viewBox="0 0 20 20"
+                  fill="none"
+                >
+                  <circle
+                    data-v-02c2eb76
+                    opacity="0.3"
+                    cx="10"
+                    cy="10"
+                    r="9.75"
+                    stroke="#EEEEEE"
+                    strokeWidth="0.5"
+                  ></circle>
+                </svg>
+              </span>
+              <span className="item-point-title">
+                Easy Assembly &amp; Foldable
+              </span>
+            </p>
+            <div className="item-price">
+              <div className="item-price-main">
+                <span className="item-price-final">
+                  <span>₦ 102,900</span>
+                  <span className="item-price-discount sf-hidden">-10%</span>
+                </span>
+                <del className="item-price-market">₦ 114,340</del>
+              </div>
+              <span className="item-price-discount">-10%</span>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div className="site-item" data-id="2644">
+        <a
+          className="js_select_item js_load_item"
+          href="https://ng.oraimo.com/product/oraimo-magpower-15-10000mah-wireless-and-wired-power-bank?ean=4894947045356"
+          data-id="2644"
+          data-sku="OPB-7102W"
+          data-name="MagPower 15 oraimo MagPower 15 10000mAh Wireless Power Bank"
+          data-price="26.15"
+          data-category="Wireless Power bank"
+          data-section-type="list"
+          data-section-name="oraimo Daily Deals"
+          data-select="1"
+        >
+          <div className="item-container">
+            <img
+              className="item-picture lazyloaded"
+              alt="MagPower 15 oraimo MagPower 15 10000mAh Wireless Power Bank"
+              data-src="https://cdn-img.oraimo.com/fit-in/540x540/GH/product/2025/01/09/magpower-15-opb-7102w-1.png"
+              src="/images/oraimo-20cb46279251b647.webp"
+            />
+            <div className="item-color">
+              <div className="item-color-item">
+                <img
+                  className="item-color-avatar lazyloaded"
+                  alt=""
+                  data-src="https://cdn-img.oraimo.com/fit-in/360x360/GH/product/2025/01/09/magpower-15-opb-7102w-1.png"
+                  src="/images/oraimo-6b23cb5a8445f55c.webp"
+                />
+              </div>
+              <div className="item-color-item">
+                <img
+                  className="item-color-avatar lazyloaded"
+                  alt=""
+                  data-src="https://cdn-img.oraimo.com/fit-in/360x360/KE/product/2025/05/19/OPB-7102Wlightgold.png"
+                  src="/images/oraimo-2a52d82a9afbda24.webp"
+                />
+              </div>
+            </div>
+            <div className="item-review">
+              <span className="item-review-score">4.7</span>
+              <svg
+                width="18"
+                height="18"
+                viewBox="0 0 18 18"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+                className="item-review-star"
+              >
+                <path
+                  d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                  fill="#82E600"
+                ></path>
+              </svg>
+              <span className="item-review-count">(387)</span>
+            </div>
+          </div>
+          <div className="item-content">
+            <p className="item-title">
+              {" "}
+              MagPower 15 oraimo MagPower 15 10000mAh Wireless Power Bank
+            </p>
+            <p className="item-point">
+              <span className="item-point-container">
+                <img
+                  className="item-point-icon lazyloaded"
+                  alt="Strong Magnetic Attachment"
+                  data-src="https://cdn-img.oraimo.com/label/strong-magnetic-attachment-for-latest-devices.svg"
+                  src="/images/oraimo-75fe194af4d4da96.svg"
+                />
+                <svg
+                  data-v-02c2eb76
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="20"
+                  height="20"
+                  viewBox="0 0 20 20"
+                  fill="none"
+                >
+                  <circle
+                    data-v-02c2eb76
+                    opacity="0.3"
+                    cx="10"
+                    cy="10"
+                    r="9.75"
+                    stroke="#EEEEEE"
+                    strokeWidth="0.5"
+                  ></circle>
+                </svg>
+              </span>
+              <span className="item-point-title">
+                Strong Magnetic Attachment
+              </span>
+            </p>
+            <div className="item-price">
+              <div className="item-price-main">
+                <span className="item-price-final">
+                  <span>₦ 37,900</span>
+                  <span className="item-price-discount sf-hidden">-10%</span>
+                </span>
+                <del className="item-price-market">₦ 42,220</del>
+              </div>
+              <span className="item-price-discount">-10%</span>
+            </div>
+          </div>
+        </a>
+        <a
+          data-v-4e36107e
+          href="https://ng.oraimo.com/trend?type=2&rank_id=0&category_id=222&category_rank_type=1"
+          className="module-common-trend"
+        >
+          <svg
+            data-v-4e36107e
+            width="14"
+            height="14"
+            viewBox="0 0 14 14"
+            fill="none"
+            xmlns="http://www.w3.org/2000/svg"
+            className="trend-top"
+          >
+            <path
+              d="M0 1.75C0 0.783501 0.783502 0 1.75 0H12.25C13.2165 0 14 0.783502 14 1.75V9.71848C14 10.4071 13.5961 11.0317 12.9681 11.3143L7.71814 13.6768C7.26143 13.8824 6.73857 13.8824 6.28186 13.6768L1.03186 11.3143C0.403872 11.0317 0 10.4071 0 9.71848L0 1.75Z"
+              fill="url(#paint0_linear_10018_17757)"
+            ></path>
+            <path
+              d="M1.96875 0.765625H12.0312C12.6957 0.765625 13.2344 1.30428 13.2344 1.96875V9.61133C13.2344 10.0829 12.9585 10.5117 12.5293 10.707L7.49805 12.9971C7.18165 13.1409 6.81835 13.1409 6.50195 12.9971L1.4707 10.707C1.0415 10.5117 0.765625 10.0829 0.765625 9.61133V1.96875C0.765626 1.30428 1.30428 0.765625 1.96875 0.765625Z"
+              stroke="url(#paint1_linear_10018_17757)"
+              strokeWidth="0.21875"
+            ></path>
+            <path
+              d="M2.765 8.0625V4.3665H3.70475V8.0625H2.765ZM1.62575 5.14875V4.34025H4.844V5.14875H1.62575ZM6.90836 8.13075C6.62136 8.13075 6.35711 8.08175 6.11561 7.98375C5.87411 7.88575 5.66236 7.74925 5.48036 7.57425C5.30186 7.39925 5.16186 7.1945 5.06036 6.96C4.95886 6.722 4.90811 6.4665 4.90811 6.1935C4.90811 5.9205 4.95711 5.6685 5.05511 5.4375C5.15661 5.203 5.29661 4.99825 5.47511 4.82325C5.65361 4.64825 5.86361 4.5135 6.10511 4.419C6.34661 4.321 6.61086 4.272 6.89786 4.272C7.18486 4.272 7.44911 4.321 7.69061 4.419C7.93211 4.5135 8.14211 4.64825 8.32061 4.82325C8.49911 4.99825 8.63736 5.203 8.73536 5.4375C8.83686 5.672 8.88761 5.92575 8.88761 6.19875C8.88761 6.47175 8.83686 6.7255 8.73536 6.96C8.63736 7.1945 8.49911 7.401 8.32061 7.5795C8.14211 7.7545 7.93211 7.891 7.69061 7.989C7.45261 8.0835 7.19186 8.13075 6.90836 8.13075ZM6.89786 7.29075C7.10786 7.29075 7.28986 7.24525 7.44386 7.15425C7.59786 7.06325 7.71686 6.9355 7.80086 6.771C7.88486 6.6065 7.92686 6.414 7.92686 6.1935C7.92686 6.0325 7.90236 5.8855 7.85336 5.7525C7.80786 5.6195 7.73961 5.50575 7.64861 5.41125C7.55761 5.31325 7.44911 5.238 7.32311 5.1855C7.19711 5.133 7.05536 5.10675 6.89786 5.10675C6.68786 5.10675 6.50586 5.15225 6.35186 5.24325C6.19786 5.33075 6.07886 5.45675 5.99486 5.62125C5.91086 5.78575 5.86886 5.9765 5.86886 6.1935C5.86886 6.3615 5.89161 6.51375 5.93711 6.65025C5.98611 6.78325 6.05611 6.89875 6.14711 6.99675C6.23811 7.09125 6.34661 7.16475 6.47261 7.21725C6.59861 7.26625 6.74036 7.29075 6.89786 7.29075ZM10.1031 6.729V6.03075H10.8381C10.9291 6.03075 11.0114 6.01325 11.0849 5.97825C11.1619 5.93975 11.2231 5.88375 11.2686 5.81025C11.3141 5.73675 11.3369 5.64575 11.3369 5.53725C11.3369 5.42875 11.3141 5.33775 11.2686 5.26425C11.2231 5.18725 11.1619 5.13125 11.0849 5.09625C11.0114 5.05775 10.9291 5.0385 10.8381 5.0385H10.1031V4.34025H11.0009C11.2389 4.34025 11.4541 4.38925 11.6466 4.48725C11.8391 4.58175 11.9914 4.71825 12.1034 4.89675C12.2154 5.07175 12.2714 5.28525 12.2714 5.53725C12.2714 5.78225 12.2154 5.99575 12.1034 6.17775C11.9914 6.35625 11.8391 6.49275 11.6466 6.58725C11.4541 6.68175 11.2389 6.729 11.0009 6.729H10.1031ZM9.35761 8.0625V4.34025H10.2974V8.0625H9.35761Z"
+              fill="#923800"
+            ></path>
+            <defs>
+              <linearGradient
+                id="paint0_linear_10018_17757"
+                x1="1.53125"
+                y1="2.89655e-07"
+                x2="11.8125"
+                y2="12.25"
+                gradientUnits="userSpaceOnUse"
+              >
+                <stop stopColor="#FDC775"></stop>
+                <stop offset="0.528482" stopColor="#FFE7C6"></stop>
+                <stop offset="1" stopColor="#E7A85C"></stop>
+              </linearGradient>
+              <linearGradient
+                id="paint1_linear_10018_17757"
+                x1="7"
+                y1="0.65625"
+                x2="7"
+                y2="13.3438"
+                gradientUnits="userSpaceOnUse"
+              >
+                <stop stopColor="#D27F4B"></stop>
+                <stop offset="1" stopColor="#F1B55E"></stop>
+              </linearGradient>
+            </defs>
+          </svg>
+          <span data-v-4e36107e className="trend-name">
+            oraimo Power Products Best Seller
+          </span>
+          <span data-v-4e36107e className="trend-rank">
+            #3
+          </span>
+          <svg
+            data-v-b958d155
+            data-v-4e36107e
+            xmlns="http://www.w3.org/2000/svg"
+            width="8"
+            height="8"
+            viewBox="0 0 8 8"
+            fill="none"
+            className="trend-arrow"
+          >
+            <path
+              data-v-b958d155
+              d="M2.6665 0.828125L5.83808 3.9997L2.6665 7.17127"
+              stroke="#9A3412"
+            ></path>
+          </svg>
+        </a>
+      </div>
+      <div className="site-item" data-id="419">
+        <a
+          className="js_select_item js_load_item"
+          href="https://ng.oraimo.com/product/oraimo-smartclipper2-super-powerful-professional-cordless-hair-clipper-150-min-working-time?ean=4895180784163"
+          data-id="419"
+          data-sku="OPC-CL30"
+          data-name="Smart Clipper 2 Professional Hair Clipper"
+          data-price="26.91"
+          data-category="Clipper"
+          data-section-type="list"
+          data-section-name="oraimo Daily Deals"
+          data-select="1"
+        >
+          <div className="item-container">
+            <img
+              className="item-picture lazyloaded"
+              alt="Smart Clipper 2 Professional Hair Clipper"
+              data-src="https://cdn-img.oraimo.com/fit-in/540x540/NG/album/opc-cl30/opc-cl30.png"
+              src="/images/oraimo-aa4c4ec115e71d2f.webp"
+            />
+            <div className="item-review">
+              <span className="item-review-score">4.8</span>
+              <svg
+                width="18"
+                height="18"
+                viewBox="0 0 18 18"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+                className="item-review-star"
+              >
+                <path
+                  d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                  fill="#82E600"
+                ></path>
+              </svg>
+              <span className="item-review-count">(15533)</span>
+            </div>
+            <div className="item-gift">
+              <img
+                className="item-gift-picture lazyloaded"
+                alt="RobustLine 2.4A Data Cable"
+                data-src="https://cdn-img.oraimo.com/fit-in/360x360/PK/product/2025/06/13/OCD-114CL-white.png"
+                src="/images/oraimo-cdf17043e730e72a.webp"
+              />
+              <span className="item-gift-title">FREE GIFT</span>
+            </div>
+          </div>
+          <div className="item-content">
+            <p className="item-title">
+              {" "}
+              Smart Clipper 2 Professional Hair Clipper
+            </p>
+            <p className="item-point">
+              <span className="item-point-container">
+                <img
+                  className="item-point-icon lazyloaded"
+                  alt="2.5 hrs Runtime"
+                  data-src="https://cdn-img.oraimo.com/images/extra-long-lasting-battery.svg"
+                  src="/images/oraimo-e673184727d3ef68.svg"
+                />
+                <svg
+                  data-v-02c2eb76
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="20"
+                  height="20"
+                  viewBox="0 0 20 20"
+                  fill="none"
+                >
+                  <circle
+                    data-v-02c2eb76
+                    opacity="0.3"
+                    cx="10"
+                    cy="10"
+                    r="9.75"
+                    stroke="#EEEEEE"
+                    strokeWidth="0.5"
+                  ></circle>
+                </svg>
+              </span>
+              <span className="item-point-title">2.5 hrs Runtime</span>
+            </p>
+            <div className="item-price">
+              <div className="item-price-main">
+                <span className="item-price-final">
+                  <span>₦ 39,000</span>
+                  <span className="item-price-discount sf-hidden">-11%</span>
+                </span>
+                <del className="item-price-market">₦ 44,000</del>
+              </div>
+              <span className="item-price-discount">-11%</span>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div className="site-item" data-id="3423">
+        <a
+          className="js_select_item js_load_item"
+          href="https://ng.oraimo.com/product/oraimo-watch-muse-1.32&#x27;&#x27;-amoled-health-&-elegance-smart-watch?ean=4894947036309"
+          data-id="3423"
+          data-sku="OSW-831N"
+          data-name="Watch Muse 1.32” AMOLED IP68 Smart Watch"
+          data-price="31.61"
+          data-category="Smart Watches"
+          data-section-type="list"
+          data-section-name="oraimo Daily Deals"
+          data-select="1"
+        >
+          <div className="item-container">
+            <img
+              className="item-picture lazyloaded"
+              alt="Watch Muse 1.32” AMOLED IP68 Smart Watch"
+              data-src="https://cdn-img.oraimo.com/fit-in/540x540/KE/product/2025/05/23/oraimo-watch-muse-OSW-831N-4.png"
+              src="/images/oraimo-67f333e2b7be80c5.webp"
+            />
+            <div className="item-tag" style={{ borderColor: "rgb(230,0,27)" }}>
+              <span
+                className="item-tag-content"
+                style={{ backgroundColor: "rgb(230,0,27)" }}
+              >
+                Flash Sale
+              </span>
+            </div>
+            <div className="item-review">
+              <span className="item-review-score">4.9</span>
+              <svg
+                width="18"
+                height="18"
+                viewBox="0 0 18 18"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+                className="item-review-star"
+              >
+                <path
+                  d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                  fill="#82E600"
+                ></path>
+              </svg>
+              <span className="item-review-count">(580)</span>
+            </div>
+          </div>
+          <div className="item-content">
+            <p className="item-title">
+              {" "}
+              Watch Muse 1.32” AMOLED IP68 Smart Watch
+            </p>
+            <p className="item-point">
+              <span className="item-point-container">
+                <img
+                  className="item-point-icon ls-is-cached lazyloaded"
+                  alt="AI-Generated Watch Faces"
+                  data-src="https://cdn-img.oraimo.com/NG/2024/09/25/data-sync-with-app.svg"
+                  src="/images/oraimo-4dc55aafa8dea5d1.svg"
+                />
+                <svg
+                  data-v-02c2eb76
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="20"
+                  height="20"
+                  viewBox="0 0 20 20"
+                  fill="none"
+                >
+                  <circle
+                    data-v-02c2eb76
+                    opacity="0.3"
+                    cx="10"
+                    cy="10"
+                    r="9.75"
+                    stroke="#EEEEEE"
+                    strokeWidth="0.5"
+                  ></circle>
+                </svg>
+              </span>
+              <span className="item-point-title">AI-Generated Watch Faces</span>
+            </p>
+            <div className="item-price">
+              <div className="item-price-main">
+                <span className="item-price-final">
+                  <span>₦ 45,810</span>
+                  <span className="item-price-discount sf-hidden">-19%</span>
+                </span>
+                <del className="item-price-market">₦ 56,600</del>
+              </div>
+              <span className="item-price-discount">-19%</span>
+            </div>
+          </div>
+        </a>
+        <a
+          data-v-4e36107e
+          href="https://ng.oraimo.com/trend?type=2&rank_id=0&category_id=238&category_rank_type=1"
+          className="module-common-trend"
+        >
+          <svg
+            data-v-4e36107e
+            width="14"
+            height="14"
+            viewBox="0 0 14 14"
+            fill="none"
+            xmlns="http://www.w3.org/2000/svg"
+            className="trend-top"
+          >
+            <path
+              d="M0 1.75C0 0.783501 0.783502 0 1.75 0H12.25C13.2165 0 14 0.783502 14 1.75V9.71848C14 10.4071 13.5961 11.0317 12.9681 11.3143L7.71814 13.6768C7.26143 13.8824 6.73857 13.8824 6.28186 13.6768L1.03186 11.3143C0.403872 11.0317 0 10.4071 0 9.71848L0 1.75Z"
+              fill="url(#paint0_linear_10018_17757)"
+            ></path>
+            <path
+              d="M1.96875 0.765625H12.0312C12.6957 0.765625 13.2344 1.30428 13.2344 1.96875V9.61133C13.2344 10.0829 12.9585 10.5117 12.5293 10.707L7.49805 12.9971C7.18165 13.1409 6.81835 13.1409 6.50195 12.9971L1.4707 10.707C1.0415 10.5117 0.765625 10.0829 0.765625 9.61133V1.96875C0.765626 1.30428 1.30428 0.765625 1.96875 0.765625Z"
+              stroke="url(#paint1_linear_10018_17757)"
+              strokeWidth="0.21875"
+            ></path>
+            <path
+              d="M2.765 8.0625V4.3665H3.70475V8.0625H2.765ZM1.62575 5.14875V4.34025H4.844V5.14875H1.62575ZM6.90836 8.13075C6.62136 8.13075 6.35711 8.08175 6.11561 7.98375C5.87411 7.88575 5.66236 7.74925 5.48036 7.57425C5.30186 7.39925 5.16186 7.1945 5.06036 6.96C4.95886 6.722 4.90811 6.4665 4.90811 6.1935C4.90811 5.9205 4.95711 5.6685 5.05511 5.4375C5.15661 5.203 5.29661 4.99825 5.47511 4.82325C5.65361 4.64825 5.86361 4.5135 6.10511 4.419C6.34661 4.321 6.61086 4.272 6.89786 4.272C7.18486 4.272 7.44911 4.321 7.69061 4.419C7.93211 4.5135 8.14211 4.64825 8.32061 4.82325C8.49911 4.99825 8.63736 5.203 8.73536 5.4375C8.83686 5.672 8.88761 5.92575 8.88761 6.19875C8.88761 6.47175 8.83686 6.7255 8.73536 6.96C8.63736 7.1945 8.49911 7.401 8.32061 7.5795C8.14211 7.7545 7.93211 7.891 7.69061 7.989C7.45261 8.0835 7.19186 8.13075 6.90836 8.13075ZM6.89786 7.29075C7.10786 7.29075 7.28986 7.24525 7.44386 7.15425C7.59786 7.06325 7.71686 6.9355 7.80086 6.771C7.88486 6.6065 7.92686 6.414 7.92686 6.1935C7.92686 6.0325 7.90236 5.8855 7.85336 5.7525C7.80786 5.6195 7.73961 5.50575 7.64861 5.41125C7.55761 5.31325 7.44911 5.238 7.32311 5.1855C7.19711 5.133 7.05536 5.10675 6.89786 5.10675C6.68786 5.10675 6.50586 5.15225 6.35186 5.24325C6.19786 5.33075 6.07886 5.45675 5.99486 5.62125C5.91086 5.78575 5.86886 5.9765 5.86886 6.1935C5.86886 6.3615 5.89161 6.51375 5.93711 6.65025C5.98611 6.78325 6.05611 6.89875 6.14711 6.99675C6.23811 7.09125 6.34661 7.16475 6.47261 7.21725C6.59861 7.26625 6.74036 7.29075 6.89786 7.29075ZM10.1031 6.729V6.03075H10.8381C10.9291 6.03075 11.0114 6.01325 11.0849 5.97825C11.1619 5.93975 11.2231 5.88375 11.2686 5.81025C11.3141 5.73675 11.3369 5.64575 11.3369 5.53725C11.3369 5.42875 11.3141 5.33775 11.2686 5.26425C11.2231 5.18725 11.1619 5.13125 11.0849 5.09625C11.0114 5.05775 10.9291 5.0385 10.8381 5.0385H10.1031V4.34025H11.0009C11.2389 4.34025 11.4541 4.38925 11.6466 4.48725C11.8391 4.58175 11.9914 4.71825 12.1034 4.89675C12.2154 5.07175 12.2714 5.28525 12.2714 5.53725C12.2714 5.78225 12.2154 5.99575 12.1034 6.17775C11.9914 6.35625 11.8391 6.49275 11.6466 6.58725C11.4541 6.68175 11.2389 6.729 11.0009 6.729H10.1031ZM9.35761 8.0625V4.34025H10.2974V8.0625H9.35761Z"
+              fill="#923800"
+            ></path>
+            <defs>
+              <linearGradient
+                id="paint0_linear_10018_17757"
+                x1="1.53125"
+                y1="2.89655e-07"
+                x2="11.8125"
+                y2="12.25"
+                gradientUnits="userSpaceOnUse"
+              >
+                <stop stopColor="#FDC775"></stop>
+                <stop offset="0.528482" stopColor="#FFE7C6"></stop>
+                <stop offset="1" stopColor="#E7A85C"></stop>
+              </linearGradient>
+              <linearGradient
+                id="paint1_linear_10018_17757"
+                x1="7"
+                y1="0.65625"
+                x2="7"
+                y2="13.3438"
+                gradientUnits="userSpaceOnUse"
+              >
+                <stop stopColor="#D27F4B"></stop>
+                <stop offset="1" stopColor="#F1B55E"></stop>
+              </linearGradient>
+            </defs>
+          </svg>
+          <span data-v-4e36107e className="trend-name">
+            Smart Watches Best Seller
+          </span>
+          <span data-v-4e36107e className="trend-rank">
+            #5
+          </span>
+          <svg
+            data-v-b958d155
+            data-v-4e36107e
+            xmlns="http://www.w3.org/2000/svg"
+            width="8"
+            height="8"
+            viewBox="0 0 8 8"
+            fill="none"
+            className="trend-arrow"
+          >
+            <path
+              data-v-b958d155
+              d="M2.6665 0.828125L5.83808 3.9997L2.6665 7.17127"
+              stroke="#9A3412"
+            ></path>
+          </svg>
+        </a>
+      </div>
+      <div className="site-item" data-id="6697">
+        <a
+          className="js_select_item js_load_item"
+          href="https://ng.oraimo.com/product/oraimo-baby-wearable-electric-breast-pump-duopump-flex-obr-532b-vitalitygreen?ean=4894947115615"
+          data-id="6697"
+          data-sku="OBR-532B-VITALITYGREEN"
+          data-name="DuoPump Flex Smart Wearable Electric Breast Pump with Micro-Vibration Technology"
+          data-price="62.04"
+          data-category="Baby Feeding"
+          data-section-type="list"
+          data-section-name="oraimo Daily Deals"
+          data-select="1"
+        >
+          <div className="item-container">
+            <img
+              className="item-picture lazyloaded"
+              alt="DuoPump Flex Smart Wearable Electric Breast Pump with Micro-Vibration Technology"
+              data-src="https://cdn-img.oraimo.com/fit-in/540x540/NG/product/2026/07/14/OBR-532B-VITALITYGREEN-MAIN.png"
+              src="/images/oraimo-c1f2f008d8b92331.webp"
+            />
+            <div className="item-tag" style={{ borderColor: "rgb(230,0,27)" }}>
+              <span
+                className="item-tag-content"
+                style={{ backgroundColor: "rgb(230,0,27)" }}
+              >
+                Flash Sale
+              </span>
+            </div>
+          </div>
+          <div className="item-content">
+            <p className="item-title">
+              {" "}
+              DuoPump Flex Smart Wearable Electric Breast Pump with
+              Micro-Vibration Technology
+            </p>
+            <p className="item-point">
+              <span className="item-point-container">
+                <img
+                  className="item-point-icon lazyloaded"
+                  alt="Micro-Vibration Technology"
+                  data-src="https://cdn-img.oraimo.com/NG/2026/07/14/micro-vibration-technology.svg"
+                  src="/images/oraimo-453853bc82469cb7.svg"
+                />
+                <svg
+                  data-v-02c2eb76
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="20"
+                  height="20"
+                  viewBox="0 0 20 20"
+                  fill="none"
+                >
+                  <circle
+                    data-v-02c2eb76
+                    opacity="0.3"
+                    cx="10"
+                    cy="10"
+                    r="9.75"
+                    stroke="#EEEEEE"
+                    strokeWidth="0.5"
+                  ></circle>
+                </svg>
+              </span>
+              <span className="item-point-title">
+                Micro-Vibration Technology
+              </span>
+            </p>
+            <div className="item-price">
+              <div className="item-price-main">
+                <span className="item-price-final">
+                  <span>₦ 89,910</span>
+                  <span className="item-price-discount sf-hidden">-25%</span>
+                </span>
+                <del className="item-price-market">₦ 120,000</del>
+              </div>
+              <span className="item-price-discount">-25%</span>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div className="site-item" data-id="4107">
+        <a
+          className="js_select_item js_load_item"
+          href="https://ng.oraimo.com/product/oraimo-infiwave-lite-more-even-more-silent-microwave-oven-omo-521a?ean=10319906"
+          data-id="4107"
+          data-sku="OMO-521A"
+          data-name="InfiWave Lite 23L Energy Saving Touchscreen Microwave Oven"
+          data-price="94.46"
+          data-category="Microwave Oven"
+          data-section-type="list"
+          data-section-name="oraimo Daily Deals"
+          data-select="1"
+        >
+          <div className="item-container">
+            <img
+              className="item-picture lazyloaded"
+              alt="InfiWave Lite 23L Energy Saving Touchscreen Microwave Oven"
+              data-src="https://cdn-img.oraimo.com/fit-in/540x540/CI/product/2025/09/25/oraimo-Microwave-Oven-InfiWave-Lite-OMO-521A.png"
+              src="/images/oraimo-333bcec81e6910bb.webp"
+            />
+            <div className="item-review">
+              <span className="item-review-score">4.7</span>
+              <svg
+                width="18"
+                height="18"
+                viewBox="0 0 18 18"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+                className="item-review-star"
+              >
+                <path
+                  d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                  fill="#82E600"
+                ></path>
+              </svg>
+              <span className="item-review-count">(76)</span>
+            </div>
+          </div>
+          <div className="item-content">
+            <p className="item-title">
+              {" "}
+              InfiWave Lite 23L Energy Saving Touchscreen Microwave Oven
+            </p>
+            <p className="item-point">
+              <span className="item-point-container">
+                <img
+                  className="item-point-icon lazyloaded"
+                  alt="Microwave Recipes"
+                  data-src="https://cdn-img.oraimo.com/NG/2025/10/09/microwave-recipes.svg"
+                  src="/images/oraimo-fa16dba1f4ee6c02.svg"
+                />
+                <svg
+                  data-v-02c2eb76
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="20"
+                  height="20"
+                  viewBox="0 0 20 20"
+                  fill="none"
+                >
+                  <circle
+                    data-v-02c2eb76
+                    opacity="0.3"
+                    cx="10"
+                    cy="10"
+                    r="9.75"
+                    stroke="#EEEEEE"
+                    strokeWidth="0.5"
+                  ></circle>
+                </svg>
+              </span>
+              <span className="item-point-title">Microwave Recipes</span>
+            </p>
+            <div className="item-price">
+              <div className="item-price-main">
+                <span className="item-price-final">
+                  <span>₦ 136,900</span>
+                  <span className="item-price-discount sf-hidden">-10%</span>
+                </span>
+                <del className="item-price-market">₦ 152,200</del>
+              </div>
+              <span className="item-price-discount">-10%</span>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div className="site-item" data-id="1855">
+        <a
+          className="js_select_item js_load_item"
+          href="https://ng.oraimo.com/product/oraimo-smartclipper2c-super-powerful-professional-cordless-hair-clipper-150-min-working-time?ean=4894947026690"
+          data-id="1855"
+          data-sku="OPC-CL30C"
+          data-name="SmartClipper 2C Professional Hair Clipper"
+          data-price="18.56"
+          data-category="Clipper"
+          data-section-type="list"
+          data-section-name="oraimo Daily Deals"
+          data-select="1"
+        >
+          <div className="item-container">
+            <img
+              className="item-picture lazyloaded"
+              alt="SmartClipper 2C Professional Hair Clipper"
+              data-src="https://cdn-img.oraimo.com/fit-in/540x540/KE/product/2024/07/08/OPC-CL30C.png"
+              src="/images/oraimo-602e400692e64215.webp"
+            />
+            <div className="item-review">
+              <span className="item-review-score">4.7</span>
+              <svg
+                width="18"
+                height="18"
+                viewBox="0 0 18 18"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+                className="item-review-star"
+              >
+                <path
+                  d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                  fill="#82E600"
+                ></path>
+              </svg>
+              <span className="item-review-count">(603)</span>
+            </div>
+          </div>
+          <div className="item-content">
+            <p className="item-title">
+              {" "}
+              SmartClipper 2C Professional Hair Clipper
+            </p>
+            <p className="item-point">
+              <span className="item-point-container">
+                <img
+                  className="item-point-icon lazyloaded"
+                  alt="Super Powerful Motor"
+                  data-src="https://cdn-img.oraimo.com/label/super-powerful-motor.svg"
+                  src="/images/oraimo-609131da175114de.svg"
+                />
+                <svg
+                  data-v-02c2eb76
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="20"
+                  height="20"
+                  viewBox="0 0 20 20"
+                  fill="none"
+                >
+                  <circle
+                    data-v-02c2eb76
+                    opacity="0.3"
+                    cx="10"
+                    cy="10"
+                    r="9.75"
+                    stroke="#EEEEEE"
+                    strokeWidth="0.5"
+                  ></circle>
+                </svg>
+              </span>
+              <span className="item-point-title">Super Powerful Motor</span>
+            </p>
+            <div className="item-price">
+              <div className="item-price-main">
+                <span className="item-price-final">
+                  <span>₦ 26,900</span>
+                  <span className="item-price-discount sf-hidden">-10%</span>
+                </span>
+                <del className="item-price-market">₦ 29,900</del>
+              </div>
+              <span className="item-price-discount">-10%</span>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div className="site-item" data-id="6286">
+        <a
+          className="js_select_item js_load_item"
+          href="https://ng.oraimo.com/product/oraimo-powerspark-powerful-multi-functional-jump-starter-ols-7100?ean=4894947117954"
+          data-id="6286"
+          data-sku="OJS-7100-GREY"
+          data-name="PowerSpark 1500A 12V Car Jump Starter with 10000mAh Power Bank"
+          data-price="62.03"
+          data-category="Power Bank 10000mah"
+          data-section-type="list"
+          data-section-name="oraimo Daily Deals"
+          data-select="1"
+        >
+          <div className="item-container">
+            <img
+              className="item-picture lazyloaded"
+              alt="PowerSpark 1500A 12V Car Jump Starter with 10000mAh Power Bank"
+              data-src="https://cdn-img.oraimo.com/fit-in/540x540/KE/product/2026/05/19/oraimo-Car-Jump-Starter-PowerSpark-OJS-7100-mainimage.png"
+              src="/images/oraimo-939cbc9652332888.webp"
+            />
+            <div className="item-tag" style={{ borderColor: "rgb(130,230,0)" }}>
+              <span
+                className="item-tag-content"
+                style={{ backgroundColor: "rgb(130,230,0)" }}
+              >
+                New Arrival
+              </span>
+            </div>
+            <div className="item-review">
+              <span className="item-review-score">4.7</span>
+              <svg
+                width="18"
+                height="18"
+                viewBox="0 0 18 18"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+                className="item-review-star"
+              >
+                <path
+                  d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                  fill="#82E600"
+                ></path>
+              </svg>
+              <span className="item-review-count">(21)</span>
+            </div>
+          </div>
+          <div className="item-content">
+            <p className="item-title">
+              {" "}
+              PowerSpark 1500A 12V Car Jump Starter with 10000mAh Power Bank
+            </p>
+            <p className="item-point">
+              <span className="item-point-container">
+                <img
+                  className="item-point-icon lazyloaded"
+                  alt="Compatible With 5.0L Gas"
+                  data-src="https://cdn-img.oraimo.com/KE/2026/05/19/compatible-with-5.0L-gas.svg"
+                  src="/images/oraimo-71828f9f7654d5ab.svg"
+                />
+                <svg
+                  data-v-02c2eb76
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="20"
+                  height="20"
+                  viewBox="0 0 20 20"
+                  fill="none"
+                >
+                  <circle
+                    data-v-02c2eb76
+                    opacity="0.3"
+                    cx="10"
+                    cy="10"
+                    r="9.75"
+                    stroke="#EEEEEE"
+                    strokeWidth="0.5"
+                  ></circle>
+                </svg>
+              </span>
+              <span className="item-point-title">Compatible With 5.0L Gas</span>
+            </p>
+            <div className="item-price">
+              <div className="item-price-main">
+                <span className="item-price-final">
+                  <span>₦ 89,900</span>
+                  <span className="item-price-discount sf-hidden">-10%</span>
+                </span>
+                <del className="item-price-market">₦ 99,900</del>
+              </div>
+              <span className="item-price-discount">-10%</span>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div className="site-item" data-id="6715">
+        <a
+          className="js_select_item js_load_item"
+          href="https://ng.oraimo.com/product/oraimo-baby-baby-digital-thermometer-tempcare-obc-251a?ean=4894947125447"
+          data-id="6715"
+          data-sku="OBC-251A-VITALITYGREEN"
+          data-name="TempCare LCD Screen Baby Digital Thermometer"
+          data-price="5.45"
+          data-category="Baby Care"
+          data-section-type="list"
+          data-section-name="oraimo Daily Deals"
+          data-select="1"
+        >
+          <div className="item-container">
+            <img
+              className="item-picture lazyloaded"
+              alt="TempCare LCD Screen Baby Digital Thermometer"
+              data-src="https://cdn-img.oraimo.com/fit-in/540x540/CI/product/2026/07/15/OBC-251A-VITALITYGREEN-MAIN.png"
+              src="/images/oraimo-cb72bde566e2aefc.webp"
+            />
+            <div className="item-tag" style={{ borderColor: "rgb(130,230,0)" }}>
+              <span
+                className="item-tag-content"
+                style={{ backgroundColor: "rgb(130,230,0)" }}
+              >
+                New Arrival
+              </span>
+            </div>
+            <div className="item-review">
+              <span className="item-review-score">4.6</span>
+              <svg
+                width="18"
+                height="18"
+                viewBox="0 0 18 18"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+                className="item-review-star"
+              >
+                <path
+                  d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                  fill="#82E600"
+                ></path>
+              </svg>
+              <span className="item-review-count">(9)</span>
+            </div>
+          </div>
+          <div className="item-content">
+            <p className="item-title">
+              {" "}
+              TempCare LCD Screen Baby Digital Thermometer
+            </p>
+            <p className="item-point">
+              <span className="item-point-container">
+                <img
+                  className="item-point-icon lazyloaded"
+                  alt="Accurate Measurement Precision to 0.1°C"
+                  data-src="https://cdn-img.oraimo.com/CI/2026/07/15/accurate-measurement-precision-to-0.1-degree.svg"
+                  src="/images/oraimo-bda23aca0ccb99d4.svg"
+                />
+                <svg
+                  data-v-02c2eb76
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="20"
+                  height="20"
+                  viewBox="0 0 20 20"
+                  fill="none"
+                >
+                  <circle
+                    data-v-02c2eb76
+                    opacity="0.3"
+                    cx="10"
+                    cy="10"
+                    r="9.75"
+                    stroke="#EEEEEE"
+                    strokeWidth="0.5"
+                  ></circle>
+                </svg>
+              </span>
+              <span className="item-point-title">
+                Accurate Measurement Precision to 0.1°C
+              </span>
+            </p>
+            <div className="item-price">
+              <div className="item-price-main">
+                <span className="item-price-final">
+                  <span>₦ 7,900</span>
+                  <span className="item-price-discount sf-hidden">-20%</span>
+                </span>
+                <del className="item-price-market">₦ 9,875</del>
+              </div>
+              <span className="item-price-discount">-20%</span>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div className="site-item" data-id="3586">
+        <a
+          className="js_select_item js_load_item"
+          href="https://ng.oraimo.com/product/oraimo-powernova-qf1-27000mah-22.5w-power-bank-opb-7270q?ean=4894947071409"
+          data-id="3586"
+          data-sku="OPB-7270Q"
+          data-name="PowerNova QF1 27000mAh 22.5W Power Bank"
+          data-price="20.7"
+          data-category="Power Bank 20000mah"
+          data-section-type="list"
+          data-section-name="oraimo Daily Deals"
+          data-select="1"
+        >
+          <div className="item-container">
+            <img
+              className="item-picture lazyloaded"
+              alt="PowerNova QF1 27000mAh 22.5W Power Bank"
+              data-src="https://cdn-img.oraimo.com/fit-in/540x540/GH/product/2025/07/11/oraimo-power-bank-powernova-qf1-opb-7270q-0.png"
+              src="/images/oraimo-cc8fc0bbb4f2dac4.webp"
+            />
+            <div className="item-review">
+              <span className="item-review-score">4.8</span>
+              <svg
+                width="18"
+                height="18"
+                viewBox="0 0 18 18"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+                className="item-review-star"
+              >
+                <path
+                  d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                  fill="#82E600"
+                ></path>
+              </svg>
+              <span className="item-review-count">(874)</span>
+            </div>
+            <div className="item-gift">
+              <img
+                className="item-gift-picture ls-is-cached lazyloaded"
+                alt="RobustLine 2A 1M Type-C Cable"
+                data-src="https://cdn-img.oraimo.com/fit-in/360x360/KE/product/2025/02/21/RobustLine-Typec-cable-OCD-114C-black.png"
+                src="&#x27;data:image/svg+xml,&lt;svg"
+                width="360"
+                height="360"
+              />
+              <rect fillOpacity="0" />
+            </div>
+          </div>
+        </a>
+      </div>
+      '
+      style="background-blend-mode:normal!important;background-clip:content-box!important;background-position:50%
+      50%!important;background-color:rgb(255,255,255)!important;background-image:var(--sf-img-191)!important;background-size:100%
+      100%!important;background-origin:content-box!important;background-repeat:no-repeat!important"&gt;
+      <span className="item-gift-title">FREE GIFT</span>
+      <div className="item-content">
+        <p className="item-title"> PowerNova QF1 27000mAh 22.5W Power Bank</p>
+        <p className="item-point">
+          <span className="item-point-container">
+            <img
+              className="item-point-icon ls-is-cached lazyloaded"
+              alt="Charge Your Phone Up TO 5.5 Times"
+              data-src="https://cdn-img.oraimo.com/GH/2025/07/11/charge-your-phone-up-to-5.5-times.svg"
+              src="/images/oraimo-dc98db6fc6684ba0.svg"
+            />
+            <svg
+              data-v-02c2eb76
+              xmlns="http://www.w3.org/2000/svg"
+              width="20"
+              height="20"
+              viewBox="0 0 20 20"
+              fill="none"
+            >
+              <circle
+                data-v-02c2eb76
+                opacity="0.3"
+                cx="10"
+                cy="10"
+                r="9.75"
+                stroke="#EEEEEE"
+                strokeWidth="0.5"
+              ></circle>
+            </svg>
+          </span>
+          <span className="item-point-title">
+            Charge Your Phone Up TO 5.5 Times
+          </span>
+        </p>
+        <div className="item-price">
+          <div className="item-price-main">
+            <span className="item-price-final">
+              <span>₦ 30,000</span>
+              <span className="item-price-discount sf-hidden">-10%</span>
+            </span>
+            <del className="item-price-market">₦ 33,330</del>
+          </div>
+          <span className="item-price-discount">-10%</span>
+        </div>
+      </div>
+      <div className="site-item" data-id="6526">
+        <a
+          className="js_select_item js_load_item"
+          href="https://ng.oraimo.com/product/oraimo-gearup-portable-multifunctional-tool-sets-osh-011a?ean=4894947107283"
+          data-id="6526"
+          data-sku="OSH-011A"
+          data-name="GearUp 40 Piece Portable Multifunctional Tool Sets"
+          data-price="45.47"
+          data-category="Power Tools"
+          data-section-type="list"
+          data-section-name="oraimo Daily Deals"
+          data-select="1"
+        >
+          <div className="item-container">
+            <img
+              className="item-picture lazyloaded"
+              alt="GearUp 40 Piece Portable Multifunctional Tool Sets"
+              data-src="https://cdn-img.oraimo.com/fit-in/540x540/MA/product/2026/05/27/OSH-011A-Graphitegrey-Main.png"
+              src="/images/oraimo-211e4974003628a1.webp"
+            />
+            <div className="item-tag" style={{ borderColor: "rgb(130,230,0)" }}>
+              <span
+                className="item-tag-content"
+                style={{ backgroundColor: "rgb(130,230,0)" }}
+              >
+                New Arrival
+              </span>
+            </div>
+            <div className="item-review">
+              <span className="item-review-score">4.7</span>
+              <svg
+                width="18"
+                height="18"
+                viewBox="0 0 18 18"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+                className="item-review-star"
+              >
+                <path
+                  d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                  fill="#82E600"
+                ></path>
+              </svg>
+              <span className="item-review-count">(21)</span>
+            </div>
+          </div>
+          <div className="item-content">
+            <p className="item-title">
+              {" "}
+              GearUp 40 Piece Portable Multifunctional Tool Sets
+            </p>
+            <p className="item-point">
+              <span className="item-point-container">
+                <img
+                  className="item-point-icon lazyloaded"
+                  alt="Powerful Electric Screwdriver"
+                  data-src="https://cdn-img.oraimo.com/MA/2026/05/27/powerful-electric-screwdriver.svg"
+                  src="/images/oraimo-8d94080ddd7be0b6.svg"
+                />
+                <svg
+                  data-v-02c2eb76
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="20"
+                  height="20"
+                  viewBox="0 0 20 20"
+                  fill="none"
+                >
+                  <circle
+                    data-v-02c2eb76
+                    opacity="0.3"
+                    cx="10"
+                    cy="10"
+                    r="9.75"
+                    stroke="#EEEEEE"
+                    strokeWidth="0.5"
+                  ></circle>
+                </svg>
+              </span>
+              <span className="item-point-title">
+                Powerful Electric Screwdriver
+              </span>
+            </p>
+            <div className="item-price">
+              <div className="item-price-main">
+                <span className="item-price-final">
+                  <span>₦ 65,900</span>
+                  <span className="item-price-discount sf-hidden">-12%</span>
+                </span>
+                <del className="item-price-market">₦ 75,000</del>
+              </div>
+              <span className="item-price-discount">-12%</span>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div className="site-item" data-id="6643">
+        <a
+          className="js_select_item js_load_item"
+          href="https://ng.oraimo.com/product/oraimo-colorpad-eye-friendly-multicolor-children-drawing-board-obc-294a?ean=4894947115639"
+          data-id="6643"
+          data-sku="OBC-294A-VITALITYGREEN"
+          data-name="Eye-Friendly Multicolor Children Drawing Board Eye-Friendly Multicolor Children Drawing Board"
+          data-price="12.35"
+          data-category="Toys & Games"
+          data-section-type="list"
+          data-section-name="oraimo Daily Deals"
+          data-select="1"
+        >
+          <div className="item-container">
+            <img
+              className="item-picture lazyloaded"
+              alt="Eye-Friendly Multicolor Children Drawing Board Eye-Friendly Multicolor Children Drawing Board"
+              data-src="https://cdn-img.oraimo.com/fit-in/540x540/KE/product/2026/07/07/oraimo-obc-294a-colorpad-mainimage.png"
+              src="/images/oraimo-9b9ce0d2d78c616e.webp"
+            />
+            <div className="item-tag" style={{ borderColor: "rgb(130,230,0)" }}>
+              <span
+                className="item-tag-content"
+                style={{ backgroundColor: "rgb(130,230,0)" }}
+              >
+                New Arrival
+              </span>
+            </div>
+            <div className="item-review">
+              <span className="item-review-score">5.0</span>
+              <svg
+                width="18"
+                height="18"
+                viewBox="0 0 18 18"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+                className="item-review-star"
+              >
+                <path
+                  d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                  fill="#82E600"
+                ></path>
+              </svg>
+              <span className="item-review-count">(23)</span>
+            </div>
+          </div>
+          <div className="item-content">
+            <p className="item-title">
+              {" "}
+              Eye-Friendly Multicolor Children Drawing Board Eye-Friendly
+              Multicolor Children Drawing Board
+            </p>
+            <p className="item-point">
+              <span className="item-point-container">
+                <img
+                  className="item-point-icon lazyloaded"
+                  alt="Eye-Friendly LCD Screen"
+                  data-src="https://cdn-img.oraimo.com/KE/2026/07/07/eye-friendly-LCD-screen.svg"
+                  src="/images/oraimo-e62714b1efd723b1.svg"
+                />
+                <svg
+                  data-v-02c2eb76
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="20"
+                  height="20"
+                  viewBox="0 0 20 20"
+                  fill="none"
+                >
+                  <circle
+                    data-v-02c2eb76
+                    opacity="0.3"
+                    cx="10"
+                    cy="10"
+                    r="9.75"
+                    stroke="#EEEEEE"
+                    strokeWidth="0.5"
+                  ></circle>
+                </svg>
+              </span>
+              <span className="item-point-title">Eye-Friendly LCD Screen</span>
+            </p>
+            <div className="item-price">
+              <div className="item-price-main">
+                <span className="item-price-final">
+                  <span>₦ 17,900</span>
+                  <span className="item-price-discount sf-hidden">-10%</span>
+                </span>
+                <del className="item-price-market">₦ 19,890</del>
+              </div>
+              <span className="item-price-discount">-10%</span>
+            </div>
+          </div>
+        </a>
+        <a
+          data-v-4e36107e
+          href="https://ng.oraimo.com/trend?type=2&rank_id=0&category_id=1266&category_rank_type=1"
+          className="module-common-trend"
+        >
+          <svg
+            data-v-4e36107e
+            width="14"
+            height="14"
+            viewBox="0 0 14 14"
+            fill="none"
+            xmlns="http://www.w3.org/2000/svg"
+            className="trend-top"
+          >
+            <path
+              d="M0 1.75C0 0.783501 0.783502 0 1.75 0H12.25C13.2165 0 14 0.783502 14 1.75V9.71848C14 10.4071 13.5961 11.0317 12.9681 11.3143L7.71814 13.6768C7.26143 13.8824 6.73857 13.8824 6.28186 13.6768L1.03186 11.3143C0.403872 11.0317 0 10.4071 0 9.71848L0 1.75Z"
+              fill="url(#paint0_linear_10018_17757)"
+            ></path>
+            <path
+              d="M1.96875 0.765625H12.0312C12.6957 0.765625 13.2344 1.30428 13.2344 1.96875V9.61133C13.2344 10.0829 12.9585 10.5117 12.5293 10.707L7.49805 12.9971C7.18165 13.1409 6.81835 13.1409 6.50195 12.9971L1.4707 10.707C1.0415 10.5117 0.765625 10.0829 0.765625 9.61133V1.96875C0.765626 1.30428 1.30428 0.765625 1.96875 0.765625Z"
+              stroke="url(#paint1_linear_10018_17757)"
+              strokeWidth="0.21875"
+            ></path>
+            <path
+              d="M2.765 8.0625V4.3665H3.70475V8.0625H2.765ZM1.62575 5.14875V4.34025H4.844V5.14875H1.62575ZM6.90836 8.13075C6.62136 8.13075 6.35711 8.08175 6.11561 7.98375C5.87411 7.88575 5.66236 7.74925 5.48036 7.57425C5.30186 7.39925 5.16186 7.1945 5.06036 6.96C4.95886 6.722 4.90811 6.4665 4.90811 6.1935C4.90811 5.9205 4.95711 5.6685 5.05511 5.4375C5.15661 5.203 5.29661 4.99825 5.47511 4.82325C5.65361 4.64825 5.86361 4.5135 6.10511 4.419C6.34661 4.321 6.61086 4.272 6.89786 4.272C7.18486 4.272 7.44911 4.321 7.69061 4.419C7.93211 4.5135 8.14211 4.64825 8.32061 4.82325C8.49911 4.99825 8.63736 5.203 8.73536 5.4375C8.83686 5.672 8.88761 5.92575 8.88761 6.19875C8.88761 6.47175 8.83686 6.7255 8.73536 6.96C8.63736 7.1945 8.49911 7.401 8.32061 7.5795C8.14211 7.7545 7.93211 7.891 7.69061 7.989C7.45261 8.0835 7.19186 8.13075 6.90836 8.13075ZM6.89786 7.29075C7.10786 7.29075 7.28986 7.24525 7.44386 7.15425C7.59786 7.06325 7.71686 6.9355 7.80086 6.771C7.88486 6.6065 7.92686 6.414 7.92686 6.1935C7.92686 6.0325 7.90236 5.8855 7.85336 5.7525C7.80786 5.6195 7.73961 5.50575 7.64861 5.41125C7.55761 5.31325 7.44911 5.238 7.32311 5.1855C7.19711 5.133 7.05536 5.10675 6.89786 5.10675C6.68786 5.10675 6.50586 5.15225 6.35186 5.24325C6.19786 5.33075 6.07886 5.45675 5.99486 5.62125C5.91086 5.78575 5.86886 5.9765 5.86886 6.1935C5.86886 6.3615 5.89161 6.51375 5.93711 6.65025C5.98611 6.78325 6.05611 6.89875 6.14711 6.99675C6.23811 7.09125 6.34661 7.16475 6.47261 7.21725C6.59861 7.26625 6.74036 7.29075 6.89786 7.29075ZM10.1031 6.729V6.03075H10.8381C10.9291 6.03075 11.0114 6.01325 11.0849 5.97825C11.1619 5.93975 11.2231 5.88375 11.2686 5.81025C11.3141 5.73675 11.3369 5.64575 11.3369 5.53725C11.3369 5.42875 11.3141 5.33775 11.2686 5.26425C11.2231 5.18725 11.1619 5.13125 11.0849 5.09625C11.0114 5.05775 10.9291 5.0385 10.8381 5.0385H10.1031V4.34025H11.0009C11.2389 4.34025 11.4541 4.38925 11.6466 4.48725C11.8391 4.58175 11.9914 4.71825 12.1034 4.89675C12.2154 5.07175 12.2714 5.28525 12.2714 5.53725C12.2714 5.78225 12.2154 5.99575 12.1034 6.17775C11.9914 6.35625 11.8391 6.49275 11.6466 6.58725C11.4541 6.68175 11.2389 6.729 11.0009 6.729H10.1031ZM9.35761 8.0625V4.34025H10.2974V8.0625H9.35761Z"
+              fill="#923800"
+            ></path>
+            <defs>
+              <linearGradient
+                id="paint0_linear_10018_17757"
+                x1="1.53125"
+                y1="2.89655e-07"
+                x2="11.8125"
+                y2="12.25"
+                gradientUnits="userSpaceOnUse"
+              >
+                <stop stopColor="#FDC775"></stop>
+                <stop offset="0.528482" stopColor="#FFE7C6"></stop>
+                <stop offset="1" stopColor="#E7A85C"></stop>
+              </linearGradient>
+              <linearGradient
+                id="paint1_linear_10018_17757"
+                x1="7"
+                y1="0.65625"
+                x2="7"
+                y2="13.3438"
+                gradientUnits="userSpaceOnUse"
+              >
+                <stop stopColor="#D27F4B"></stop>
+                <stop offset="1" stopColor="#F1B55E"></stop>
+              </linearGradient>
+            </defs>
+          </svg>
+          <span data-v-4e36107e className="trend-name">
+            oraimo Baby Best Seller
+          </span>
+          <span data-v-4e36107e className="trend-rank">
+            #1
+          </span>
+          <svg
+            data-v-b958d155
+            data-v-4e36107e
+            xmlns="http://www.w3.org/2000/svg"
+            width="8"
+            height="8"
+            viewBox="0 0 8 8"
+            fill="none"
+            className="trend-arrow"
+          >
+            <path
+              data-v-b958d155
+              d="M2.6665 0.828125L5.83808 3.9997L2.6665 7.17127"
+              stroke="#9A3412"
+            ></path>
+          </svg>
+        </a>
+      </div>
+      <div className="site-item" data-id="4346">
+        <a
+          className="js_select_item js_load_item"
+          href="https://ng.oraimo.com/product/oraimo-steamcore-2500w-high-power-electric-iron-oei-511a?ean=4894947097478"
+          data-id="4346"
+          data-sku="OEI-511A"
+          data-name="SteamCore 2500W LED Display Electric Iron"
+          data-price="42.02"
+          data-category="Steamer & Iron"
+          data-section-type="list"
+          data-section-name="oraimo Daily Deals"
+          data-select="1"
+        >
+          <div className="item-container">
+            <img
+              className="item-picture lazyloaded"
+              alt="SteamCore 2500W LED Display Electric Iron"
+              data-src="https://cdn-img.oraimo.com/fit-in/540x540/GH/product/2025/09/28/oraimo-electric-iron-steamcore-oei-511a-image-1.png"
+              src="/images/oraimo-1aa617b8c8241b23.webp"
+            />
+            <div className="item-review">
+              <span className="item-review-score">4.9</span>
+              <svg
+                width="18"
+                height="18"
+                viewBox="0 0 18 18"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+                className="item-review-star"
+              >
+                <path
+                  d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                  fill="#82E600"
+                ></path>
+              </svg>
+              <span className="item-review-count">(178)</span>
+            </div>
+          </div>
+          <div className="item-content">
+            <p className="item-title">
+              {" "}
+              SteamCore 2500W LED Display Electric Iron
+            </p>
+            <p className="item-point">
+              <span className="item-point-container">
+                <img
+                  className="item-point-icon lazyloaded"
+                  alt="360ml Water Tank"
+                  data-src="https://cdn-img.oraimo.com/NG/2025/10/09/360mL-water-tank.svg"
+                  src="/images/oraimo-50f3a9b9b9bd1170.svg"
+                />
+                <svg
+                  data-v-02c2eb76
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="20"
+                  height="20"
+                  viewBox="0 0 20 20"
+                  fill="none"
+                >
+                  <circle
+                    data-v-02c2eb76
+                    opacity="0.3"
+                    cx="10"
+                    cy="10"
+                    r="9.75"
+                    stroke="#EEEEEE"
+                    strokeWidth="0.5"
+                  ></circle>
+                </svg>
+              </span>
+              <span className="item-point-title">360ml Water Tank</span>
+            </p>
+            <div className="item-price">
+              <div className="item-price-main">
+                <span className="item-price-final">
+                  <span>₦ 60,900</span>
+                  <span className="item-price-discount sf-hidden">-10%</span>
+                </span>
+                <del className="item-price-market">₦ 67,700</del>
+              </div>
+              <span className="item-price-discount">-10%</span>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div className="site-item" data-id="4336">
+        <a
+          className="js_select_item js_load_item"
+          href="https://ng.oraimo.com/product/oraimo-watch-6-pro-ai-generated-watch-faces-smart-watch-osw-807s?ean=4894947096716"
+          data-id="4336"
+          data-sku="OSW-807S-CHROME"
+          data-name="Watch 6 Pro 1.69&#x27;&#x27; Full Touch Smart Watch"
+          data-price="22.7"
+          data-category="Smart Watches"
+          data-section-type="list"
+          data-section-name="oraimo Daily Deals"
+          data-select="1"
+        >
+          <div className="item-container">
+            <img
+              className="item-picture lazyloaded"
+              alt="Watch 6 Pro 1.69&#x27;&#x27; Full Touch Smart Watch"
+              data-src="https://cdn-img.oraimo.com/fit-in/540x540/CI/product/2025/09/23/oraimo-Smart-Watch-Watch-6-Pro-OSW-807S.png"
+              src="/images/oraimo-dd58e0cab448b6b8.webp"
+            />
+            <div className="item-color">
+              <div className="item-color-item">
+                <img
+                  className="item-color-avatar lazyloaded"
+                  alt=""
+                  data-src="https://cdn-img.oraimo.com/fit-in/360x360/CI/product/2025/09/23/oraimo-Smart-Watch-Watch-6-Pro-OSW-807S.png"
+                  src="/images/oraimo-e2c6adcf976e7616.webp"
+                />
+              </div>
+              <div className="item-color-item">
+                <img
+                  className="item-color-avatar lazyloaded"
+                  alt=""
+                  data-src="https://cdn-img.oraimo.com/fit-in/360x360/CI/product/2025/09/25/oraimo-Smart-Watch-Watch-6-Pro-OSW-807S-G.png"
+                  src="/images/oraimo-7ea09b60c4c6d96e.webp"
+                />
+              </div>
+            </div>
+            <div className="item-review">
+              <span className="item-review-score">4.7</span>
+              <svg
+                width="18"
+                height="18"
+                viewBox="0 0 18 18"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+                className="item-review-star"
+              >
+                <path
+                  d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                  fill="#82E600"
+                ></path>
+              </svg>
+              <span className="item-review-count">(211)</span>
+            </div>
+            <div className="item-gift">
+              <img
+                className="item-gift-picture lazyloaded"
+                alt="RobustLine 2A 1M Lightning Cable"
+                data-src="https://cdn-img.oraimo.com/fit-in/360x360/KE/product/2025/02/21/RobustLine-lightning-cable-OCD-114L-black.png"
+                src="/images/oraimo-829135621c5e22be.webp"
+              />
+              <span className="item-gift-title">FREE GIFT</span>
+            </div>
+          </div>
+          <div className="item-content">
+            <p className="item-title">
+              {" "}
+              Watch 6 Pro 1.69'' Full Touch Smart Watch
+            </p>
+            <p className="item-point">
+              <span className="item-point-container">
+                <img
+                  className="item-point-icon lazyloaded"
+                  alt="IP68 Waterproof"
+                  data-src="https://cdn-img.oraimo.com/label/ip68-waterproof.svg"
+                  src="/images/oraimo-f593d5336ccf0708.svg"
+                />
+                <svg
+                  data-v-02c2eb76
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="20"
+                  height="20"
+                  viewBox="0 0 20 20"
+                  fill="none"
+                >
+                  <circle
+                    data-v-02c2eb76
+                    opacity="0.3"
+                    cx="10"
+                    cy="10"
+                    r="9.75"
+                    stroke="#EEEEEE"
+                    strokeWidth="0.5"
+                  ></circle>
+                </svg>
+              </span>
+              <span className="item-point-title">IP68 Waterproof</span>
+            </p>
+            <div className="item-price">
+              <div className="item-price-main">
+                <span className="item-price-final">
+                  <span>₦ 32,900</span>
+                  <span className="item-price-discount sf-hidden">-11%</span>
+                </span>
+                <del className="item-price-market">₦ 36,900</del>
+              </div>
+              <span className="item-price-discount">-11%</span>
+            </div>
+          </div>
+        </a>
+        <a
+          data-v-4e36107e
+          href="https://ng.oraimo.com/trend?type=2&rank_id=0&category_id=238&category_rank_type=1"
+          className="module-common-trend"
+        >
+          <svg
+            data-v-4e36107e
+            width="14"
+            height="14"
+            viewBox="0 0 14 14"
+            fill="none"
+            xmlns="http://www.w3.org/2000/svg"
+            className="trend-top"
+          >
+            <path
+              d="M0 1.75C0 0.783501 0.783502 0 1.75 0H12.25C13.2165 0 14 0.783502 14 1.75V9.71848C14 10.4071 13.5961 11.0317 12.9681 11.3143L7.71814 13.6768C7.26143 13.8824 6.73857 13.8824 6.28186 13.6768L1.03186 11.3143C0.403872 11.0317 0 10.4071 0 9.71848L0 1.75Z"
+              fill="url(#paint0_linear_10018_17757)"
+            ></path>
+            <path
+              d="M1.96875 0.765625H12.0312C12.6957 0.765625 13.2344 1.30428 13.2344 1.96875V9.61133C13.2344 10.0829 12.9585 10.5117 12.5293 10.707L7.49805 12.9971C7.18165 13.1409 6.81835 13.1409 6.50195 12.9971L1.4707 10.707C1.0415 10.5117 0.765625 10.0829 0.765625 9.61133V1.96875C0.765626 1.30428 1.30428 0.765625 1.96875 0.765625Z"
+              stroke="url(#paint1_linear_10018_17757)"
+              strokeWidth="0.21875"
+            ></path>
+            <path
+              d="M2.765 8.0625V4.3665H3.70475V8.0625H2.765ZM1.62575 5.14875V4.34025H4.844V5.14875H1.62575ZM6.90836 8.13075C6.62136 8.13075 6.35711 8.08175 6.11561 7.98375C5.87411 7.88575 5.66236 7.74925 5.48036 7.57425C5.30186 7.39925 5.16186 7.1945 5.06036 6.96C4.95886 6.722 4.90811 6.4665 4.90811 6.1935C4.90811 5.9205 4.95711 5.6685 5.05511 5.4375C5.15661 5.203 5.29661 4.99825 5.47511 4.82325C5.65361 4.64825 5.86361 4.5135 6.10511 4.419C6.34661 4.321 6.61086 4.272 6.89786 4.272C7.18486 4.272 7.44911 4.321 7.69061 4.419C7.93211 4.5135 8.14211 4.64825 8.32061 4.82325C8.49911 4.99825 8.63736 5.203 8.73536 5.4375C8.83686 5.672 8.88761 5.92575 8.88761 6.19875C8.88761 6.47175 8.83686 6.7255 8.73536 6.96C8.63736 7.1945 8.49911 7.401 8.32061 7.5795C8.14211 7.7545 7.93211 7.891 7.69061 7.989C7.45261 8.0835 7.19186 8.13075 6.90836 8.13075ZM6.89786 7.29075C7.10786 7.29075 7.28986 7.24525 7.44386 7.15425C7.59786 7.06325 7.71686 6.9355 7.80086 6.771C7.88486 6.6065 7.92686 6.414 7.92686 6.1935C7.92686 6.0325 7.90236 5.8855 7.85336 5.7525C7.80786 5.6195 7.73961 5.50575 7.64861 5.41125C7.55761 5.31325 7.44911 5.238 7.32311 5.1855C7.19711 5.133 7.05536 5.10675 6.89786 5.10675C6.68786 5.10675 6.50586 5.15225 6.35186 5.24325C6.19786 5.33075 6.07886 5.45675 5.99486 5.62125C5.91086 5.78575 5.86886 5.9765 5.86886 6.1935C5.86886 6.3615 5.89161 6.51375 5.93711 6.65025C5.98611 6.78325 6.05611 6.89875 6.14711 6.99675C6.23811 7.09125 6.34661 7.16475 6.47261 7.21725C6.59861 7.26625 6.74036 7.29075 6.89786 7.29075ZM10.1031 6.729V6.03075H10.8381C10.9291 6.03075 11.0114 6.01325 11.0849 5.97825C11.1619 5.93975 11.2231 5.88375 11.2686 5.81025C11.3141 5.73675 11.3369 5.64575 11.3369 5.53725C11.3369 5.42875 11.3141 5.33775 11.2686 5.26425C11.2231 5.18725 11.1619 5.13125 11.0849 5.09625C11.0114 5.05775 10.9291 5.0385 10.8381 5.0385H10.1031V4.34025H11.0009C11.2389 4.34025 11.4541 4.38925 11.6466 4.48725C11.8391 4.58175 11.9914 4.71825 12.1034 4.89675C12.2154 5.07175 12.2714 5.28525 12.2714 5.53725C12.2714 5.78225 12.2154 5.99575 12.1034 6.17775C11.9914 6.35625 11.8391 6.49275 11.6466 6.58725C11.4541 6.68175 11.2389 6.729 11.0009 6.729H10.1031ZM9.35761 8.0625V4.34025H10.2974V8.0625H9.35761Z"
+              fill="#923800"
+            ></path>
+            <defs>
+              <linearGradient
+                id="paint0_linear_10018_17757"
+                x1="1.53125"
+                y1="2.89655e-07"
+                x2="11.8125"
+                y2="12.25"
+                gradientUnits="userSpaceOnUse"
+              >
+                <stop stopColor="#FDC775"></stop>
+                <stop offset="0.528482" stopColor="#FFE7C6"></stop>
+                <stop offset="1" stopColor="#E7A85C"></stop>
+              </linearGradient>
+              <linearGradient
+                id="paint1_linear_10018_17757"
+                x1="7"
+                y1="0.65625"
+                x2="7"
+                y2="13.3438"
+                gradientUnits="userSpaceOnUse"
+              >
+                <stop stopColor="#D27F4B"></stop>
+                <stop offset="1" stopColor="#F1B55E"></stop>
+              </linearGradient>
+            </defs>
+          </svg>
+          <span data-v-4e36107e className="trend-name">
+            Smart Watches Best Seller
+          </span>
+          <span data-v-4e36107e className="trend-rank">
+            #4
+          </span>
+          <svg
+            data-v-b958d155
+            data-v-4e36107e
+            xmlns="http://www.w3.org/2000/svg"
+            width="8"
+            height="8"
+            viewBox="0 0 8 8"
+            fill="none"
+            className="trend-arrow"
+          >
+            <path
+              data-v-b958d155
+              d="M2.6665 0.828125L5.83808 3.9997L2.6665 7.17127"
+              stroke="#9A3412"
+            ></path>
+          </svg>
+        </a>
+      </div>
+      <div className="site-item" data-id="2719">
+        <a
+          className="js_select_item js_load_item"
+          href="https://ng.oraimo.com/product/oraimo-boompoplite-enc-65hr-playtime-over-ear-wireless-headphones?ean=4894947054334"
+          data-id="2719"
+          data-sku="OHP-317-BLACK"
+          data-name="BoomPop Lite oraimo BoomPop Lite ENC Headphones"
+          data-price="22.7"
+          data-category="Over-Ear Headphones"
+          data-section-type="list"
+          data-section-name="oraimo Daily Deals"
+          data-select="1"
+        >
+          <div className="item-container">
+            <img
+              className="item-picture lazyloaded"
+              alt="BoomPop Lite oraimo BoomPop Lite ENC Headphones"
+              data-src="https://cdn-img.oraimo.com/fit-in/540x540/KE/product/2025/02/07/OHP-317-BLACK.png"
+              src="/images/oraimo-3205b616f2e585bc.webp"
+            />
+            <div className="item-color">
+              <div className="item-color-item">
+                <img
+                  className="item-color-avatar lazyloaded"
+                  alt=""
+                  data-src="https://cdn-img.oraimo.com/fit-in/360x360/KE/product/2025/02/07/OHP-317-BLACK.png"
+                  src="/images/oraimo-4f36b5af4126e9f6.webp"
+                />
+              </div>
+              <div className="item-color-item">
+                <img
+                  className="item-color-avatar lazyloaded"
+                  alt=""
+                  data-src="https://cdn-img.oraimo.com/fit-in/360x360/NG/product/2025/01/08/OHP-317-GREY.png"
+                  src="/images/oraimo-ef3e6eabfe1b4870.webp"
+                />
+              </div>
+              <div className="item-color-item">
+                <img
+                  className="item-color-avatar lazyloaded"
+                  alt=""
+                  data-src="https://cdn-img.oraimo.com/fit-in/360x360/KE/product/2025/02/07/OHP-317-lightgold.png"
+                  src="/images/oraimo-96453a15e13072e2.webp"
+                />
+              </div>
+            </div>
+            <div className="item-review">
+              <span className="item-review-score">4.8</span>
+              <svg
+                width="18"
+                height="18"
+                viewBox="0 0 18 18"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+                className="item-review-star"
+              >
+                <path
+                  d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                  fill="#82E600"
+                ></path>
+              </svg>
+              <span className="item-review-count">(1196)</span>
+            </div>
+          </div>
+          <div className="item-content">
+            <p className="item-title">
+              {" "}
+              BoomPop Lite oraimo BoomPop Lite ENC Headphones
+            </p>
+            <p className="item-point">
+              <span className="item-point-container">
+                <img
+                  className="item-point-icon lazyloaded"
+                  alt="60-Hour Long Playtime"
+                  data-src="https://cdn-img.oraimo.com/NG/2025/01/08/30-second-brush-guide.svg"
+                  src="/images/oraimo-34b92f323f0b92b2.svg"
+                />
+                <svg
+                  data-v-02c2eb76
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="20"
+                  height="20"
+                  viewBox="0 0 20 20"
+                  fill="none"
+                >
+                  <circle
+                    data-v-02c2eb76
+                    opacity="0.3"
+                    cx="10"
+                    cy="10"
+                    r="9.75"
+                    stroke="#EEEEEE"
+                    strokeWidth="0.5"
+                  ></circle>
+                </svg>
+              </span>
+              <span className="item-point-title">60-Hour Long Playtime</span>
+            </p>
+            <div className="item-price">
+              <div className="item-price-main">
+                <span className="item-price-final">
+                  <span>₦ 32,900</span>
+                  <span className="item-price-discount sf-hidden">-10%</span>
+                </span>
+                <del className="item-price-market">₦ 36,670</del>
+              </div>
+              <span className="item-price-discount">-10%</span>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div className="site-item" data-id="6647">
+        <a
+          className="js_select_item js_load_item"
+          href="https://ng.oraimo.com/product/oraimo-picbuddy-dual-camera-hd-kids-camera-obc-293a?ean=4894947115646"
+          data-id="6647"
+          data-sku="OBC-293A-VITALITYGREEN"
+          data-name="PicBuddy Dual Camera HD Kids Camera"
+          data-price="22.29"
+          data-category="Toys & Games"
+          data-section-type="list"
+          data-section-name="oraimo Daily Deals"
+          data-select="1"
+        >
+          <div className="item-container">
+            <img
+              className="item-picture lazyloaded"
+              alt="PicBuddy Dual Camera HD Kids Camera"
+              data-src="https://cdn-img.oraimo.com/fit-in/540x540/KE/product/2026/06/24/oraimo-picbuddy-africa-obc-293a-mainimage.png"
+              src="/images/oraimo-b19eefe8fe6be869.webp"
+            />
+            <div className="item-tag" style={{ borderColor: "rgb(230,0,27)" }}>
+              <span
+                className="item-tag-content"
+                style={{ backgroundColor: "rgb(230,0,27)" }}
+              >
+                Flash Sale
+              </span>
+            </div>
+            <div className="item-review">
+              <span className="item-review-score">4.4</span>
+              <svg
+                width="18"
+                height="18"
+                viewBox="0 0 18 18"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+                className="item-review-star"
+              >
+                <path
+                  d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                  fill="#82E600"
+                ></path>
+              </svg>
+              <span className="item-review-count">(3)</span>
+            </div>
+          </div>
+          <div className="item-content">
+            <p className="item-title"> PicBuddy Dual Camera HD Kids Camera</p>
+            <p className="item-point">
+              <span className="item-point-container">
+                <img
+                  className="item-point-icon lazyloaded"
+                  alt="Ample 16GB Storage for HD Videos"
+                  data-src="https://cdn-img.oraimo.com/GH/2026/07/10/Ample-16GB-Storage-for-HD-Videos.svg"
+                  src="/images/oraimo-4a3445349c8e9187.svg"
+                />
+                <svg
+                  data-v-02c2eb76
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="20"
+                  height="20"
+                  viewBox="0 0 20 20"
+                  fill="none"
+                >
+                  <circle
+                    data-v-02c2eb76
+                    opacity="0.3"
+                    cx="10"
+                    cy="10"
+                    r="9.75"
+                    stroke="#EEEEEE"
+                    strokeWidth="0.5"
+                  ></circle>
+                </svg>
+              </span>
+              <span className="item-point-title">
+                Ample 16GB Storage for HD Videos
+              </span>
+            </p>
+            <div className="item-price">
+              <div className="item-price-main">
+                <span className="item-price-final">
+                  <span>₦ 32,310</span>
+                  <span className="item-price-discount sf-hidden">-19%</span>
+                </span>
+                <del className="item-price-market">₦ 39,890</del>
+              </div>
+              <span className="item-price-discount">-19%</span>
+            </div>
+          </div>
+        </a>
+        <a
+          data-v-4e36107e
+          href="https://ng.oraimo.com/trend?type=2&rank_id=0&category_id=1266&category_rank_type=1"
+          className="module-common-trend"
+        >
+          <svg
+            data-v-4e36107e
+            width="14"
+            height="14"
+            viewBox="0 0 14 14"
+            fill="none"
+            xmlns="http://www.w3.org/2000/svg"
+            className="trend-top"
+          >
+            <path
+              d="M0 1.75C0 0.783501 0.783502 0 1.75 0H12.25C13.2165 0 14 0.783502 14 1.75V9.71848C14 10.4071 13.5961 11.0317 12.9681 11.3143L7.71814 13.6768C7.26143 13.8824 6.73857 13.8824 6.28186 13.6768L1.03186 11.3143C0.403872 11.0317 0 10.4071 0 9.71848L0 1.75Z"
+              fill="url(#paint0_linear_10018_17757)"
+            ></path>
+            <path
+              d="M1.96875 0.765625H12.0312C12.6957 0.765625 13.2344 1.30428 13.2344 1.96875V9.61133C13.2344 10.0829 12.9585 10.5117 12.5293 10.707L7.49805 12.9971C7.18165 13.1409 6.81835 13.1409 6.50195 12.9971L1.4707 10.707C1.0415 10.5117 0.765625 10.0829 0.765625 9.61133V1.96875C0.765626 1.30428 1.30428 0.765625 1.96875 0.765625Z"
+              stroke="url(#paint1_linear_10018_17757)"
+              strokeWidth="0.21875"
+            ></path>
+            <path
+              d="M2.765 8.0625V4.3665H3.70475V8.0625H2.765ZM1.62575 5.14875V4.34025H4.844V5.14875H1.62575ZM6.90836 8.13075C6.62136 8.13075 6.35711 8.08175 6.11561 7.98375C5.87411 7.88575 5.66236 7.74925 5.48036 7.57425C5.30186 7.39925 5.16186 7.1945 5.06036 6.96C4.95886 6.722 4.90811 6.4665 4.90811 6.1935C4.90811 5.9205 4.95711 5.6685 5.05511 5.4375C5.15661 5.203 5.29661 4.99825 5.47511 4.82325C5.65361 4.64825 5.86361 4.5135 6.10511 4.419C6.34661 4.321 6.61086 4.272 6.89786 4.272C7.18486 4.272 7.44911 4.321 7.69061 4.419C7.93211 4.5135 8.14211 4.64825 8.32061 4.82325C8.49911 4.99825 8.63736 5.203 8.73536 5.4375C8.83686 5.672 8.88761 5.92575 8.88761 6.19875C8.88761 6.47175 8.83686 6.7255 8.73536 6.96C8.63736 7.1945 8.49911 7.401 8.32061 7.5795C8.14211 7.7545 7.93211 7.891 7.69061 7.989C7.45261 8.0835 7.19186 8.13075 6.90836 8.13075ZM6.89786 7.29075C7.10786 7.29075 7.28986 7.24525 7.44386 7.15425C7.59786 7.06325 7.71686 6.9355 7.80086 6.771C7.88486 6.6065 7.92686 6.414 7.92686 6.1935C7.92686 6.0325 7.90236 5.8855 7.85336 5.7525C7.80786 5.6195 7.73961 5.50575 7.64861 5.41125C7.55761 5.31325 7.44911 5.238 7.32311 5.1855C7.19711 5.133 7.05536 5.10675 6.89786 5.10675C6.68786 5.10675 6.50586 5.15225 6.35186 5.24325C6.19786 5.33075 6.07886 5.45675 5.99486 5.62125C5.91086 5.78575 5.86886 5.9765 5.86886 6.1935C5.86886 6.3615 5.89161 6.51375 5.93711 6.65025C5.98611 6.78325 6.05611 6.89875 6.14711 6.99675C6.23811 7.09125 6.34661 7.16475 6.47261 7.21725C6.59861 7.26625 6.74036 7.29075 6.89786 7.29075ZM10.1031 6.729V6.03075H10.8381C10.9291 6.03075 11.0114 6.01325 11.0849 5.97825C11.1619 5.93975 11.2231 5.88375 11.2686 5.81025C11.3141 5.73675 11.3369 5.64575 11.3369 5.53725C11.3369 5.42875 11.3141 5.33775 11.2686 5.26425C11.2231 5.18725 11.1619 5.13125 11.0849 5.09625C11.0114 5.05775 10.9291 5.0385 10.8381 5.0385H10.1031V4.34025H11.0009C11.2389 4.34025 11.4541 4.38925 11.6466 4.48725C11.8391 4.58175 11.9914 4.71825 12.1034 4.89675C12.2154 5.07175 12.2714 5.28525 12.2714 5.53725C12.2714 5.78225 12.2154 5.99575 12.1034 6.17775C11.9914 6.35625 11.8391 6.49275 11.6466 6.58725C11.4541 6.68175 11.2389 6.729 11.0009 6.729H10.1031ZM9.35761 8.0625V4.34025H10.2974V8.0625H9.35761Z"
+              fill="#923800"
+            ></path>
+            <defs>
+              <linearGradient
+                id="paint0_linear_10018_17757"
+                x1="1.53125"
+                y1="2.89655e-07"
+                x2="11.8125"
+                y2="12.25"
+                gradientUnits="userSpaceOnUse"
+              >
+                <stop stopColor="#FDC775"></stop>
+                <stop offset="0.528482" stopColor="#FFE7C6"></stop>
+                <stop offset="1" stopColor="#E7A85C"></stop>
+              </linearGradient>
+              <linearGradient
+                id="paint1_linear_10018_17757"
+                x1="7"
+                y1="0.65625"
+                x2="7"
+                y2="13.3438"
+                gradientUnits="userSpaceOnUse"
+              >
+                <stop stopColor="#D27F4B"></stop>
+                <stop offset="1" stopColor="#F1B55E"></stop>
+              </linearGradient>
+            </defs>
+          </svg>
+          <span data-v-4e36107e className="trend-name">
+            oraimo Baby Best Seller
+          </span>
+          <span data-v-4e36107e className="trend-rank">
+            #5
+          </span>
+          <svg
+            data-v-b958d155
+            data-v-4e36107e
+            xmlns="http://www.w3.org/2000/svg"
+            width="8"
+            height="8"
+            viewBox="0 0 8 8"
+            fill="none"
+            className="trend-arrow"
+          >
+            <path
+              data-v-b958d155
+              d="M2.6665 0.828125L5.83808 3.9997L2.6665 7.17127"
+              stroke="#9A3412"
+            ></path>
+          </svg>
+        </a>
+      </div>
+      <div className="site-item" data-id="5753">
+        <a
+          className="js_select_item js_load_item"
+          href="https://ng.oraimo.com/product/oraimo-watch-muse-2-1.32%22-amoled-waterproof-health-smart-watch-osw-833n-rosegold?ean=4894947115684"
+          data-id="5753"
+          data-sku="OSW-833N-ROSEGOLD"
+          data-name='Watch Muse 2 1.32" AMOLED Diamond Appearance Smart Watch'
+          data-price="22.02"
+          data-category="Smart Watches"
+          data-section-type="list"
+          data-section-name="oraimo Daily Deals"
+          data-select="1"
+        >
+          <div className="item-container">
+            <img
+              className="item-picture lazyloaded"
+              alt='Watch Muse 2 1.32" AMOLED Diamond Appearance Smart Watch'
+              data-src="https://cdn-img.oraimo.com/fit-in/540x540/GH/product/2026/04/02/OSW-833N-ROSE-GOLD-MAIN.png"
+              src="/images/oraimo-c6ae92ef152b388e.webp"
+            />
+            <div className="item-tag" style={{ borderColor: "rgb(230,0,27)" }}>
+              <span
+                className="item-tag-content"
+                style={{ backgroundColor: "rgb(230,0,27)" }}
+              >
+                Flash Sale
+              </span>
+            </div>
+            <div className="item-review">
+              <span className="item-review-score">4.9</span>
+              <svg
+                width="18"
+                height="18"
+                viewBox="0 0 18 18"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+                className="item-review-star"
+              >
+                <path
+                  d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                  fill="#82E600"
+                ></path>
+              </svg>
+              <span className="item-review-count">(76)</span>
+            </div>
+          </div>
+          <div className="item-content">
+            <p className="item-title">
+              {" "}
+              Watch Muse 2 1.32" AMOLED Diamond Appearance Smart Watch
+            </p>
+            <p className="item-point">
+              <span className="item-point-container">
+                <img
+                  className="item-point-icon lazyloaded"
+                  alt="Blood Oxygen & Heart Rate Monitor"
+                  data-src="https://cdn-img.oraimo.com/NG/2025/01/13/blood-oxygen-monitor.svg"
+                  src="/images/oraimo-80339c57a3747928.svg"
+                />
+                <svg
+                  data-v-02c2eb76
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="20"
+                  height="20"
+                  viewBox="0 0 20 20"
+                  fill="none"
+                >
+                  <circle
+                    data-v-02c2eb76
+                    opacity="0.3"
+                    cx="10"
+                    cy="10"
+                    r="9.75"
+                    stroke="#EEEEEE"
+                    strokeWidth="0.5"
+                  ></circle>
+                </svg>
+              </span>
+              <span className="item-point-title">
+                Blood Oxygen &amp; Heart Rate Monitor
+              </span>
+            </p>
+            <div className="item-price">
+              <div className="item-price-main">
+                <span className="item-price-final">
+                  <span>₦ 31,920</span>
+                  <span className="item-price-discount sf-hidden">-28%</span>
+                </span>
+                <del className="item-price-market">₦ 44,400</del>
+              </div>
+              <span className="item-price-discount">-28%</span>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div className="site-item" data-id="3328">
+        <a
+          className="js_select_item js_load_item"
+          href="https://ng.oraimo.com/product/spacebuds-neo-plus-active-noise-cancellation-spatial-audio-true-wireless-earphones?ean=4894947069055"
+          data-id="3328"
+          data-sku="OTW-323P-SPEEDBLACK"
+          data-name="SpaceBuds Neo+ oraimo SpaceBuds Neo+ ANC True Wireless Earphones"
+          data-price="15.59"
+          data-category="Noise Cancelling Earbuds"
+          data-section-type="list"
+          data-section-name="oraimo Daily Deals"
+          data-select="1"
+        >
+          <div className="item-container">
+            <img
+              className="item-picture lazyloaded"
+              alt="SpaceBuds Neo+ oraimo SpaceBuds Neo+ ANC True Wireless Earphones"
+              data-src="https://cdn-img.oraimo.com/fit-in/540x540/GH/product/2025/05/09/wireless-earphones-spacebuds-neo-plus-otw-323p-black.png"
+              src="/images/oraimo-048b5150b9da9bcc.webp"
+            />
+            <div className="item-color">
+              <div className="item-color-item">
+                <img
+                  className="item-color-avatar lazyloaded"
+                  alt=""
+                  data-src="https://cdn-img.oraimo.com/fit-in/360x360/GH/product/2025/05/09/wireless-earphones-spacebuds-neo-plus-otw-323p-black.png"
+                  src="/images/oraimo-5eaaad2a5c623a1b.webp"
+                />
+              </div>
+              <div className="item-color-item">
+                <img
+                  className="item-color-avatar lazyloaded"
+                  alt=""
+                  data-src="https://cdn-img.oraimo.com/fit-in/360x360/GH/product/2025/05/09/wireless-earphones-spacebuds-neo-plus-otw-323p-lightgold.png"
+                  src="/images/oraimo-e64bf8684cc86bd7.webp"
+                />
+              </div>
+            </div>
+            <div className="item-review">
+              <span className="item-review-score">4.7</span>
+              <svg
+                width="18"
+                height="18"
+                viewBox="0 0 18 18"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+                className="item-review-star"
+              >
+                <path
+                  d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                  fill="#82E600"
+                ></path>
+              </svg>
+              <span className="item-review-count">(851)</span>
+            </div>
+          </div>
+          <div className="item-content">
+            <p className="item-title">
+              {" "}
+              SpaceBuds Neo+ oraimo SpaceBuds Neo+ ANC True Wireless Earphones
+            </p>
+            <p className="item-point">
+              <span className="item-point-container">
+                <img
+                  className="item-point-icon lazyloaded"
+                  alt="Elegant Metallic Design"
+                  data-src="https://cdn-img.oraimo.com/GH/2025/06/05/elegant-metallic-design.svg"
+                  src="/images/oraimo-94c32d7a8b971bf9.svg"
+                />
+                <svg
+                  data-v-02c2eb76
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="20"
+                  height="20"
+                  viewBox="0 0 20 20"
+                  fill="none"
+                >
+                  <circle
+                    data-v-02c2eb76
+                    opacity="0.3"
+                    cx="10"
+                    cy="10"
+                    r="9.75"
+                    stroke="#EEEEEE"
+                    strokeWidth="0.5"
+                  ></circle>
+                </svg>
+              </span>
+              <span className="item-point-title">Elegant Metallic Design</span>
+            </p>
+            <div className="item-price">
+              <div className="item-price-main">
+                <span className="item-price-final">
+                  <span>₦ 22,600</span>
+                  <span className="item-price-discount sf-hidden">-10%</span>
+                </span>
+                <del className="item-price-market">₦ 25,110</del>
+              </div>
+              <span className="item-price-discount">-10%</span>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div className="site-item" data-id="3888">
+        <a
+          className="js_select_item js_load_item"
+          href="https://ng.oraimo.com/product/oraimo-easycut-hair-clipper-ocl-230?ean=10319952"
+          data-id="3888"
+          data-sku="OCL-230"
+          data-name="EasyCut Super Powerful Adjustable Hair Clipper"
+          data-price="14.49"
+          data-category="Clipper"
+          data-section-type="list"
+          data-section-name="oraimo Daily Deals"
+          data-select="1"
+        >
+          <div className="item-container">
+            <img
+              className="item-picture lazyloaded"
+              alt="EasyCut Super Powerful Adjustable Hair Clipper"
+              data-src="https://cdn-img.oraimo.com/fit-in/540x540/GH/product/2025/07/14/oraimo-Hair-Clipper-EasyCut-OCL-230-0.png"
+              src="/images/oraimo-aaec1d9656557795.webp"
+            />
+            <div className="item-review">
+              <span className="item-review-score">4.7</span>
+              <svg
+                width="18"
+                height="18"
+                viewBox="0 0 18 18"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+                className="item-review-star"
+              >
+                <path
+                  d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                  fill="#82E600"
+                ></path>
+              </svg>
+              <span className="item-review-count">(399)</span>
+            </div>
+          </div>
+          <div className="item-content">
+            <p className="item-title">
+              {" "}
+              EasyCut Super Powerful Adjustable Hair Clipper
+            </p>
+            <p className="item-point">
+              <span className="item-point-container">
+                <img
+                  className="item-point-icon lazyloaded"
+                  alt="150 Minute Runtime"
+                  data-src="https://cdn-img.oraimo.com/GH/2025/07/15/150-minute-runtime.svg"
+                  src="/images/oraimo-c54532e79c61931e.svg"
+                />
+                <svg
+                  data-v-02c2eb76
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="20"
+                  height="20"
+                  viewBox="0 0 20 20"
+                  fill="none"
+                >
+                  <circle
+                    data-v-02c2eb76
+                    opacity="0.3"
+                    cx="10"
+                    cy="10"
+                    r="9.75"
+                    stroke="#EEEEEE"
+                    strokeWidth="0.5"
+                  ></circle>
+                </svg>
+              </span>
+              <span className="item-point-title">150 Minute Runtime</span>
+            </p>
+            <div className="item-price">
+              <div className="item-price-main">
+                <span className="item-price-final">
+                  <span>₦ 21,000</span>
+                  <span className="item-price-discount sf-hidden">-10%</span>
+                </span>
+                <del className="item-price-market">₦ 23,330</del>
+              </div>
+              <span className="item-price-discount">-10%</span>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div className="site-item" data-id="6712">
+        <a
+          className="js_select_item js_load_item"
+          href="https://ng.oraimo.com/product/oraimo-glownest-soft-warm-baby-night-light-obc-266a-vitalitygreen?ean=4894947125461"
+          data-id="6712"
+          data-sku="OBC-266A-VITALITYGREEN"
+          data-name="GlowNest Skin Friendly Silicone Baby Night Light"
+          data-price="13.6"
+          data-category="Baby Care"
+          data-section-type="list"
+          data-section-name="oraimo Daily Deals"
+          data-select="1"
+        >
+          <div className="item-container">
+            <img
+              className="item-picture lazyloaded"
+              alt="GlowNest Skin Friendly Silicone Baby Night Light"
+              data-src="https://cdn-img.oraimo.com/fit-in/540x540/KE/product/2026/07/13/oraimo-baby-night-light-glownest-obc-266a-vitalitygreen-mainimage.png"
+              src="/images/oraimo-5c281b8fefb5829c.webp"
+            />
+            <div className="item-tag" style={{ borderColor: "rgb(230,0,27)" }}>
+              <span
+                className="item-tag-content"
+                style={{ backgroundColor: "rgb(230,0,27)" }}
+              >
+                Flash Sale
+              </span>
+            </div>
+            <div className="item-review">
+              <span className="item-review-score">4.8</span>
+              <svg
+                width="18"
+                height="18"
+                viewBox="0 0 18 18"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+                className="item-review-star"
+              >
+                <path
+                  d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                  fill="#82E600"
+                ></path>
+              </svg>
+              <span className="item-review-count">(4)</span>
+            </div>
+          </div>
+          <div className="item-content">
+            <p className="item-title">
+              {" "}
+              GlowNest Skin Friendly Silicone Baby Night Light
+            </p>
+            <p className="item-point">
+              <span className="item-point-container">
+                <img
+                  className="item-point-icon lazyloaded"
+                  alt="Warm And Gentle Light For Night Feeding"
+                  data-src="https://cdn-img.oraimo.com/EG/2026/07/14/warm-and-gentle-light-for-night-feeding.svg"
+                  src="/images/oraimo-47130db00d12b233.svg"
+                />
+                <svg
+                  data-v-02c2eb76
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="20"
+                  height="20"
+                  viewBox="0 0 20 20"
+                  fill="none"
+                >
+                  <circle
+                    data-v-02c2eb76
+                    opacity="0.3"
+                    cx="10"
+                    cy="10"
+                    r="9.75"
+                    stroke="#EEEEEE"
+                    strokeWidth="0.5"
+                  ></circle>
+                </svg>
+              </span>
+              <span className="item-point-title">
+                Warm And Gentle Light For Night Feeding
+              </span>
+            </p>
+            <div className="item-price">
+              <div className="item-price-main">
+                <span className="item-price-final">
+                  <span>₦ 19,710</span>
+                  <span className="item-price-discount sf-hidden">-27%</span>
+                </span>
+                <del className="item-price-market">₦ 27,000</del>
+              </div>
+              <span className="item-price-discount">-27%</span>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div className="site-item" data-id="3585">
+        <a
+          className="js_select_item js_load_item"
+          href="https://ng.oraimo.com/product/oraimo-powernova-q21-20000mah-power-bank-opb-7200q?ean=4894947071393"
+          data-id="3585"
+          data-sku="OPB-7200Q"
+          data-name="PowerNova Q21 20000mAh 22.5W Power Bank"
+          data-price="16.56"
+          data-category="Power Bank 20000mah"
+          data-section-type="list"
+          data-section-name="oraimo Daily Deals"
+          data-select="1"
+        >
+          <div className="item-container">
+            <img
+              className="item-picture lazyloaded"
+              alt="PowerNova Q21 20000mAh 22.5W Power Bank"
+              data-src="https://cdn-img.oraimo.com/fit-in/540x540/GH/product/2025/07/03/oraimo-power-bank-powernova-q21-opb-7200q.png"
+              src="/images/oraimo-035c5b2111413b73.webp"
+            />
+            <div className="item-review">
+              <span className="item-review-score">4.8</span>
+              <svg
+                width="18"
+                height="18"
+                viewBox="0 0 18 18"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+                className="item-review-star"
+              >
+                <path
+                  d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                  fill="#82E600"
+                ></path>
+              </svg>
+              <span className="item-review-count">(641)</span>
+            </div>
+          </div>
+          <div className="item-content">
+            <p className="item-title">
+              {" "}
+              PowerNova Q21 20000mAh 22.5W Power Bank
+            </p>
+            <p className="item-point">
+              <span className="item-point-container">
+                <img
+                  className="item-point-icon lazyloaded"
+                  alt="QC3.0 & PD3.0 Compatible"
+                  data-src="https://cdn-img.oraimo.com/label/anifas-t-%E2%84%A2-fast-charge.svg"
+                  src="/images/oraimo-e3c7dff87f840b48.svg"
+                />
+                <svg
+                  data-v-02c2eb76
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="20"
+                  height="20"
+                  viewBox="0 0 20 20"
+                  fill="none"
+                >
+                  <circle
+                    data-v-02c2eb76
+                    opacity="0.3"
+                    cx="10"
+                    cy="10"
+                    r="9.75"
+                    stroke="#EEEEEE"
+                    strokeWidth="0.5"
+                  ></circle>
+                </svg>
+              </span>
+              <span className="item-point-title">
+                QC3.0 &amp; PD3.0 Compatible
+              </span>
+            </p>
+            <div className="item-price">
+              <div className="item-price-main">
+                <span className="item-price-final">
+                  <span>₦ 24,000</span>
+                  <span className="item-price-discount sf-hidden">-10%</span>
+                </span>
+                <del className="item-price-market">₦ 26,670</del>
+              </div>
+              <span className="item-price-discount">-10%</span>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div className="site-item" data-id="2509">
+        <a
+          className="js_select_item js_load_item"
+          href="https://ng.oraimo.com/product/oraimo-smartblender-cup-1l-juice-blender?ean=4894947045745"
+          data-id="2509"
+          data-sku="OMB-201A"
+          data-name="SmartBlender Cup 1L Juice Blender"
+          data-price="26.44"
+          data-category="Blenders, Juicers & Grinders"
+          data-section-type="list"
+          data-section-name="oraimo Daily Deals"
+          data-select="1"
+        >
+          <div className="item-container">
+            <img
+              className="item-picture lazyloaded"
+              alt="SmartBlender Cup 1L Juice Blender"
+              data-src="https://cdn-img.oraimo.com/fit-in/540x540/KE/product/2024/11/29/OMB-201A-1.png"
+              src="/images/oraimo-81c30c5da861fa99.webp"
+            />
+            <div className="item-tag" style={{ borderColor: "rgb(230,0,27)" }}>
+              <span
+                className="item-tag-content"
+                style={{ backgroundColor: "rgb(230,0,27)" }}
+              >
+                Flash Sale
+              </span>
+            </div>
+            <div className="item-review">
+              <span className="item-review-score">4.8</span>
+              <svg
+                width="18"
+                height="18"
+                viewBox="0 0 18 18"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+                className="item-review-star"
+              >
+                <path
+                  d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                  fill="#82E600"
+                ></path>
+              </svg>
+              <span className="item-review-count">(122)</span>
+            </div>
+          </div>
+          <div className="item-content">
+            <p className="item-title"> SmartBlender Cup 1L Juice Blender</p>
+            <p className="item-point">
+              <span className="item-point-container">
+                <img
+                  className="item-point-icon lazyloaded"
+                  alt="Dual Lid Convenience"
+                  data-src="https://cdn-img.oraimo.com/KE/2024/11/26/dual-lid-convenience.svg"
+                  src="/images/oraimo-77b0d02f46d61315.svg"
+                />
+                <svg
+                  data-v-02c2eb76
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="20"
+                  height="20"
+                  viewBox="0 0 20 20"
+                  fill="none"
+                >
+                  <circle
+                    data-v-02c2eb76
+                    opacity="0.3"
+                    cx="10"
+                    cy="10"
+                    r="9.75"
+                    stroke="#EEEEEE"
+                    strokeWidth="0.5"
+                  ></circle>
+                </svg>
+              </span>
+              <span className="item-point-title">Dual Lid Convenience</span>
+            </p>
+            <div className="item-price">
+              <div className="item-price-main">
+                <span className="item-price-final">
+                  <span>₦ 38,320</span>
+                  <span className="item-price-discount sf-hidden">-28%</span>
+                </span>
+                <del className="item-price-market">₦ 53,300</del>
+              </div>
+              <span className="item-price-discount">-28%</span>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div className="site-item" data-id="3599">
+        <a
+          className="js_select_item js_load_item"
+          href="https://ng.oraimo.com/product/oraimo-cordforce-flex-corded-stick-vacuum-osv-252a?ean=4894947094262"
+          data-id="3599"
+          data-sku="OSV-252A"
+          data-name="CordForce Flex Corded 2-in-1 Stick Vacuum"
+          data-price="40.64"
+          data-category="Vacuums & Scrubbers"
+          data-section-type="list"
+          data-section-name="oraimo Daily Deals"
+          data-select="1"
+        >
+          <div className="item-container">
+            <img
+              className="item-picture lazyloaded"
+              alt="CordForce Flex Corded 2-in-1 Stick Vacuum"
+              data-src="https://cdn-img.oraimo.com/fit-in/540x540/NG/product/2026/06/25/OSV-252A-MAIN.png"
+              src="/images/oraimo-838efbf74161e0dd.webp"
+            />
+            <div className="item-review">
+              <span className="item-review-score">4.6</span>
+              <svg
+                width="18"
+                height="18"
+                viewBox="0 0 18 18"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+                className="item-review-star"
+              >
+                <path
+                  d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                  fill="#82E600"
+                ></path>
+              </svg>
+              <span className="item-review-count">(121)</span>
+            </div>
+          </div>
+          <div className="item-content">
+            <p className="item-title">
+              {" "}
+              CordForce Flex Corded 2-in-1 Stick Vacuum
+            </p>
+            <p className="item-point">
+              <span className="item-point-container">
+                <img
+                  className="item-point-icon lazyloaded"
+                  alt="2 hepa filters included"
+                  data-src="https://cdn-img.oraimo.com/GH/2025/08/05/2-hepa-filters-included.svg"
+                  src="/images/oraimo-95c7455e268610a1.svg"
+                />
+                <svg
+                  data-v-02c2eb76
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="20"
+                  height="20"
+                  viewBox="0 0 20 20"
+                  fill="none"
+                >
+                  <circle
+                    data-v-02c2eb76
+                    opacity="0.3"
+                    cx="10"
+                    cy="10"
+                    r="9.75"
+                    stroke="#EEEEEE"
+                    strokeWidth="0.5"
+                  ></circle>
+                </svg>
+              </span>
+              <span className="item-point-title">2 hepa filters included</span>
+            </p>
+            <div className="item-price">
+              <div className="item-price-main">
+                <span className="item-price-final">
+                  <span>₦ 58,900</span>
+                  <span className="item-price-discount sf-hidden">-10%</span>
+                </span>
+                <del className="item-price-market">₦ 65,500</del>
+              </div>
+              <span className="item-price-discount">-10%</span>
+            </div>
+          </div>
+        </a>
+        <a
+          data-v-4e36107e
+          href="https://ng.oraimo.com/trend?type=2&rank_id=0&category_id=402&category_rank_type=1"
+          className="module-common-trend"
+        >
+          <svg
+            data-v-4e36107e
+            width="14"
+            height="14"
+            viewBox="0 0 14 14"
+            fill="none"
+            xmlns="http://www.w3.org/2000/svg"
+            className="trend-top"
+          >
+            <path
+              d="M0 1.75C0 0.783501 0.783502 0 1.75 0H12.25C13.2165 0 14 0.783502 14 1.75V9.71848C14 10.4071 13.5961 11.0317 12.9681 11.3143L7.71814 13.6768C7.26143 13.8824 6.73857 13.8824 6.28186 13.6768L1.03186 11.3143C0.403872 11.0317 0 10.4071 0 9.71848L0 1.75Z"
+              fill="url(#paint0_linear_10018_17757)"
+            ></path>
+            <path
+              d="M1.96875 0.765625H12.0312C12.6957 0.765625 13.2344 1.30428 13.2344 1.96875V9.61133C13.2344 10.0829 12.9585 10.5117 12.5293 10.707L7.49805 12.9971C7.18165 13.1409 6.81835 13.1409 6.50195 12.9971L1.4707 10.707C1.0415 10.5117 0.765625 10.0829 0.765625 9.61133V1.96875C0.765626 1.30428 1.30428 0.765625 1.96875 0.765625Z"
+              stroke="url(#paint1_linear_10018_17757)"
+              strokeWidth="0.21875"
+            ></path>
+            <path
+              d="M2.765 8.0625V4.3665H3.70475V8.0625H2.765ZM1.62575 5.14875V4.34025H4.844V5.14875H1.62575ZM6.90836 8.13075C6.62136 8.13075 6.35711 8.08175 6.11561 7.98375C5.87411 7.88575 5.66236 7.74925 5.48036 7.57425C5.30186 7.39925 5.16186 7.1945 5.06036 6.96C4.95886 6.722 4.90811 6.4665 4.90811 6.1935C4.90811 5.9205 4.95711 5.6685 5.05511 5.4375C5.15661 5.203 5.29661 4.99825 5.47511 4.82325C5.65361 4.64825 5.86361 4.5135 6.10511 4.419C6.34661 4.321 6.61086 4.272 6.89786 4.272C7.18486 4.272 7.44911 4.321 7.69061 4.419C7.93211 4.5135 8.14211 4.64825 8.32061 4.82325C8.49911 4.99825 8.63736 5.203 8.73536 5.4375C8.83686 5.672 8.88761 5.92575 8.88761 6.19875C8.88761 6.47175 8.83686 6.7255 8.73536 6.96C8.63736 7.1945 8.49911 7.401 8.32061 7.5795C8.14211 7.7545 7.93211 7.891 7.69061 7.989C7.45261 8.0835 7.19186 8.13075 6.90836 8.13075ZM6.89786 7.29075C7.10786 7.29075 7.28986 7.24525 7.44386 7.15425C7.59786 7.06325 7.71686 6.9355 7.80086 6.771C7.88486 6.6065 7.92686 6.414 7.92686 6.1935C7.92686 6.0325 7.90236 5.8855 7.85336 5.7525C7.80786 5.6195 7.73961 5.50575 7.64861 5.41125C7.55761 5.31325 7.44911 5.238 7.32311 5.1855C7.19711 5.133 7.05536 5.10675 6.89786 5.10675C6.68786 5.10675 6.50586 5.15225 6.35186 5.24325C6.19786 5.33075 6.07886 5.45675 5.99486 5.62125C5.91086 5.78575 5.86886 5.9765 5.86886 6.1935C5.86886 6.3615 5.89161 6.51375 5.93711 6.65025C5.98611 6.78325 6.05611 6.89875 6.14711 6.99675C6.23811 7.09125 6.34661 7.16475 6.47261 7.21725C6.59861 7.26625 6.74036 7.29075 6.89786 7.29075ZM10.1031 6.729V6.03075H10.8381C10.9291 6.03075 11.0114 6.01325 11.0849 5.97825C11.1619 5.93975 11.2231 5.88375 11.2686 5.81025C11.3141 5.73675 11.3369 5.64575 11.3369 5.53725C11.3369 5.42875 11.3141 5.33775 11.2686 5.26425C11.2231 5.18725 11.1619 5.13125 11.0849 5.09625C11.0114 5.05775 10.9291 5.0385 10.8381 5.0385H10.1031V4.34025H11.0009C11.2389 4.34025 11.4541 4.38925 11.6466 4.48725C11.8391 4.58175 11.9914 4.71825 12.1034 4.89675C12.2154 5.07175 12.2714 5.28525 12.2714 5.53725C12.2714 5.78225 12.2154 5.99575 12.1034 6.17775C11.9914 6.35625 11.8391 6.49275 11.6466 6.58725C11.4541 6.68175 11.2389 6.729 11.0009 6.729H10.1031ZM9.35761 8.0625V4.34025H10.2974V8.0625H9.35761Z"
+              fill="#923800"
+            ></path>
+            <defs>
+              <linearGradient
+                id="paint0_linear_10018_17757"
+                x1="1.53125"
+                y1="2.89655e-07"
+                x2="11.8125"
+                y2="12.25"
+                gradientUnits="userSpaceOnUse"
+              >
+                <stop stopColor="#FDC775"></stop>
+                <stop offset="0.528482" stopColor="#FFE7C6"></stop>
+                <stop offset="1" stopColor="#E7A85C"></stop>
+              </linearGradient>
+              <linearGradient
+                id="paint1_linear_10018_17757"
+                x1="7"
+                y1="0.65625"
+                x2="7"
+                y2="13.3438"
+                gradientUnits="userSpaceOnUse"
+              >
+                <stop stopColor="#D27F4B"></stop>
+                <stop offset="1" stopColor="#F1B55E"></stop>
+              </linearGradient>
+            </defs>
+          </svg>
+          <span data-v-4e36107e className="trend-name">
+            Home Appliances Best Seller
+          </span>
+          <span data-v-4e36107e className="trend-rank">
+            #1
+          </span>
+          <svg
+            data-v-b958d155
+            data-v-4e36107e
+            xmlns="http://www.w3.org/2000/svg"
+            width="8"
+            height="8"
+            viewBox="0 0 8 8"
+            fill="none"
+            className="trend-arrow"
+          >
+            <path
+              data-v-b958d155
+              d="M2.6665 0.828125L5.83808 3.9997L2.6665 7.17127"
+              stroke="#9A3412"
+            ></path>
+          </svg>
+        </a>
+      </div>
+      <div className="site-item" data-id="6716">
+        <a
+          className="js_select_item js_load_item"
+          href="https://ng.oraimo.com/product/oraimo-drynest-baby-bottle-dryer-storage-box-obw-221a?ean=4894947115653"
+          data-id="6716"
+          data-sku="OBW-221A-VITALITYGREEN"
+          data-name="DryNest 4-in-1 Baby Bottle Dryer"
+          data-price="42.71"
+          data-category="Baby Care"
+          data-section-type="list"
+          data-section-name="oraimo Daily Deals"
+          data-select="1"
+        >
+          <div className="item-container">
+            <img
+              className="item-picture lazyloaded"
+              alt="DryNest 4-in-1 Baby Bottle Dryer"
+              data-src="https://cdn-img.oraimo.com/fit-in/540x540/GH/product/2026/07/08/OBW-221A-MAIN.png"
+              src="/images/oraimo-9d12af5ac349a942.webp"
+            />
+            <div className="item-tag" style={{ borderColor: "rgb(130,230,0)" }}>
+              <span
+                className="item-tag-content"
+                style={{ backgroundColor: "rgb(130,230,0)" }}
+              >
+                New Arrival
+              </span>
+            </div>
+            <div className="item-review">
+              <span className="item-review-score">4.7</span>
+              <svg
+                width="18"
+                height="18"
+                viewBox="0 0 18 18"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+                className="item-review-star"
+              >
+                <path
+                  d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                  fill="#82E600"
+                ></path>
+              </svg>
+              <span className="item-review-count">(6)</span>
+            </div>
+          </div>
+          <div className="item-content">
+            <p className="item-title"> DryNest 4-in-1 Baby Bottle Dryer</p>
+            <p className="item-point">
+              <span className="item-point-container">
+                <img
+                  className="item-point-icon lazyloaded"
+                  alt="4-In-1 System Meets All Needs"
+                  data-src="https://cdn-img.oraimo.com/GH/2026/07/08/4-in-1-system-meets-all-needs.svg"
+                  src="/images/oraimo-79c19fa3563a349c.svg"
+                />
+                <svg
+                  data-v-02c2eb76
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="20"
+                  height="20"
+                  viewBox="0 0 20 20"
+                  fill="none"
+                >
+                  <circle
+                    data-v-02c2eb76
+                    opacity="0.3"
+                    cx="10"
+                    cy="10"
+                    r="9.75"
+                    stroke="#EEEEEE"
+                    strokeWidth="0.5"
+                  ></circle>
+                </svg>
+              </span>
+              <span className="item-point-title">
+                4-In-1 System Meets All Needs
+              </span>
+            </p>
+            <div className="item-price">
+              <div className="item-price-main">
+                <span className="item-price-final">
+                  <span>₦ 61,900</span>
+                  <span className="item-price-discount sf-hidden">-20%</span>
+                </span>
+                <del className="item-price-market">₦ 77,000</del>
+              </div>
+              <span className="item-price-discount">-20%</span>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div className="site-item" data-id="6282">
+        <a
+          className="js_select_item js_load_item"
+          href="https://ng.oraimo.com/product/oraimo-traveler-12-byte-12w-20000mah-power-bank?ean=4894947034480"
+          data-id="6282"
+          data-sku="OPB-1205N"
+          data-name="Traveler 12 Byte 20000mAh 12W Power Bank"
+          data-price="13.19"
+          data-category="Power Bank 20000mah"
+          data-section-type="list"
+          data-section-name="oraimo Daily Deals"
+          data-select="1"
+        >
+          <div className="item-container">
+            <img
+              className="item-picture lazyloaded"
+              alt="Traveler 12 Byte 20000mAh 12W Power Bank"
+              data-src="https://cdn-img.oraimo.com/fit-in/540x540/KE/product/2024/09/03/OPB-1205N.png"
+              src="/images/oraimo-799f865df48dcb5b.webp"
+            />
+            <div className="item-tag" style={{ borderColor: "rgb(230,0,27)" }}>
+              <span
+                className="item-tag-content"
+                style={{ backgroundColor: "rgb(230,0,27)" }}
+              >
+                Flash Sale
+              </span>
+            </div>
+            <div className="item-review">
+              <span className="item-review-score">4.8</span>
+              <svg
+                width="18"
+                height="18"
+                viewBox="0 0 18 18"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+                className="item-review-star"
+              >
+                <path
+                  d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                  fill="#82E600"
+                ></path>
+              </svg>
+              <span className="item-review-count">(61)</span>
+            </div>
+          </div>
+          <div className="item-content">
+            <p className="item-title">
+              {" "}
+              Traveler 12 Byte 20000mAh 12W Power Bank
+            </p>
+            <p className="item-point">
+              <span className="item-point-container">
+                <img
+                  className="item-point-icon lazyloaded"
+                  alt="Type-C (IN/OUT)"
+                  data-src="https://cdn-img.oraimo.com/label/type-c-%28in-out%29.svg"
+                  src="/images/oraimo-bfcc44aa8c8cd5b8.svg"
+                />
+                <svg
+                  data-v-02c2eb76
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="20"
+                  height="20"
+                  viewBox="0 0 20 20"
+                  fill="none"
+                >
+                  <circle
+                    data-v-02c2eb76
+                    opacity="0.3"
+                    cx="10"
+                    cy="10"
+                    r="9.75"
+                    stroke="#EEEEEE"
+                    strokeWidth="0.5"
+                  ></circle>
+                </svg>
+              </span>
+              <span className="item-point-title">Type-C (IN/OUT)</span>
+            </p>
+            <div className="item-price">
+              <div className="item-price-main">
+                <span className="item-price-final">
+                  <span>₦ 19,120</span>
+                  <span className="item-price-discount sf-hidden">-29%</span>
+                </span>
+                <del className="item-price-market">₦ 26,900</del>
+              </div>
+              <span className="item-price-discount">-29%</span>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div className="site-item" data-id="5407">
+        <a
+          className="js_select_item js_load_item"
+          href="https://ng.oraimo.com/product/oraimo-powergan-451-45w-gan-ultra-fast-wall-charger-ocw-5451u?ean=4894947103742"
+          data-id="5407"
+          data-sku="OCW-5451UCC-BLACK"
+          data-name="PowerGaN 451 45W Gan Ultra Fast Wall Charger"
+          data-price="9.66"
+          data-category="Wall Chargers"
+          data-section-type="list"
+          data-section-name="oraimo Daily Deals"
+          data-select="1"
+        >
+          <div className="item-container">
+            <img
+              className="item-picture lazyloaded"
+              alt="PowerGaN 451 45W Gan Ultra Fast Wall Charger"
+              data-src="https://cdn-img.oraimo.com/fit-in/540x540/MA/product/2026/01/23/OCW-5451uCC.png"
+              src="/images/oraimo-8c8c838fed5238eb.webp"
+            />
+            <div className="item-tag" style={{ borderColor: "rgb(130,230,0)" }}>
+              <span
+                className="item-tag-content"
+                style={{ backgroundColor: "rgb(130,230,0)" }}
+              >
+                New Arrival
+              </span>
+            </div>
+            <div className="item-color">
+              <div className="item-color-item">
+                <img
+                  className="item-color-avatar lazyloaded"
+                  alt=""
+                  data-src="https://cdn-img.oraimo.com/fit-in/360x360/MA/product/2026/01/23/OCW-5451uCC.png"
+                  src="/images/oraimo-d0ccb37743fdbb4a.webp"
+                />
+              </div>
+              <div className="item-color-item">
+                <img
+                  className="item-color-avatar lazyloaded"
+                  alt=""
+                  data-src="https://cdn-img.oraimo.com/fit-in/360x360/GH/product/2026/05/09/OCW-5451uCC-WHITE-MAIN.png"
+                  src="/images/oraimo-a27fccc37f61027d.webp"
+                />
+              </div>
+            </div>
+            <div className="item-review">
+              <span className="item-review-score">4.9</span>
+              <svg
+                width="18"
+                height="18"
+                viewBox="0 0 18 18"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+                className="item-review-star"
+              >
+                <path
+                  d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                  fill="#82E600"
+                ></path>
+              </svg>
+              <span className="item-review-count">(240)</span>
+            </div>
+          </div>
+          <div className="item-content">
+            <p className="item-title">
+              {" "}
+              PowerGaN 451 45W Gan Ultra Fast Wall Charger
+            </p>
+            <p className="item-point">
+              <span className="item-point-container">
+                <img
+                  className="item-point-icon lazyloaded"
+                  alt="9 Layers of Safety"
+                  data-src="https://cdn-img.oraimo.com/GH/2025/10/16/9-layers-of-safety.svg"
+                  src="/images/oraimo-0496d1e5ef9c79cb.svg"
+                />
+                <svg
+                  data-v-02c2eb76
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="20"
+                  height="20"
+                  viewBox="0 0 20 20"
+                  fill="none"
+                >
+                  <circle
+                    data-v-02c2eb76
+                    opacity="0.3"
+                    cx="10"
+                    cy="10"
+                    r="9.75"
+                    stroke="#EEEEEE"
+                    strokeWidth="0.5"
+                  ></circle>
+                </svg>
+              </span>
+              <span className="item-point-title">9 Layers of Safety</span>
+            </p>
+            <div className="item-price">
+              <div className="item-price-main">
+                <span className="item-price-final">
+                  <span>₦ 14,000</span>
+                  <span className="item-price-discount sf-hidden">-10%</span>
+                </span>
+                <del className="item-price-market">₦ 15,500</del>
+              </div>
+              <span className="item-price-discount">-10%</span>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div className="site-item" data-id="2226">
+        <a
+          className="js_select_item js_load_item"
+          href="https://ng.oraimo.com/product/oraimo-smarthumidifier-aura-4l-capacity-pure-air-with-essential-oil-diffusion-colorful-lights-humidifier?ean=4894947045738"
+          data-id="2226"
+          data-sku="OHM-501A"
+          data-name="SmartHumidifier Aura 4L Humidifier"
+          data-price="39.95"
+          data-category="Humidifiers & Aroma Diffuser"
+          data-section-type="list"
+          data-section-name="oraimo Daily Deals"
+          data-select="1"
+        >
+          <div className="item-container">
+            <img
+              className="item-picture lazyloaded"
+              alt="SmartHumidifier Aura 4L Humidifier"
+              data-src="https://cdn-img.oraimo.com/fit-in/540x540/KE/product/2024/10/16/OHM-501A-3.png"
+              src="/images/oraimo-214be08cab3c0c60.webp"
+            />
+            <div className="item-review">
+              <span className="item-review-score">4.8</span>
+              <svg
+                width="18"
+                height="18"
+                viewBox="0 0 18 18"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+                className="item-review-star"
+              >
+                <path
+                  d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                  fill="#82E600"
+                ></path>
+              </svg>
+              <span className="item-review-count">(168)</span>
+            </div>
+          </div>
+          <div className="item-content">
+            <p className="item-title"> SmartHumidifier Aura 4L Humidifier</p>
+            <p className="item-point">
+              <span className="item-point-container">
+                <img
+                  className="item-point-icon lazyloaded"
+                  alt="4L Big Capacity"
+                  data-src="https://cdn-img.oraimo.com/KE/2024/10/17/4l-big-capacity.svg"
+                  src="/images/oraimo-53df4e215237288f.svg"
+                />
+                <svg
+                  data-v-02c2eb76
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="20"
+                  height="20"
+                  viewBox="0 0 20 20"
+                  fill="none"
+                >
+                  <circle
+                    data-v-02c2eb76
+                    opacity="0.3"
+                    cx="10"
+                    cy="10"
+                    r="9.75"
+                    stroke="#EEEEEE"
+                    strokeWidth="0.5"
+                  ></circle>
+                </svg>
+              </span>
+              <span className="item-point-title">4L Big Capacity</span>
+            </p>
+            <div className="item-price">
+              <div className="item-price-main">
+                <span className="item-price-final">
+                  <span>₦ 57,900</span>
+                  <span className="item-price-discount sf-hidden">-10%</span>
+                </span>
+                <del className="item-price-market">₦ 64,400</del>
+              </div>
+              <span className="item-price-discount">-10%</span>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div className="site-item" data-id="6783">
+        <a
+          className="js_select_item js_load_item"
+          href="https://ng.oraimo.com/product/oraimo-baby-insulated-water-bottle-for-babies-and-toddlers-dualtherm-obf-533b?ean=4894947125508"
+          data-id="6783"
+          data-sku="OBF-533B-LIGHTPINK"
+          data-name="Dual Therm Pink 750ML Large Capacity Insulated Water Bottle for Babies and Toddlers"
+          data-price="12.11"
+          data-category="Baby Feeding"
+          data-section-type="list"
+          data-section-name="oraimo Daily Deals"
+          data-select="1"
+        >
+          <div className="item-container">
+            <img
+              className="item-picture lazyloaded"
+              alt="Dual Therm Pink 750ML Large Capacity Insulated Water Bottle for Babies and Toddlers"
+              data-src="https://cdn-img.oraimo.com/fit-in/540x540/GH/product/2026/07/23/OBF-533B-LIGHTPINK.png"
+              src="/images/oraimo-3fdbaa8399c29ca0.webp"
+            />
+            <div className="item-tag" style={{ borderColor: "rgb(230,0,27)" }}>
+              <span
+                className="item-tag-content"
+                style={{ backgroundColor: "rgb(230,0,27)" }}
+              >
+                Flash Sale
+              </span>
+            </div>
+            <div className="item-review">
+              <span className="item-review-score">5.0</span>
+              <svg
+                width="18"
+                height="18"
+                viewBox="0 0 18 18"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+                className="item-review-star"
+              >
+                <path
+                  d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                  fill="#82E600"
+                ></path>
+              </svg>
+              <span className="item-review-count">(3)</span>
+            </div>
+          </div>
+          <div className="item-content">
+            <p className="item-title">
+              {" "}
+              Dual Therm Pink 750ML Large Capacity Insulated Water Bottle for
+              Babies and Toddlers
+            </p>
+            <p className="item-point">
+              <span className="item-point-container">
+                <img
+                  className="item-point-icon lazyloaded"
+                  alt="Dual Drinking: Straw & Sip"
+                  data-src="https://cdn-img.oraimo.com/GH/2026/07/23/dual-drinking-straw-and-sip.svg"
+                  src="/images/oraimo-df56cf25c305c6ec.svg"
+                />
+                <svg
+                  data-v-02c2eb76
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="20"
+                  height="20"
+                  viewBox="0 0 20 20"
+                  fill="none"
+                >
+                  <circle
+                    data-v-02c2eb76
+                    opacity="0.3"
+                    cx="10"
+                    cy="10"
+                    r="9.75"
+                    stroke="#EEEEEE"
+                    strokeWidth="0.5"
+                  ></circle>
+                </svg>
+              </span>
+              <span className="item-point-title">
+                Dual Drinking: Straw &amp; Sip
+              </span>
+            </p>
+            <div className="item-price">
+              <div className="item-price-main">
+                <span className="item-price-final">
+                  <span>₦ 17,550</span>
+                  <span className="item-price-discount sf-hidden">-19%</span>
+                </span>
+                <del className="item-price-market">₦ 21,570</del>
+              </div>
+              <span className="item-price-discount">-19%</span>
+            </div>
+          </div>
+        </a>
+        <a
+          data-v-4e36107e
+          href="https://ng.oraimo.com/trend?type=2&rank_id=0&category_id=1266&category_rank_type=1"
+          className="module-common-trend"
+        >
+          <svg
+            data-v-4e36107e
+            width="14"
+            height="14"
+            viewBox="0 0 14 14"
+            fill="none"
+            xmlns="http://www.w3.org/2000/svg"
+            className="trend-top"
+          >
+            <path
+              d="M0 1.75C0 0.783501 0.783502 0 1.75 0H12.25C13.2165 0 14 0.783502 14 1.75V9.71848C14 10.4071 13.5961 11.0317 12.9681 11.3143L7.71814 13.6768C7.26143 13.8824 6.73857 13.8824 6.28186 13.6768L1.03186 11.3143C0.403872 11.0317 0 10.4071 0 9.71848L0 1.75Z"
+              fill="url(#paint0_linear_10018_17757)"
+            ></path>
+            <path
+              d="M1.96875 0.765625H12.0312C12.6957 0.765625 13.2344 1.30428 13.2344 1.96875V9.61133C13.2344 10.0829 12.9585 10.5117 12.5293 10.707L7.49805 12.9971C7.18165 13.1409 6.81835 13.1409 6.50195 12.9971L1.4707 10.707C1.0415 10.5117 0.765625 10.0829 0.765625 9.61133V1.96875C0.765626 1.30428 1.30428 0.765625 1.96875 0.765625Z"
+              stroke="url(#paint1_linear_10018_17757)"
+              strokeWidth="0.21875"
+            ></path>
+            <path
+              d="M2.765 8.0625V4.3665H3.70475V8.0625H2.765ZM1.62575 5.14875V4.34025H4.844V5.14875H1.62575ZM6.90836 8.13075C6.62136 8.13075 6.35711 8.08175 6.11561 7.98375C5.87411 7.88575 5.66236 7.74925 5.48036 7.57425C5.30186 7.39925 5.16186 7.1945 5.06036 6.96C4.95886 6.722 4.90811 6.4665 4.90811 6.1935C4.90811 5.9205 4.95711 5.6685 5.05511 5.4375C5.15661 5.203 5.29661 4.99825 5.47511 4.82325C5.65361 4.64825 5.86361 4.5135 6.10511 4.419C6.34661 4.321 6.61086 4.272 6.89786 4.272C7.18486 4.272 7.44911 4.321 7.69061 4.419C7.93211 4.5135 8.14211 4.64825 8.32061 4.82325C8.49911 4.99825 8.63736 5.203 8.73536 5.4375C8.83686 5.672 8.88761 5.92575 8.88761 6.19875C8.88761 6.47175 8.83686 6.7255 8.73536 6.96C8.63736 7.1945 8.49911 7.401 8.32061 7.5795C8.14211 7.7545 7.93211 7.891 7.69061 7.989C7.45261 8.0835 7.19186 8.13075 6.90836 8.13075ZM6.89786 7.29075C7.10786 7.29075 7.28986 7.24525 7.44386 7.15425C7.59786 7.06325 7.71686 6.9355 7.80086 6.771C7.88486 6.6065 7.92686 6.414 7.92686 6.1935C7.92686 6.0325 7.90236 5.8855 7.85336 5.7525C7.80786 5.6195 7.73961 5.50575 7.64861 5.41125C7.55761 5.31325 7.44911 5.238 7.32311 5.1855C7.19711 5.133 7.05536 5.10675 6.89786 5.10675C6.68786 5.10675 6.50586 5.15225 6.35186 5.24325C6.19786 5.33075 6.07886 5.45675 5.99486 5.62125C5.91086 5.78575 5.86886 5.9765 5.86886 6.1935C5.86886 6.3615 5.89161 6.51375 5.93711 6.65025C5.98611 6.78325 6.05611 6.89875 6.14711 6.99675C6.23811 7.09125 6.34661 7.16475 6.47261 7.21725C6.59861 7.26625 6.74036 7.29075 6.89786 7.29075ZM10.1031 6.729V6.03075H10.8381C10.9291 6.03075 11.0114 6.01325 11.0849 5.97825C11.1619 5.93975 11.2231 5.88375 11.2686 5.81025C11.3141 5.73675 11.3369 5.64575 11.3369 5.53725C11.3369 5.42875 11.3141 5.33775 11.2686 5.26425C11.2231 5.18725 11.1619 5.13125 11.0849 5.09625C11.0114 5.05775 10.9291 5.0385 10.8381 5.0385H10.1031V4.34025H11.0009C11.2389 4.34025 11.4541 4.38925 11.6466 4.48725C11.8391 4.58175 11.9914 4.71825 12.1034 4.89675C12.2154 5.07175 12.2714 5.28525 12.2714 5.53725C12.2714 5.78225 12.2154 5.99575 12.1034 6.17775C11.9914 6.35625 11.8391 6.49275 11.6466 6.58725C11.4541 6.68175 11.2389 6.729 11.0009 6.729H10.1031ZM9.35761 8.0625V4.34025H10.2974V8.0625H9.35761Z"
+              fill="#923800"
+            ></path>
+            <defs>
+              <linearGradient
+                id="paint0_linear_10018_17757"
+                x1="1.53125"
+                y1="2.89655e-07"
+                x2="11.8125"
+                y2="12.25"
+                gradientUnits="userSpaceOnUse"
+              >
+                <stop stopColor="#FDC775"></stop>
+                <stop offset="0.528482" stopColor="#FFE7C6"></stop>
+                <stop offset="1" stopColor="#E7A85C"></stop>
+              </linearGradient>
+              <linearGradient
+                id="paint1_linear_10018_17757"
+                x1="7"
+                y1="0.65625"
+                x2="7"
+                y2="13.3438"
+                gradientUnits="userSpaceOnUse"
+              >
+                <stop stopColor="#D27F4B"></stop>
+                <stop offset="1" stopColor="#F1B55E"></stop>
+              </linearGradient>
+            </defs>
+          </svg>
+          <span data-v-4e36107e className="trend-name">
+            oraimo Baby Best Seller
+          </span>
+          <span data-v-4e36107e className="trend-rank">
+            #2
+          </span>
+          <svg
+            data-v-b958d155
+            data-v-4e36107e
+            xmlns="http://www.w3.org/2000/svg"
+            width="8"
+            height="8"
+            viewBox="0 0 8 8"
+            fill="none"
+            className="trend-arrow"
+          >
+            <path
+              data-v-b958d155
+              d="M2.6665 0.828125L5.83808 3.9997L2.6665 7.17127"
+              stroke="#9A3412"
+            ></path>
+          </svg>
+        </a>
+      </div>
+      <div className="site-item" data-id="3835">
+        <a
+          className="js_select_item js_load_item"
+          href="https://ng.oraimo.com/product/oraimo-watch-6-2.04%22-tft-ip68-smartwatch-osw-807?ean=4894947086137"
+          data-id="3835"
+          data-sku="OSW-807"
+          data-name='Watch 6 2.04" TFT IP68 Smart Watch'
+          data-price="19.87"
+          data-category="Smart Watches"
+          data-section-type="list"
+          data-section-name="oraimo Daily Deals"
+          data-select="1"
+        >
+          <div className="item-container">
+            <img
+              className="item-picture lazyloaded"
+              alt='Watch 6 2.04" TFT IP68 Smart Watch'
+              data-src="https://cdn-img.oraimo.com/fit-in/540x540/NG/product/2025/08/25/OSW-807.png"
+              src="/images/oraimo-1c4befdcad3926ed.webp"
+            />
+            <div className="item-review">
+              <span className="item-review-score">4.7</span>
+              <svg
+                width="18"
+                height="18"
+                viewBox="0 0 18 18"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+                className="item-review-star"
+              >
+                <path
+                  d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                  fill="#82E600"
+                ></path>
+              </svg>
+              <span className="item-review-count">(396)</span>
+            </div>
+            <div className="item-gift">
+              <img
+                className="item-gift-picture ls-is-cached lazyloaded"
+                alt="Watch Strap 06 Green Diamond Pattern Watch Strap"
+                data-src="https://cdn-img.oraimo.com/fit-in/360x360/BD/product/2026/07/23/WB-06-GREEN.png"
+                src="&#x27;data:image/svg+xml,&lt;svg"
+                width="360"
+                height="360"
+              />
+              <rect fillOpacity="0" />
+            </div>
+          </div>
+        </a>
+      </div>
+      '
+      style="background-blend-mode:normal!important;background-clip:content-box!important;background-position:50%
+      50%!important;background-color:rgb(255,255,255)!important;background-image:var(--sf-img-185)!important;background-size:100%
+      100%!important;background-origin:content-box!important;background-repeat:no-repeat!important"&gt;
+      <span className="item-gift-title">FREE GIFT</span>
+      <div className="item-content">
+        <p className="item-title"> Watch 6 2.04" TFT IP68 Smart Watch</p>
+        <p className="item-point">
+          <span className="item-point-container">
+            <img
+              className="item-point-icon ls-is-cached lazyloaded"
+              alt="AI-Generated Watch Faces"
+              data-src="https://cdn-img.oraimo.com/NG/2024/09/25/data-sync-with-app.svg"
+              src="/images/oraimo-4dc55aafa8dea5d1.svg"
+            />
+            <svg
+              data-v-02c2eb76
+              xmlns="http://www.w3.org/2000/svg"
+              width="20"
+              height="20"
+              viewBox="0 0 20 20"
+              fill="none"
+            >
+              <circle
+                data-v-02c2eb76
+                opacity="0.3"
+                cx="10"
+                cy="10"
+                r="9.75"
+                stroke="#EEEEEE"
+                strokeWidth="0.5"
+              ></circle>
+            </svg>
+          </span>
+          <span className="item-point-title">AI-Generated Watch Faces</span>
+        </p>
+        <div className="item-price">
+          <div className="item-price-main">
+            <span className="item-price-final">
+              <span>₦ 28,800</span>
+              <span className="item-price-discount sf-hidden">-10%</span>
+            </span>
+            <del className="item-price-market">₦ 32,000</del>
+          </div>
+          <span className="item-price-discount">-10%</span>
+        </div>
+      </div>
+      <div className="site-item" data-id="3996">
+        <a
+          className="js_select_item js_load_item"
+          href="https://ng.oraimo.com/product/oraimo-easyscent-botanical-essence-safe-solid-perfume-dual-chamber-ohs-011?ean=4894947094149"
+          data-id="3996"
+          data-sku="OHS-011"
+          data-name="EasyScent Modern Cologne Home/Car Use Solid Perfume"
+          data-price="11.66"
+          data-category="Household Supplies"
+          data-section-type="list"
+          data-section-name="oraimo Daily Deals"
+          data-select="1"
+        >
+          <div className="item-container">
+            <img
+              className="item-picture lazyloaded"
+              alt="EasyScent Modern Cologne Home/Car Use Solid Perfume"
+              data-src="https://cdn-img.oraimo.com/fit-in/540x540/CI/product/2025/09/11/OHS-011.png"
+              src="/images/oraimo-9e21a71bb1a54093.webp"
+            />
+            <div className="item-review">
+              <span className="item-review-score">4.7</span>
+              <svg
+                width="18"
+                height="18"
+                viewBox="0 0 18 18"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+                className="item-review-star"
+              >
+                <path
+                  d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                  fill="#82E600"
+                ></path>
+              </svg>
+              <span className="item-review-count">(84)</span>
+            </div>
+          </div>
+          <div className="item-content">
+            <p className="item-title">
+              {" "}
+              EasyScent Modern Cologne Home/Car Use Solid Perfume
+            </p>
+            <p className="item-point">
+              <span className="item-point-container">
+                <img
+                  className="item-point-icon lazyloaded"
+                  alt="Fragrance Crafted By Master Perfumers"
+                  data-src="https://cdn-img.oraimo.com/NG/2025/06/30/long-lasting-fragrance.svg"
+                  src="/images/oraimo-bcc7f2826bbb565a.svg"
+                />
+                <svg
+                  data-v-02c2eb76
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="20"
+                  height="20"
+                  viewBox="0 0 20 20"
+                  fill="none"
+                >
+                  <circle
+                    data-v-02c2eb76
+                    opacity="0.3"
+                    cx="10"
+                    cy="10"
+                    r="9.75"
+                    stroke="#EEEEEE"
+                    strokeWidth="0.5"
+                  ></circle>
+                </svg>
+              </span>
+              <span className="item-point-title">
+                Fragrance Crafted By Master Perfumers
+              </span>
+            </p>
+            <div className="item-price">
+              <div className="item-price-main">
+                <span className="item-price-final">
+                  <span>₦ 16,900</span>
+                  <span className="item-price-discount sf-hidden">-11%</span>
+                </span>
+                <del className="item-price-market">₦ 18,900</del>
+              </div>
+              <span className="item-price-discount">-11%</span>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div className="site-item" data-id="6714">
+        <a
+          className="js_select_item js_load_item"
+          href="https://ng.oraimo.com/product/oraimo-buddybag-pressure-relief-ergonomic-kids-school-backpack-obc-544a?ean=4894947125478"
+          data-id="6714"
+          data-sku="OBC-544A-DEEPBLUE"
+          data-name="BuddyBag Blue Pressure-Relief Ergonomic Kids School Backpack"
+          data-price="39.06"
+          data-category="Baby Care"
+          data-section-type="list"
+          data-section-name="oraimo Daily Deals"
+          data-select="1"
+        >
+          <div className="item-container">
+            <img
+              className="item-picture lazyloaded"
+              alt="BuddyBag Blue Pressure-Relief Ergonomic Kids School Backpack"
+              data-src="https://cdn-img.oraimo.com/fit-in/540x540/EG/product/2026/07/14/oraimo-kids-school-backpack-buddybag-obc-544a-mainimage.png"
+              src="/images/oraimo-24e60a135ca2dc26.webp"
+            />
+            <div className="item-tag" style={{ borderColor: "rgb(230,0,27)" }}>
+              <span
+                className="item-tag-content"
+                style={{ backgroundColor: "rgb(230,0,27)" }}
+              >
+                Flash Sale
+              </span>
+            </div>
+            <div className="item-review">
+              <span className="item-review-score">5.0</span>
+              <svg
+                width="18"
+                height="18"
+                viewBox="0 0 18 18"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+                className="item-review-star"
+              >
+                <path
+                  d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                  fill="#82E600"
+                ></path>
+              </svg>
+              <span className="item-review-count">(3)</span>
+            </div>
+          </div>
+          <div className="item-content">
+            <p className="item-title">
+              {" "}
+              BuddyBag Blue Pressure-Relief Ergonomic Kids School Backpack
+            </p>
+            <p className="item-point">
+              <span className="item-point-container">
+                <img
+                  className="item-point-icon lazyloaded"
+                  alt="Anti-Gravity Spine Support"
+                  data-src="https://cdn-img.oraimo.com/EG/2026/07/14/onti-g-anti-gravity-spine-support.svg"
+                  src="/images/oraimo-260006d798bb1639.svg"
+                />
+                <svg
+                  data-v-02c2eb76
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="20"
+                  height="20"
+                  viewBox="0 0 20 20"
+                  fill="none"
+                >
+                  <circle
+                    data-v-02c2eb76
+                    opacity="0.3"
+                    cx="10"
+                    cy="10"
+                    r="9.75"
+                    stroke="#EEEEEE"
+                    strokeWidth="0.5"
+                  ></circle>
+                </svg>
+              </span>
+              <span className="item-point-title">
+                Anti-Gravity Spine Support
+              </span>
+            </p>
+            <div className="item-price">
+              <div className="item-price-main">
+                <span className="item-price-final">
+                  <span>₦ 56,610</span>
+                  <span className="item-price-discount sf-hidden">-27%</span>
+                </span>
+                <del className="item-price-market">₦ 78,000</del>
+              </div>
+              <span className="item-price-discount">-27%</span>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div className="site-item" data-id="4347">
+        <a
+          className="js_select_item js_load_item"
+          href="https://ng.oraimo.com/product/oraimo-omniblend-up-to-21000-rpm-speed-blender-obl-581a?ean=4894947097447"
+          data-id="4347"
+          data-sku="OBL-581A"
+          data-name="OmniBlend 1500W 4-In-1 Multifunctional Blender"
+          data-price="71"
+          data-category="Blenders, Juicers & Grinders"
+          data-section-type="list"
+          data-section-name="oraimo Daily Deals"
+          data-select="1"
+        >
+          <div className="item-container">
+            <img
+              className="item-picture lazyloaded"
+              alt="OmniBlend 1500W 4-In-1 Multifunctional Blender"
+              data-src="https://cdn-img.oraimo.com/fit-in/540x540/CI/product/2025/10/17/OBL-581A-A1.png"
+              src="/images/oraimo-947ad10995d5ab02.webp"
+            />
+            <div className="item-review">
+              <span className="item-review-score">4.7</span>
+              <svg
+                width="18"
+                height="18"
+                viewBox="0 0 18 18"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+                className="item-review-star"
+              >
+                <path
+                  d="M8.30751 1.66495C8.56371 1.04898 9.43629 1.04898 9.69249 1.66495L11.2046 5.30051C11.3126 5.56019 11.5568 5.73761 11.8372 5.76009L15.7621 6.07475C16.4271 6.12806 16.6967 6.95794 16.19 7.39194L13.1997 9.9535C12.9861 10.1365 12.8928 10.4235 12.9581 10.6971L13.8717 14.5271C14.0265 15.1761 13.3205 15.689 12.7512 15.3412L9.39094 13.2888C9.15093 13.1422 8.84907 13.1422 8.60906 13.2888L5.2488 15.3412C4.67947 15.689 3.97354 15.1761 4.12833 14.5271L5.04193 10.6971C5.10719 10.4235 5.01391 10.1365 4.80032 9.9535L1.80996 7.39194C1.3033 6.95794 1.57295 6.12806 2.23794 6.07475L6.16284 5.76009C6.44318 5.73761 6.68739 5.56019 6.79539 5.30051L8.30751 1.66495Z"
+                  fill="#82E600"
+                ></path>
+              </svg>
+              <span className="item-review-count">(98)</span>
+            </div>
+          </div>
+          <div className="item-content">
+            <p className="item-title">
+              {" "}
+              OmniBlend 1500W 4-In-1 Multifunctional Blender
+            </p>
+            <p className="item-point">
+              <span className="item-point-container">
+                <img
+                  className="item-point-icon lazyloaded"
+                  alt="Dual speed knobs for versatile control"
+                  data-src="https://cdn-img.oraimo.com/KE/2025/10/17/dual-speed-knobs-for-versatile-control.svg"
+                  src="/images/oraimo-eade0d277ff7d4da.svg"
+                />
+                <svg
+                  data-v-02c2eb76
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="20"
+                  height="20"
+                  viewBox="0 0 20 20"
+                  fill="none"
+                >
+                  <circle
+                    data-v-02c2eb76
+                    opacity="0.3"
+                    cx="10"
+                    cy="10"
+                    r="9.75"
+                    stroke="#EEEEEE"
+                    strokeWidth="0.5"
+                  ></circle>
+                </svg>
+              </span>
+              <span className="item-point-title">
+                Dual speed knobs for versatile control
+              </span>
+            </p>
+            <div className="item-price">
+              <div className="item-price-main">
+                <span className="item-price-final">
+                  <span>₦ 102,900</span>
+                  <span className="item-price-discount sf-hidden">-10%</span>
+                </span>
+                <del className="item-price-market">₦ 114,400</del>
+              </div>
+              <span className="item-price-discount">-10%</span>
+            </div>
+          </div>
+        </a>
+      </div>
+    </>
+  );
+}
